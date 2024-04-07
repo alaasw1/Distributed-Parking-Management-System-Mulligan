@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../Customer/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../Customer/src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="corretto-19" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.1" level="project" />
+    <orderEntry type="module" module-name="Customer.main" scope="TEST" />
+  </component>
+</module>

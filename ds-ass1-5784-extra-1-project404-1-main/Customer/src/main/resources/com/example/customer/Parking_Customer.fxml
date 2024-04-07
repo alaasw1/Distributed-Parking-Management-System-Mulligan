@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:id="mmm" alignment="CENTER" prefHeight="471.0" prefWidth="450.0" spacing="10" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.customer.ParkingCustomerController">
+    <Label text="Parking Customer App" />
+   <Button fx:id="loadServersButton" mnemonicParsing="false" onAction="#handleLoadServers" text="Load Servers" />
+    <ComboBox fx:id="serverIPDropdown" onShowing="#handleOnShowingPickServerIpComboBox" prefWidth="150" promptText="Pick server's IP" />
+    <ComboBox fx:id="serverPortDropdown" onShowing="#handleOnShowingPickServerPortComboBox" prefWidth="150" promptText="pick server's port" />
+    <TextField fx:id="vehicleNumberInput" promptText="Enter Vehicle Number" />
+    <Button fx:id="submitVehicleIdButton" onAction="#handleSubmitVehicleId" text="Submit Vehicle ID" />
+    <TextField fx:id="parkingSpaceInput" promptText="Enter Parking Space Number" />
+    <Button onAction="#startParking" text="Start Parking" />
+    <Button onAction="#stopParking" text="Stop Parking" />
+    <TextArea fx:id="outputArea" />
+    <Button onAction="#viewParkingHistory" prefHeight="19.0" prefWidth="131.0" text="View Parking History" />
+</VBox>

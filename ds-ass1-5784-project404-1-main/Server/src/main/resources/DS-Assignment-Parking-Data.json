@@ -1,0 +1,8421 @@
+{
+  "vehicles" : [ {
+    "vehicleId" : 0,
+    "ownerName" : "Richard Hall",
+    "manufacturer" : "Spyker",
+    "model" : "Toyota Mark X ZiO",
+    "vin" : "449-30-391"
+  }, {
+    "vehicleId" : 1,
+    "ownerName" : "Donald Scott",
+    "manufacturer" : "Daewoo",
+    "model" : "Toyota Soarer",
+    "vin" : "154-94-509"
+  }, {
+    "vehicleId" : 2,
+    "ownerName" : "Douglas Mendoza",
+    "manufacturer" : "Mitsubishi",
+    "model" : "Toyota Sports EV Twin",
+    "vin" : "482-76-852"
+  }, {
+    "vehicleId" : 3,
+    "ownerName" : "Carl Chavez",
+    "manufacturer" : "Nissan",
+    "model" : "Toyota Carina",
+    "vin" : "505-57-971"
+  }, {
+    "vehicleId" : 4,
+    "ownerName" : "John Ramos",
+    "manufacturer" : "Ferrari",
+    "model" : "Toyota Isis",
+    "vin" : "313-31-382"
+  }, {
+    "vehicleId" : 5,
+    "ownerName" : "Joseph Stewart",
+    "manufacturer" : "Ferrari",
+    "model" : "Toyota Tercel (1978-1999)",
+    "vin" : "392-42-458"
+  }, {
+    "vehicleId" : 6,
+    "ownerName" : "Christopher Carter",
+    "manufacturer" : "SEAT",
+    "model" : "Toyota Hilux",
+    "vin" : "023-31-819"
+  }, {
+    "vehicleId" : 7,
+    "ownerName" : "Ralph Lewis",
+    "manufacturer" : "Lotus",
+    "model" : "Toyota Regius",
+    "vin" : "960-12-624"
+  }, {
+    "vehicleId" : 8,
+    "ownerName" : "Aaron Rivera",
+    "manufacturer" : "Hyundai",
+    "model" : "Toyota MR2",
+    "vin" : "385-99-878"
+  }, {
+    "vehicleId" : 9,
+    "ownerName" : "Joshua Phillips",
+    "manufacturer" : "Bufori",
+    "model" : "Toyota Aygo",
+    "vin" : "369-3-882"
+  }, {
+    "vehicleId" : 10,
+    "ownerName" : "Joe Anderson",
+    "manufacturer" : "Maxus",
+    "model" : "Toyota Sienna",
+    "vin" : "010-61-924"
+  }, {
+    "vehicleId" : 11,
+    "ownerName" : "John Torres",
+    "manufacturer" : "GAZ",
+    "model" : "Toyota Prius C concept",
+    "vin" : "258-2-810"
+  }, {
+    "vehicleId" : 12,
+    "ownerName" : "Austin Richardson",
+    "manufacturer" : "Chery",
+    "model" : "Toyota Opa",
+    "vin" : "061-2-462"
+  }, {
+    "vehicleId" : 13,
+    "ownerName" : "Bryan Anderson",
+    "manufacturer" : "Proton",
+    "model" : "Toyota Mark X ZiO",
+    "vin" : "798-41-819"
+  }, {
+    "vehicleId" : 14,
+    "ownerName" : "Brandon Young",
+    "manufacturer" : "Great Wall",
+    "model" : "Toyota Starlet GT Turbo",
+    "vin" : "690-15-188"
+  }, {
+    "vehicleId" : 15,
+    "ownerName" : "Richard Mitchell",
+    "manufacturer" : "Fisker",
+    "model" : "Toyota Wish",
+    "vin" : "594-56-314"
+  }, {
+    "vehicleId" : 16,
+    "ownerName" : "Charles Thomas",
+    "manufacturer" : "BAIC",
+    "model" : "Toyota Avanza Veloz",
+    "vin" : "711-40-296"
+  }, {
+    "vehicleId" : 17,
+    "ownerName" : "Nicholas James",
+    "manufacturer" : "Daewoo",
+    "model" : "Toyota Prius Plug-in Hybrid",
+    "vin" : "145-48-849"
+  }, {
+    "vehicleId" : 18,
+    "ownerName" : "Jesse Gonzales",
+    "manufacturer" : "Ford",
+    "model" : "Toyota Prado",
+    "vin" : "641-61-937"
+  }, {
+    "vehicleId" : 19,
+    "ownerName" : "Sean Smith",
+    "manufacturer" : "Lancia",
+    "model" : "Toyota Celica",
+    "vin" : "866-54-701"
+  }, {
+    "vehicleId" : 20,
+    "ownerName" : "Jordan Stewart",
+    "manufacturer" : "Abarth",
+    "model" : "Toyota Mark II",
+    "vin" : "027-70-512"
+  }, {
+    "vehicleId" : 21,
+    "ownerName" : "Gabriel Davis",
+    "manufacturer" : "Pontiac",
+    "model" : "Toyota 4500GT",
+    "vin" : "783-14-359"
+  }, {
+    "vehicleId" : 22,
+    "ownerName" : "Lawrence Morris",
+    "manufacturer" : "Dodge",
+    "model" : "Toyota MasterAce",
+    "vin" : "283-2-123"
+  }, {
+    "vehicleId" : 23,
+    "ownerName" : "Jason Ramirez",
+    "manufacturer" : "Smart",
+    "model" : "Toyota FT-1",
+    "vin" : "302-56-105"
+  }, {
+    "vehicleId" : 24,
+    "ownerName" : "Brandon Gonzales",
+    "manufacturer" : "Ferrari",
+    "model" : "Toyota Prius Plug-in Hybrid",
+    "vin" : "777-70-647"
+  }, {
+    "vehicleId" : 25,
+    "ownerName" : "Patrick Reed",
+    "manufacturer" : "Ariel",
+    "model" : "Toyota Avensis",
+    "vin" : "185-15-682"
+  }, {
+    "vehicleId" : 26,
+    "ownerName" : "Anthony Bailey",
+    "manufacturer" : "Toyota",
+    "model" : "Toyota Isis",
+    "vin" : "214-7-847"
+  }, {
+    "vehicleId" : 27,
+    "ownerName" : "Steven Thomas",
+    "manufacturer" : "Audi",
+    "model" : "Toyota Chaser",
+    "vin" : "236-39-249"
+  }, {
+    "vehicleId" : 28,
+    "ownerName" : "Philip Bennet",
+    "manufacturer" : "Dodge",
+    "model" : "Toyota Motor Triathlon Race Car",
+    "vin" : "258-41-70"
+  }, {
+    "vehicleId" : 29,
+    "ownerName" : "Walter Sanders",
+    "manufacturer" : "Lancia",
+    "model" : "Toyota Carina ED",
+    "vin" : "648-94-450"
+  }, {
+    "vehicleId" : 30,
+    "ownerName" : "Billy Gomez",
+    "manufacturer" : "Luxgen",
+    "model" : "Toyota Prius",
+    "vin" : "216-55-694"
+  }, {
+    "vehicleId" : 31,
+    "ownerName" : "Terry Sanders",
+    "manufacturer" : "Changan",
+    "model" : "Toyota Mark X",
+    "vin" : "193-53-781"
+  }, {
+    "vehicleId" : 32,
+    "ownerName" : "Walter Ross",
+    "manufacturer" : "Rivian",
+    "model" : "Toyota Chaser",
+    "vin" : "332-7-575"
+  }, {
+    "vehicleId" : 33,
+    "ownerName" : "Roy Jackson",
+    "manufacturer" : "Saab",
+    "model" : "Toyota Kijang",
+    "vin" : "267-16-782"
+  }, {
+    "vehicleId" : 34,
+    "ownerName" : "Richard Wood",
+    "manufacturer" : "Dodge",
+    "model" : "Toyota Wish",
+    "vin" : "786-61-331"
+  }, {
+    "vehicleId" : 35,
+    "ownerName" : "Daniel Miller",
+    "manufacturer" : "Volkswagen",
+    "model" : "Toyota Verossa",
+    "vin" : "336-23-674"
+  }, {
+    "vehicleId" : 36,
+    "ownerName" : "Richard Murphy",
+    "manufacturer" : "Zenos",
+    "model" : "Toyota Trekker",
+    "vin" : "679-11-605"
+  }, {
+    "vehicleId" : 37,
+    "ownerName" : "Keith Ruiz",
+    "manufacturer" : "Hino",
+    "model" : "Toyota Mark II",
+    "vin" : "920-39-771"
+  }, {
+    "vehicleId" : 38,
+    "ownerName" : "Nathan Peterson",
+    "manufacturer" : "Skoda",
+    "model" : "Toyota Porte",
+    "vin" : "650-75-170"
+  }, {
+    "vehicleId" : 39,
+    "ownerName" : "Michael Richardson",
+    "manufacturer" : "Rivian",
+    "model" : "Toyota Sai",
+    "vin" : "064-70-514"
+  }, {
+    "vehicleId" : 40,
+    "ownerName" : "George Walker",
+    "manufacturer" : "Dodge",
+    "model" : "Toyota Camry",
+    "vin" : "785-0-252"
+  }, {
+    "vehicleId" : 41,
+    "ownerName" : "Christopher Phillips",
+    "manufacturer" : "Morgan",
+    "model" : "Toyota Yaris HSD Concept",
+    "vin" : "380-72-616"
+  }, {
+    "vehicleId" : 42,
+    "ownerName" : "Eric Sanchez",
+    "manufacturer" : "Magna Steyr",
+    "model" : "Toyota Avensis",
+    "vin" : "598-31-710"
+  }, {
+    "vehicleId" : 43,
+    "ownerName" : "Joe Mitchell",
+    "manufacturer" : "Bugatti",
+    "model" : "Toyota Probox",
+    "vin" : "651-58-929"
+  }, {
+    "vehicleId" : 44,
+    "ownerName" : "Andrew Clark",
+    "manufacturer" : "NIO",
+    "model" : "Toyota Hiace",
+    "vin" : "894-22-675"
+  }, {
+    "vehicleId" : 45,
+    "ownerName" : "John Allen",
+    "manufacturer" : "Cadillac",
+    "model" : "Toyota Corona",
+    "vin" : "831-63-233"
+  }, {
+    "vehicleId" : 46,
+    "ownerName" : "Douglas Flores",
+    "manufacturer" : "Tesla",
+    "model" : "Toyota Prius C",
+    "vin" : "614-24-938"
+  }, {
+    "vehicleId" : 47,
+    "ownerName" : "Jonathan Sanders",
+    "manufacturer" : "Maserati",
+    "model" : "Toyota Yaris Verso",
+    "vin" : "519-54-764"
+  }, {
+    "vehicleId" : 48,
+    "ownerName" : "Frank Scott",
+    "manufacturer" : "Land Rover",
+    "model" : "Toyota Prius",
+    "vin" : "440-82-486"
+  }, {
+    "vehicleId" : 49,
+    "ownerName" : "Vincent Ramos",
+    "manufacturer" : "Ford",
+    "model" : "Toyota Wish",
+    "vin" : "888-1-646"
+  }, {
+    "vehicleId" : 50,
+    "ownerName" : "Steven Young",
+    "manufacturer" : "NIO",
+    "model" : "Toyota Calya",
+    "vin" : "353-38-153"
+  }, {
+    "vehicleId" : 51,
+    "ownerName" : "Zachary Edwards",
+    "manufacturer" : "Iconic",
+    "model" : "Toyota Chaser",
+    "vin" : "235-2-215"
+  }, {
+    "vehicleId" : 52,
+    "ownerName" : "Roger Hughes",
+    "manufacturer" : "Volvo",
+    "model" : "Toyota Land Cruiser",
+    "vin" : "142-62-833"
+  }, {
+    "vehicleId" : 53,
+    "ownerName" : "Alan Foster",
+    "manufacturer" : "JMC",
+    "model" : "Toyota Stout",
+    "vin" : "777-81-479"
+  }, {
+    "vehicleId" : 54,
+    "ownerName" : "Alexander Miller",
+    "manufacturer" : "Ariel",
+    "model" : "Toyota Aygo",
+    "vin" : "296-39-664"
+  }, {
+    "vehicleId" : 55,
+    "ownerName" : "Douglas Williams",
+    "manufacturer" : "Morgan",
+    "model" : "Toyota Mark X ZiO",
+    "vin" : "095-3-594"
+  }, {
+    "vehicleId" : 56,
+    "ownerName" : "Thomas Lopez",
+    "manufacturer" : "Bugatti",
+    "model" : "Toyota Hybrid X",
+    "vin" : "256-6-431"
+  }, {
+    "vehicleId" : 57,
+    "ownerName" : "Alexander Allen",
+    "manufacturer" : "Alfa Romeo",
+    "model" : "Toyota Starlet (1973-1999)",
+    "vin" : "527-71-774"
+  }, {
+    "vehicleId" : 58,
+    "ownerName" : "Kevin Sanchez",
+    "manufacturer" : "Fisker",
+    "model" : "Toyota Land Cruiser Prado",
+    "vin" : "743-30-312"
+  }, {
+    "vehicleId" : 59,
+    "ownerName" : "Alan Morris",
+    "manufacturer" : "Toyota",
+    "model" : "Toyota FT-1",
+    "vin" : "512-12-712"
+  }, {
+    "vehicleId" : 60,
+    "ownerName" : "Nicholas Reyes",
+    "manufacturer" : "Tesla",
+    "model" : "Toyota Probox",
+    "vin" : "367-50-649"
+  }, {
+    "vehicleId" : 61,
+    "ownerName" : "Austin Green",
+    "manufacturer" : "Ascari",
+    "model" : "Toyota Sera (1990-1995)",
+    "vin" : "073-44-449"
+  }, {
+    "vehicleId" : 62,
+    "ownerName" : "Albert Adams",
+    "manufacturer" : "Morgan",
+    "model" : "Toyota Limo",
+    "vin" : "816-82-273"
+  }, {
+    "vehicleId" : 63,
+    "ownerName" : "Albert Sanchez",
+    "manufacturer" : "Zenvo",
+    "model" : "Toyota Prius Plug-in Hybrid",
+    "vin" : "015-99-101"
+  }, {
+    "vehicleId" : 64,
+    "ownerName" : "Joshua Baker",
+    "manufacturer" : "Daihatsu",
+    "model" : "Toyota Supra",
+    "vin" : "011-17-642"
+  }, {
+    "vehicleId" : 65,
+    "ownerName" : "Paul Mitchell",
+    "manufacturer" : "Bristol",
+    "model" : "Toyota Calya",
+    "vin" : "899-83-426"
+  }, {
+    "vehicleId" : 66,
+    "ownerName" : "Thomas Martinez",
+    "manufacturer" : "Byton",
+    "model" : "Toyota QuickDelivery",
+    "vin" : "338-17-138"
+  }, {
+    "vehicleId" : 67,
+    "ownerName" : "Bobby Clark",
+    "manufacturer" : "Caterham",
+    "model" : "Toyota Vanguard",
+    "vin" : "117-15-994"
+  }, {
+    "vehicleId" : 68,
+    "ownerName" : "Joshua Alvarez",
+    "manufacturer" : "Audi",
+    "model" : "Toyota Hiace",
+    "vin" : "686-49-191"
+  }, {
+    "vehicleId" : 69,
+    "ownerName" : "Sean Gomez",
+    "manufacturer" : "W Motors",
+    "model" : "Toyota LiteAce",
+    "vin" : "799-98-36"
+  }, {
+    "vehicleId" : 70,
+    "ownerName" : "Alexander Garcia",
+    "manufacturer" : "Bentley",
+    "model" : "Toyota Starlet GT Turbo",
+    "vin" : "087-91-596"
+  }, {
+    "vehicleId" : 71,
+    "ownerName" : "Thomas Rodriguez",
+    "manufacturer" : "Citroen",
+    "model" : "Toyota Carina",
+    "vin" : "229-54-198"
+  }, {
+    "vehicleId" : 72,
+    "ownerName" : "Kevin Campbell",
+    "manufacturer" : "Landwind",
+    "model" : "Toyota eCom",
+    "vin" : "717-55-148"
+  }, {
+    "vehicleId" : 73,
+    "ownerName" : "Philip Reyes",
+    "manufacturer" : "JAC",
+    "model" : "Toyota Celica",
+    "vin" : "784-70-741"
+  }, {
+    "vehicleId" : 74,
+    "ownerName" : "Frank Castillo",
+    "manufacturer" : "Proton",
+    "model" : "Toyota Vanguard",
+    "vin" : "828-23-166"
+  }, {
+    "vehicleId" : 75,
+    "ownerName" : "William Parker",
+    "manufacturer" : "W Motors",
+    "model" : "Toyota Hybrid X",
+    "vin" : "485-19-36"
+  }, {
+    "vehicleId" : 76,
+    "ownerName" : "Noah Hall",
+    "manufacturer" : "Buick",
+    "model" : "Toyota FTX",
+    "vin" : "830-59-842"
+  }, {
+    "vehicleId" : 77,
+    "ownerName" : "Harold Baker",
+    "manufacturer" : "Saab",
+    "model" : "Toyota Carina",
+    "vin" : "675-69-659"
+  }, {
+    "vehicleId" : 78,
+    "ownerName" : "Alexander White",
+    "manufacturer" : "GAZ",
+    "model" : "Toyota Crown Comfort LPG",
+    "vin" : "505-16-234"
+  }, {
+    "vehicleId" : 79,
+    "ownerName" : "Louis Nguyen",
+    "manufacturer" : "JAC",
+    "model" : "Toyota Camry Hybrid",
+    "vin" : "418-81-716"
+  }, {
+    "vehicleId" : 80,
+    "ownerName" : "Ronald Cox",
+    "manufacturer" : "Infiniti",
+    "model" : "Toyota 86",
+    "vin" : "844-21-126"
+  }, {
+    "vehicleId" : 81,
+    "ownerName" : "Richard Ross",
+    "manufacturer" : "Hino",
+    "model" : "Toyota Venza",
+    "vin" : "331-33-644"
+  }, {
+    "vehicleId" : 82,
+    "ownerName" : "Philip Foster",
+    "manufacturer" : "Saleen",
+    "model" : "Toyota Previa",
+    "vin" : "752-84-885"
+  }, {
+    "vehicleId" : 83,
+    "ownerName" : "Willie Cruz",
+    "manufacturer" : "Citroen",
+    "model" : "Toyota Tacoma",
+    "vin" : "775-50-272"
+  }, {
+    "vehicleId" : 84,
+    "ownerName" : "Aaron Reed",
+    "manufacturer" : "Rivian",
+    "model" : "Toyota Matrix",
+    "vin" : "575-7-163"
+  }, {
+    "vehicleId" : 85,
+    "ownerName" : "Zachary Foster",
+    "manufacturer" : "Foton",
+    "model" : "Toyota Grand Hiace",
+    "vin" : "553-22-549"
+  }, {
+    "vehicleId" : 86,
+    "ownerName" : "Joshua Howard",
+    "manufacturer" : "Spyker",
+    "model" : "Toyota Opa",
+    "vin" : "635-94-198"
+  }, {
+    "vehicleId" : 87,
+    "ownerName" : "Keith Nguyen",
+    "manufacturer" : "Alpine",
+    "model" : "Toyota Caldina",
+    "vin" : "922-46-716"
+  }, {
+    "vehicleId" : 88,
+    "ownerName" : "Russell Evans",
+    "manufacturer" : "Rivian",
+    "model" : "Toyota Hiace",
+    "vin" : "440-53-455"
+  }, {
+    "vehicleId" : 89,
+    "ownerName" : "Roger Myers",
+    "manufacturer" : "Audi",
+    "model" : "Toyota Rav4",
+    "vin" : "373-49-270"
+  }, {
+    "vehicleId" : 90,
+    "ownerName" : "Roy Kelly",
+    "manufacturer" : "Citroen",
+    "model" : "Toyota Avanza Veloz",
+    "vin" : "919-70-5"
+  }, {
+    "vehicleId" : 91,
+    "ownerName" : "Jerry Johnson",
+    "manufacturer" : "Wiesmann",
+    "model" : "Toyota Origin",
+    "vin" : "476-21-713"
+  }, {
+    "vehicleId" : 92,
+    "ownerName" : "Adam Taylor",
+    "manufacturer" : "Cadillac",
+    "model" : "Toyota RSC",
+    "vin" : "401-15-44"
+  }, {
+    "vehicleId" : 93,
+    "ownerName" : "Scott Jimenez",
+    "manufacturer" : "Subaru",
+    "model" : "Toyota 4Runner",
+    "vin" : "259-41-888"
+  }, {
+    "vehicleId" : 94,
+    "ownerName" : "Kyle Clark",
+    "manufacturer" : "Land Rover",
+    "model" : "Toyota Mark X ZiO",
+    "vin" : "749-63-260"
+  }, {
+    "vehicleId" : 95,
+    "ownerName" : "Willie Rodriguez",
+    "manufacturer" : "Scion",
+    "model" : "Toyota Land Cruiser Prado",
+    "vin" : "546-29-631"
+  }, {
+    "vehicleId" : 96,
+    "ownerName" : "Bryan Peterson",
+    "manufacturer" : "Daewoo",
+    "model" : "Toyota Vanguard",
+    "vin" : "691-82-357"
+  }, {
+    "vehicleId" : 97,
+    "ownerName" : "Roy Kelly",
+    "manufacturer" : "Bristol",
+    "model" : "Toyota Mark II Blit",
+    "vin" : "758-39-773"
+  }, {
+    "vehicleId" : 98,
+    "ownerName" : "Jerry Gonzales",
+    "manufacturer" : "Smart",
+    "model" : "Toyota Mark X",
+    "vin" : "320-29-947"
+  }, {
+    "vehicleId" : 99,
+    "ownerName" : "Ryan Young",
+    "manufacturer" : "Daewoo",
+    "model" : "Toyota eCom",
+    "vin" : "756-78-606"
+  } ],
+  "parkingZones" : [ {
+    "zoneId" : 0,
+    "hourlyRate" : 13,
+    "zoneName" : "Herzliya",
+    "maxParkingMinutes" : 578
+  }, {
+    "zoneId" : 1,
+    "hourlyRate" : 9,
+    "zoneName" : "Ramat HaSharon",
+    "maxParkingMinutes" : 70
+  }, {
+    "zoneId" : 2,
+    "hourlyRate" : 1,
+    "zoneName" : "Arraba",
+    "maxParkingMinutes" : 238
+  }, {
+    "zoneId" : 3,
+    "hourlyRate" : 14,
+    "zoneName" : "Ofakim",
+    "maxParkingMinutes" : 839
+  }, {
+    "zoneId" : 4,
+    "hourlyRate" : 7,
+    "zoneName" : "Modi'in-Maccabim-Re'ut",
+    "maxParkingMinutes" : 889
+  }, {
+    "zoneId" : 5,
+    "hourlyRate" : 1,
+    "zoneName" : "Rosh HaAyin",
+    "maxParkingMinutes" : 1158
+  }, {
+    "zoneId" : 6,
+    "hourlyRate" : 7,
+    "zoneName" : "Kiryat Gat",
+    "maxParkingMinutes" : 1136
+  }, {
+    "zoneId" : 7,
+    "hourlyRate" : 8,
+    "zoneName" : "Tel Aviv-Yafo",
+    "maxParkingMinutes" : 746
+  }, {
+    "zoneId" : 8,
+    "hourlyRate" : 6,
+    "zoneName" : "Safed",
+    "maxParkingMinutes" : 792
+  }, {
+    "zoneId" : 9,
+    "hourlyRate" : 7,
+    "zoneName" : "Eilat",
+    "maxParkingMinutes" : 1319
+  }, {
+    "zoneId" : 10,
+    "hourlyRate" : 8,
+    "zoneName" : "Umm al-Fahm",
+    "maxParkingMinutes" : 1063
+  }, {
+    "zoneId" : 11,
+    "hourlyRate" : 10,
+    "zoneName" : "Jerusalem",
+    "maxParkingMinutes" : 1203
+  }, {
+    "zoneId" : 12,
+    "hourlyRate" : 11,
+    "zoneName" : "Shefa-'Amr",
+    "maxParkingMinutes" : 798
+  }, {
+    "zoneId" : 13,
+    "hourlyRate" : 8,
+    "zoneName" : "Ness Ziona",
+    "maxParkingMinutes" : 1076
+  }, {
+    "zoneId" : 14,
+    "hourlyRate" : 5,
+    "zoneName" : "Bnei Brak",
+    "maxParkingMinutes" : 704
+  }, {
+    "zoneId" : 15,
+    "hourlyRate" : 10,
+    "zoneName" : "Tirat Carmel",
+    "maxParkingMinutes" : 1015
+  }, {
+    "zoneId" : 16,
+    "hourlyRate" : 7,
+    "zoneName" : "Sderot",
+    "maxParkingMinutes" : 331
+  }, {
+    "zoneId" : 17,
+    "hourlyRate" : 4,
+    "zoneName" : "Migdal HaEmek",
+    "maxParkingMinutes" : 255
+  }, {
+    "zoneId" : 18,
+    "hourlyRate" : 5,
+    "zoneName" : "Umm al-Fahm",
+    "maxParkingMinutes" : 586
+  }, {
+    "zoneId" : 19,
+    "hourlyRate" : 8,
+    "zoneName" : "Sakhnin",
+    "maxParkingMinutes" : 411
+  }, {
+    "zoneId" : 20,
+    "hourlyRate" : 6,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 244
+  }, {
+    "zoneId" : 21,
+    "hourlyRate" : 13,
+    "zoneName" : "Baqa al-Gharbiyye",
+    "maxParkingMinutes" : 69
+  }, {
+    "zoneId" : 22,
+    "hourlyRate" : 1,
+    "zoneName" : "Umm al-Fahm",
+    "maxParkingMinutes" : 101
+  }, {
+    "zoneId" : 23,
+    "hourlyRate" : 1,
+    "zoneName" : "Beit She'an",
+    "maxParkingMinutes" : 1434
+  }, {
+    "zoneId" : 24,
+    "hourlyRate" : 14,
+    "zoneName" : "Ashkelon",
+    "maxParkingMinutes" : 1433
+  }, {
+    "zoneId" : 25,
+    "hourlyRate" : 2,
+    "zoneName" : "Qalansawe",
+    "maxParkingMinutes" : 2
+  }, {
+    "zoneId" : 26,
+    "hourlyRate" : 3,
+    "zoneName" : "Beersheba",
+    "maxParkingMinutes" : 447
+  }, {
+    "zoneId" : 27,
+    "hourlyRate" : 12,
+    "zoneName" : "Jerusalem",
+    "maxParkingMinutes" : 1214
+  }, {
+    "zoneId" : 28,
+    "hourlyRate" : 15,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 956
+  }, {
+    "zoneId" : 29,
+    "hourlyRate" : 12,
+    "zoneName" : "Givatayim",
+    "maxParkingMinutes" : 254
+  }, {
+    "zoneId" : 30,
+    "hourlyRate" : 2,
+    "zoneName" : "Yehud-Monosson",
+    "maxParkingMinutes" : 866
+  }, {
+    "zoneId" : 31,
+    "hourlyRate" : 5,
+    "zoneName" : "Eilat",
+    "maxParkingMinutes" : 191
+  }, {
+    "zoneId" : 32,
+    "hourlyRate" : 12,
+    "zoneName" : "Yokneam Illit",
+    "maxParkingMinutes" : 436
+  }, {
+    "zoneId" : 33,
+    "hourlyRate" : 10,
+    "zoneName" : "Netanya",
+    "maxParkingMinutes" : 347
+  }, {
+    "zoneId" : 34,
+    "hourlyRate" : 8,
+    "zoneName" : "Ofakim",
+    "maxParkingMinutes" : 50
+  }, {
+    "zoneId" : 35,
+    "hourlyRate" : 8,
+    "zoneName" : "Afula",
+    "maxParkingMinutes" : 1156
+  }, {
+    "zoneId" : 36,
+    "hourlyRate" : 5,
+    "zoneName" : "Kiryat Malakhi",
+    "maxParkingMinutes" : 1352
+  }, {
+    "zoneId" : 37,
+    "hourlyRate" : 15,
+    "zoneName" : "Givatayim",
+    "maxParkingMinutes" : 386
+  }, {
+    "zoneId" : 38,
+    "hourlyRate" : 1,
+    "zoneName" : "Kiryat Shmona",
+    "maxParkingMinutes" : 699
+  }, {
+    "zoneId" : 39,
+    "hourlyRate" : 12,
+    "zoneName" : "Tayibe",
+    "maxParkingMinutes" : 636
+  }, {
+    "zoneId" : 40,
+    "hourlyRate" : 1,
+    "zoneName" : "Rishon LeZion",
+    "maxParkingMinutes" : 990
+  }, {
+    "zoneId" : 41,
+    "hourlyRate" : 1,
+    "zoneName" : "Beit She'an",
+    "maxParkingMinutes" : 882
+  }, {
+    "zoneId" : 42,
+    "hourlyRate" : 1,
+    "zoneName" : "Yavne",
+    "maxParkingMinutes" : 1008
+  }, {
+    "zoneId" : 43,
+    "hourlyRate" : 3,
+    "zoneName" : "Eilat",
+    "maxParkingMinutes" : 416
+  }, {
+    "zoneId" : 44,
+    "hourlyRate" : 1,
+    "zoneName" : "Rahat",
+    "maxParkingMinutes" : 602
+  }, {
+    "zoneId" : 45,
+    "hourlyRate" : 12,
+    "zoneName" : "Tamra",
+    "maxParkingMinutes" : 397
+  }, {
+    "zoneId" : 46,
+    "hourlyRate" : 15,
+    "zoneName" : "Yavne",
+    "maxParkingMinutes" : 343
+  }, {
+    "zoneId" : 47,
+    "hourlyRate" : 6,
+    "zoneName" : "Hadera",
+    "maxParkingMinutes" : 624
+  }, {
+    "zoneId" : 48,
+    "hourlyRate" : 12,
+    "zoneName" : "Kiryat Shmona",
+    "maxParkingMinutes" : 1324
+  }, {
+    "zoneId" : 49,
+    "hourlyRate" : 12,
+    "zoneName" : "Jerusalem",
+    "maxParkingMinutes" : 1191
+  }, {
+    "zoneId" : 50,
+    "hourlyRate" : 9,
+    "zoneName" : "Tirat Carmel",
+    "maxParkingMinutes" : 233
+  }, {
+    "zoneId" : 51,
+    "hourlyRate" : 6,
+    "zoneName" : "Ashkelon",
+    "maxParkingMinutes" : 1392
+  }, {
+    "zoneId" : 52,
+    "hourlyRate" : 7,
+    "zoneName" : "Kfar Saba",
+    "maxParkingMinutes" : 490
+  }, {
+    "zoneId" : 53,
+    "hourlyRate" : 10,
+    "zoneName" : "Netanya",
+    "maxParkingMinutes" : 404
+  }, {
+    "zoneId" : 54,
+    "hourlyRate" : 15,
+    "zoneName" : "Or Akiva",
+    "maxParkingMinutes" : 157
+  }, {
+    "zoneId" : 55,
+    "hourlyRate" : 6,
+    "zoneName" : "Modi'in-Maccabim-Re'ut",
+    "maxParkingMinutes" : 38
+  }, {
+    "zoneId" : 56,
+    "hourlyRate" : 8,
+    "zoneName" : "Yokneam Illit",
+    "maxParkingMinutes" : 1124
+  }, {
+    "zoneId" : 57,
+    "hourlyRate" : 9,
+    "zoneName" : "Eilat",
+    "maxParkingMinutes" : 244
+  }, {
+    "zoneId" : 58,
+    "hourlyRate" : 15,
+    "zoneName" : "Kfar Saba",
+    "maxParkingMinutes" : 684
+  }, {
+    "zoneId" : 59,
+    "hourlyRate" : 12,
+    "zoneName" : "Hadera",
+    "maxParkingMinutes" : 570
+  }, {
+    "zoneId" : 60,
+    "hourlyRate" : 9,
+    "zoneName" : "Sderot",
+    "maxParkingMinutes" : 29
+  }, {
+    "zoneId" : 61,
+    "hourlyRate" : 8,
+    "zoneName" : "Haifa",
+    "maxParkingMinutes" : 1413
+  }, {
+    "zoneId" : 62,
+    "hourlyRate" : 12,
+    "zoneName" : "Kiryat Yam",
+    "maxParkingMinutes" : 1080
+  }, {
+    "zoneId" : 63,
+    "hourlyRate" : 7,
+    "zoneName" : "Karmiel",
+    "maxParkingMinutes" : 562
+  }, {
+    "zoneId" : 64,
+    "hourlyRate" : 9,
+    "zoneName" : "Tayibe",
+    "maxParkingMinutes" : 1311
+  }, {
+    "zoneId" : 65,
+    "hourlyRate" : 7,
+    "zoneName" : "Hod HaSharon",
+    "maxParkingMinutes" : 1262
+  }, {
+    "zoneId" : 66,
+    "hourlyRate" : 7,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 1070
+  }, {
+    "zoneId" : 67,
+    "hourlyRate" : 9,
+    "zoneName" : "Kiryat Ata",
+    "maxParkingMinutes" : 1360
+  }, {
+    "zoneId" : 68,
+    "hourlyRate" : 14,
+    "zoneName" : "Sakhnin",
+    "maxParkingMinutes" : 271
+  }, {
+    "zoneId" : 69,
+    "hourlyRate" : 15,
+    "zoneName" : "Ofakim",
+    "maxParkingMinutes" : 971
+  }, {
+    "zoneId" : 70,
+    "hourlyRate" : 1,
+    "zoneName" : "Dimona",
+    "maxParkingMinutes" : 1011
+  }, {
+    "zoneId" : 71,
+    "hourlyRate" : 7,
+    "zoneName" : "Holon",
+    "maxParkingMinutes" : 498
+  }, {
+    "zoneId" : 72,
+    "hourlyRate" : 8,
+    "zoneName" : "Bat Yam",
+    "maxParkingMinutes" : 136
+  }, {
+    "zoneId" : 73,
+    "hourlyRate" : 6,
+    "zoneName" : "Beersheba",
+    "maxParkingMinutes" : 1378
+  }, {
+    "zoneId" : 74,
+    "hourlyRate" : 10,
+    "zoneName" : "Qalansawe",
+    "maxParkingMinutes" : 1252
+  }, {
+    "zoneId" : 75,
+    "hourlyRate" : 8,
+    "zoneName" : "Kfar Yona",
+    "maxParkingMinutes" : 460
+  }, {
+    "zoneId" : 76,
+    "hourlyRate" : 13,
+    "zoneName" : "Beersheba",
+    "maxParkingMinutes" : 107
+  }, {
+    "zoneId" : 77,
+    "hourlyRate" : 6,
+    "zoneName" : "Or Yehuda",
+    "maxParkingMinutes" : 618
+  }, {
+    "zoneId" : 78,
+    "hourlyRate" : 1,
+    "zoneName" : "Netivot",
+    "maxParkingMinutes" : 606
+  }, {
+    "zoneId" : 79,
+    "hourlyRate" : 9,
+    "zoneName" : "Beit She'an",
+    "maxParkingMinutes" : 76
+  }, {
+    "zoneId" : 80,
+    "hourlyRate" : 1,
+    "zoneName" : "Beit She'an",
+    "maxParkingMinutes" : 1115
+  }, {
+    "zoneId" : 81,
+    "hourlyRate" : 15,
+    "zoneName" : "Tirat Carmel",
+    "maxParkingMinutes" : 731
+  }, {
+    "zoneId" : 82,
+    "hourlyRate" : 11,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 37
+  }, {
+    "zoneId" : 83,
+    "hourlyRate" : 8,
+    "zoneName" : "Sderot",
+    "maxParkingMinutes" : 627
+  }, {
+    "zoneId" : 84,
+    "hourlyRate" : 3,
+    "zoneName" : "Kiryat Malakhi",
+    "maxParkingMinutes" : 1391
+  }, {
+    "zoneId" : 85,
+    "hourlyRate" : 1,
+    "zoneName" : "Rishon LeZion",
+    "maxParkingMinutes" : 926
+  }, {
+    "zoneId" : 86,
+    "hourlyRate" : 1,
+    "zoneName" : "Tiberias",
+    "maxParkingMinutes" : 616
+  }, {
+    "zoneId" : 87,
+    "hourlyRate" : 2,
+    "zoneName" : "Herzliya",
+    "maxParkingMinutes" : 1365
+  }, {
+    "zoneId" : 88,
+    "hourlyRate" : 2,
+    "zoneName" : "Acre",
+    "maxParkingMinutes" : 488
+  }, {
+    "zoneId" : 89,
+    "hourlyRate" : 5,
+    "zoneName" : "Migdal HaEmek",
+    "maxParkingMinutes" : 761
+  }, {
+    "zoneId" : 90,
+    "hourlyRate" : 3,
+    "zoneName" : "Holon",
+    "maxParkingMinutes" : 234
+  }, {
+    "zoneId" : 91,
+    "hourlyRate" : 5,
+    "zoneName" : "Rahat",
+    "maxParkingMinutes" : 821
+  }, {
+    "zoneId" : 92,
+    "hourlyRate" : 8,
+    "zoneName" : "Rosh HaAyin",
+    "maxParkingMinutes" : 1289
+  }, {
+    "zoneId" : 93,
+    "hourlyRate" : 3,
+    "zoneName" : "Givatayim",
+    "maxParkingMinutes" : 1023
+  }, {
+    "zoneId" : 94,
+    "hourlyRate" : 13,
+    "zoneName" : "Or Yehuda",
+    "maxParkingMinutes" : 676
+  }, {
+    "zoneId" : 95,
+    "hourlyRate" : 3,
+    "zoneName" : "Rishon LeZion",
+    "maxParkingMinutes" : 262
+  }, {
+    "zoneId" : 96,
+    "hourlyRate" : 14,
+    "zoneName" : "Karmiel",
+    "maxParkingMinutes" : 1262
+  }, {
+    "zoneId" : 97,
+    "hourlyRate" : 2,
+    "zoneName" : "Ramat Gan",
+    "maxParkingMinutes" : 602
+  }, {
+    "zoneId" : 98,
+    "hourlyRate" : 1,
+    "zoneName" : "Ra'anana",
+    "maxParkingMinutes" : 14
+  }, {
+    "zoneId" : 99,
+    "hourlyRate" : 8,
+    "zoneName" : "Kiryat Gat",
+    "maxParkingMinutes" : 489
+  }, {
+    "zoneId" : 100,
+    "hourlyRate" : 1,
+    "zoneName" : "Kiryat Yam",
+    "maxParkingMinutes" : 957
+  }, {
+    "zoneId" : 101,
+    "hourlyRate" : 3,
+    "zoneName" : "Kiryat Gat",
+    "maxParkingMinutes" : 638
+  }, {
+    "zoneId" : 102,
+    "hourlyRate" : 13,
+    "zoneName" : "Rahat",
+    "maxParkingMinutes" : 613
+  }, {
+    "zoneId" : 103,
+    "hourlyRate" : 1,
+    "zoneName" : "Safed",
+    "maxParkingMinutes" : 775
+  }, {
+    "zoneId" : 104,
+    "hourlyRate" : 7,
+    "zoneName" : "Tiberias",
+    "maxParkingMinutes" : 833
+  }, {
+    "zoneId" : 105,
+    "hourlyRate" : 6,
+    "zoneName" : "Ra'anana",
+    "maxParkingMinutes" : 371
+  }, {
+    "zoneId" : 106,
+    "hourlyRate" : 3,
+    "zoneName" : "Kiryat Malakhi",
+    "maxParkingMinutes" : 655
+  }, {
+    "zoneId" : 107,
+    "hourlyRate" : 9,
+    "zoneName" : "Kiryat Yam",
+    "maxParkingMinutes" : 116
+  }, {
+    "zoneId" : 108,
+    "hourlyRate" : 10,
+    "zoneName" : "Ramla",
+    "maxParkingMinutes" : 93
+  }, {
+    "zoneId" : 109,
+    "hourlyRate" : 9,
+    "zoneName" : "Nesher",
+    "maxParkingMinutes" : 1159
+  }, {
+    "zoneId" : 110,
+    "hourlyRate" : 9,
+    "zoneName" : "Givatayim",
+    "maxParkingMinutes" : 226
+  }, {
+    "zoneId" : 111,
+    "hourlyRate" : 7,
+    "zoneName" : "Baqa al-Gharbiyye",
+    "maxParkingMinutes" : 904
+  }, {
+    "zoneId" : 112,
+    "hourlyRate" : 15,
+    "zoneName" : "El'ad",
+    "maxParkingMinutes" : 261
+  }, {
+    "zoneId" : 113,
+    "hourlyRate" : 9,
+    "zoneName" : "Beit Shemesh",
+    "maxParkingMinutes" : 1270
+  }, {
+    "zoneId" : 114,
+    "hourlyRate" : 2,
+    "zoneName" : "Qalansawe",
+    "maxParkingMinutes" : 811
+  }, {
+    "zoneId" : 115,
+    "hourlyRate" : 5,
+    "zoneName" : "Sderot",
+    "maxParkingMinutes" : 321
+  }, {
+    "zoneId" : 116,
+    "hourlyRate" : 15,
+    "zoneName" : "Yokneam Illit",
+    "maxParkingMinutes" : 1327
+  }, {
+    "zoneId" : 117,
+    "hourlyRate" : 11,
+    "zoneName" : "Sderot",
+    "maxParkingMinutes" : 1311
+  }, {
+    "zoneId" : 118,
+    "hourlyRate" : 2,
+    "zoneName" : "Or Yehuda",
+    "maxParkingMinutes" : 979
+  }, {
+    "zoneId" : 119,
+    "hourlyRate" : 15,
+    "zoneName" : "Or Akiva",
+    "maxParkingMinutes" : 353
+  }, {
+    "zoneId" : 120,
+    "hourlyRate" : 5,
+    "zoneName" : "Kafr Qasim",
+    "maxParkingMinutes" : 112
+  }, {
+    "zoneId" : 121,
+    "hourlyRate" : 8,
+    "zoneName" : "Eilat",
+    "maxParkingMinutes" : 205
+  }, {
+    "zoneId" : 122,
+    "hourlyRate" : 6,
+    "zoneName" : "Jerusalem",
+    "maxParkingMinutes" : 1028
+  }, {
+    "zoneId" : 123,
+    "hourlyRate" : 2,
+    "zoneName" : "Tira",
+    "maxParkingMinutes" : 360
+  }, {
+    "zoneId" : 124,
+    "hourlyRate" : 2,
+    "zoneName" : "Kiryat Shmona",
+    "maxParkingMinutes" : 972
+  }, {
+    "zoneId" : 125,
+    "hourlyRate" : 7,
+    "zoneName" : "Kfar Yona",
+    "maxParkingMinutes" : 6
+  }, {
+    "zoneId" : 126,
+    "hourlyRate" : 9,
+    "zoneName" : "Migdal HaEmek",
+    "maxParkingMinutes" : 434
+  }, {
+    "zoneId" : 127,
+    "hourlyRate" : 9,
+    "zoneName" : "Kfar Yona",
+    "maxParkingMinutes" : 280
+  }, {
+    "zoneId" : 128,
+    "hourlyRate" : 14,
+    "zoneName" : "Dimona",
+    "maxParkingMinutes" : 1261
+  }, {
+    "zoneId" : 129,
+    "hourlyRate" : 12,
+    "zoneName" : "Hadera",
+    "maxParkingMinutes" : 411
+  }, {
+    "zoneId" : 130,
+    "hourlyRate" : 13,
+    "zoneName" : "Tel Aviv-Yafo",
+    "maxParkingMinutes" : 222
+  }, {
+    "zoneId" : 131,
+    "hourlyRate" : 11,
+    "zoneName" : "Or Yehuda",
+    "maxParkingMinutes" : 171
+  }, {
+    "zoneId" : 132,
+    "hourlyRate" : 14,
+    "zoneName" : "Rahat",
+    "maxParkingMinutes" : 924
+  }, {
+    "zoneId" : 133,
+    "hourlyRate" : 9,
+    "zoneName" : "Safed",
+    "maxParkingMinutes" : 981
+  }, {
+    "zoneId" : 134,
+    "hourlyRate" : 8,
+    "zoneName" : "Nahariya",
+    "maxParkingMinutes" : 1052
+  }, {
+    "zoneId" : 135,
+    "hourlyRate" : 7,
+    "zoneName" : "Kiryat Malakhi",
+    "maxParkingMinutes" : 313
+  }, {
+    "zoneId" : 136,
+    "hourlyRate" : 9,
+    "zoneName" : "Lod",
+    "maxParkingMinutes" : 1396
+  }, {
+    "zoneId" : 137,
+    "hourlyRate" : 12,
+    "zoneName" : "Givatayim",
+    "maxParkingMinutes" : 1281
+  }, {
+    "zoneId" : 138,
+    "hourlyRate" : 2,
+    "zoneName" : "Nesher",
+    "maxParkingMinutes" : 956
+  }, {
+    "zoneId" : 139,
+    "hourlyRate" : 4,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 1363
+  }, {
+    "zoneId" : 140,
+    "hourlyRate" : 2,
+    "zoneName" : "Ramla",
+    "maxParkingMinutes" : 27
+  }, {
+    "zoneId" : 141,
+    "hourlyRate" : 4,
+    "zoneName" : "Ness Ziona",
+    "maxParkingMinutes" : 864
+  }, {
+    "zoneId" : 142,
+    "hourlyRate" : 4,
+    "zoneName" : "Modi'in-Maccabim-Re'ut",
+    "maxParkingMinutes" : 238
+  }, {
+    "zoneId" : 143,
+    "hourlyRate" : 4,
+    "zoneName" : "Nof HaGalil",
+    "maxParkingMinutes" : 350
+  }, {
+    "zoneId" : 144,
+    "hourlyRate" : 2,
+    "zoneName" : "Modi'in-Maccabim-Re'ut",
+    "maxParkingMinutes" : 84
+  }, {
+    "zoneId" : 145,
+    "hourlyRate" : 7,
+    "zoneName" : "Sakhnin",
+    "maxParkingMinutes" : 405
+  }, {
+    "zoneId" : 146,
+    "hourlyRate" : 4,
+    "zoneName" : "Beersheba",
+    "maxParkingMinutes" : 1127
+  }, {
+    "zoneId" : 147,
+    "hourlyRate" : 15,
+    "zoneName" : "Holon",
+    "maxParkingMinutes" : 1077
+  }, {
+    "zoneId" : 148,
+    "hourlyRate" : 7,
+    "zoneName" : "Nahariya",
+    "maxParkingMinutes" : 56
+  }, {
+    "zoneId" : 149,
+    "hourlyRate" : 13,
+    "zoneName" : "Umm al-Fahm",
+    "maxParkingMinutes" : 787
+  }, {
+    "zoneId" : 150,
+    "hourlyRate" : 11,
+    "zoneName" : "Giv'at Shmuel",
+    "maxParkingMinutes" : 393
+  }, {
+    "zoneId" : 151,
+    "hourlyRate" : 11,
+    "zoneName" : "Kiryat Malakhi",
+    "maxParkingMinutes" : 807
+  }, {
+    "zoneId" : 152,
+    "hourlyRate" : 6,
+    "zoneName" : "Ness Ziona",
+    "maxParkingMinutes" : 1226
+  }, {
+    "zoneId" : 153,
+    "hourlyRate" : 4,
+    "zoneName" : "Tel Aviv-Yafo",
+    "maxParkingMinutes" : 1323
+  }, {
+    "zoneId" : 154,
+    "hourlyRate" : 1,
+    "zoneName" : "Ma'alot-Tarshiha",
+    "maxParkingMinutes" : 1032
+  }, {
+    "zoneId" : 155,
+    "hourlyRate" : 12,
+    "zoneName" : "Tamra",
+    "maxParkingMinutes" : 818
+  }, {
+    "zoneId" : 156,
+    "hourlyRate" : 3,
+    "zoneName" : "Givatayim",
+    "maxParkingMinutes" : 1329
+  }, {
+    "zoneId" : 157,
+    "hourlyRate" : 14,
+    "zoneName" : "Nof HaGalil",
+    "maxParkingMinutes" : 1304
+  }, {
+    "zoneId" : 158,
+    "hourlyRate" : 13,
+    "zoneName" : "Tel Aviv-Yafo",
+    "maxParkingMinutes" : 1327
+  }, {
+    "zoneId" : 159,
+    "hourlyRate" : 4,
+    "zoneName" : "Bat Yam",
+    "maxParkingMinutes" : 482
+  }, {
+    "zoneId" : 160,
+    "hourlyRate" : 2,
+    "zoneName" : "Kfar Saba",
+    "maxParkingMinutes" : 456
+  }, {
+    "zoneId" : 161,
+    "hourlyRate" : 10,
+    "zoneName" : "Netivot",
+    "maxParkingMinutes" : 975
+  }, {
+    "zoneId" : 162,
+    "hourlyRate" : 13,
+    "zoneName" : "Arraba",
+    "maxParkingMinutes" : 265
+  }, {
+    "zoneId" : 163,
+    "hourlyRate" : 10,
+    "zoneName" : "Nesher",
+    "maxParkingMinutes" : 1200
+  }, {
+    "zoneId" : 164,
+    "hourlyRate" : 13,
+    "zoneName" : "Nesher",
+    "maxParkingMinutes" : 984
+  }, {
+    "zoneId" : 165,
+    "hourlyRate" : 7,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 1006
+  }, {
+    "zoneId" : 166,
+    "hourlyRate" : 13,
+    "zoneName" : "Herzliya",
+    "maxParkingMinutes" : 1060
+  }, {
+    "zoneId" : 167,
+    "hourlyRate" : 8,
+    "zoneName" : "Eilat",
+    "maxParkingMinutes" : 1091
+  }, {
+    "zoneId" : 168,
+    "hourlyRate" : 8,
+    "zoneName" : "Ashdod",
+    "maxParkingMinutes" : 1391
+  }, {
+    "zoneId" : 169,
+    "hourlyRate" : 12,
+    "zoneName" : "Dimona",
+    "maxParkingMinutes" : 679
+  }, {
+    "zoneId" : 170,
+    "hourlyRate" : 1,
+    "zoneName" : "Afula",
+    "maxParkingMinutes" : 952
+  }, {
+    "zoneId" : 171,
+    "hourlyRate" : 4,
+    "zoneName" : "Beit Shemesh",
+    "maxParkingMinutes" : 997
+  }, {
+    "zoneId" : 172,
+    "hourlyRate" : 4,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 370
+  }, {
+    "zoneId" : 173,
+    "hourlyRate" : 1,
+    "zoneName" : "Tirat Carmel",
+    "maxParkingMinutes" : 1041
+  }, {
+    "zoneId" : 174,
+    "hourlyRate" : 1,
+    "zoneName" : "Karmiel",
+    "maxParkingMinutes" : 910
+  }, {
+    "zoneId" : 175,
+    "hourlyRate" : 9,
+    "zoneName" : "Acre",
+    "maxParkingMinutes" : 971
+  }, {
+    "zoneId" : 176,
+    "hourlyRate" : 15,
+    "zoneName" : "Beit Shemesh",
+    "maxParkingMinutes" : 917
+  }, {
+    "zoneId" : 177,
+    "hourlyRate" : 14,
+    "zoneName" : "Givatayim",
+    "maxParkingMinutes" : 500
+  }, {
+    "zoneId" : 178,
+    "hourlyRate" : 9,
+    "zoneName" : "Shefa-'Amr",
+    "maxParkingMinutes" : 581
+  }, {
+    "zoneId" : 179,
+    "hourlyRate" : 2,
+    "zoneName" : "Safed",
+    "maxParkingMinutes" : 1164
+  }, {
+    "zoneId" : 180,
+    "hourlyRate" : 14,
+    "zoneName" : "Shefa-'Amr",
+    "maxParkingMinutes" : 1299
+  }, {
+    "zoneId" : 181,
+    "hourlyRate" : 2,
+    "zoneName" : "Nesher",
+    "maxParkingMinutes" : 1175
+  }, {
+    "zoneId" : 182,
+    "hourlyRate" : 2,
+    "zoneName" : "Nesher",
+    "maxParkingMinutes" : 534
+  }, {
+    "zoneId" : 183,
+    "hourlyRate" : 9,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 579
+  }, {
+    "zoneId" : 184,
+    "hourlyRate" : 11,
+    "zoneName" : "Nahariya",
+    "maxParkingMinutes" : 577
+  }, {
+    "zoneId" : 185,
+    "hourlyRate" : 9,
+    "zoneName" : "Nesher",
+    "maxParkingMinutes" : 1296
+  }, {
+    "zoneId" : 186,
+    "hourlyRate" : 7,
+    "zoneName" : "Karmiel",
+    "maxParkingMinutes" : 480
+  }, {
+    "zoneId" : 187,
+    "hourlyRate" : 9,
+    "zoneName" : "Ashdod",
+    "maxParkingMinutes" : 76
+  }, {
+    "zoneId" : 188,
+    "hourlyRate" : 15,
+    "zoneName" : "Yavne",
+    "maxParkingMinutes" : 708
+  }, {
+    "zoneId" : 189,
+    "hourlyRate" : 9,
+    "zoneName" : "Sakhnin",
+    "maxParkingMinutes" : 1327
+  }, {
+    "zoneId" : 190,
+    "hourlyRate" : 14,
+    "zoneName" : "Migdal HaEmek",
+    "maxParkingMinutes" : 1350
+  }, {
+    "zoneId" : 191,
+    "hourlyRate" : 1,
+    "zoneName" : "Yavne",
+    "maxParkingMinutes" : 768
+  }, {
+    "zoneId" : 192,
+    "hourlyRate" : 2,
+    "zoneName" : "Ramla",
+    "maxParkingMinutes" : 171
+  }, {
+    "zoneId" : 193,
+    "hourlyRate" : 8,
+    "zoneName" : "Kiryat Bialik",
+    "maxParkingMinutes" : 1296
+  }, {
+    "zoneId" : 194,
+    "hourlyRate" : 7,
+    "zoneName" : "Bnei Brak",
+    "maxParkingMinutes" : 508
+  }, {
+    "zoneId" : 195,
+    "hourlyRate" : 8,
+    "zoneName" : "Eilat",
+    "maxParkingMinutes" : 535
+  }, {
+    "zoneId" : 196,
+    "hourlyRate" : 12,
+    "zoneName" : "Hadera",
+    "maxParkingMinutes" : 766
+  }, {
+    "zoneId" : 197,
+    "hourlyRate" : 2,
+    "zoneName" : "Tiberias",
+    "maxParkingMinutes" : 291
+  }, {
+    "zoneId" : 198,
+    "hourlyRate" : 11,
+    "zoneName" : "Or Yehuda",
+    "maxParkingMinutes" : 1289
+  }, {
+    "zoneId" : 199,
+    "hourlyRate" : 6,
+    "zoneName" : "Holon",
+    "maxParkingMinutes" : 544
+  }, {
+    "zoneId" : 200,
+    "hourlyRate" : 14,
+    "zoneName" : "Kiryat Gat",
+    "maxParkingMinutes" : 893
+  }, {
+    "zoneId" : 201,
+    "hourlyRate" : 13,
+    "zoneName" : "Kiryat Shmona",
+    "maxParkingMinutes" : 354
+  }, {
+    "zoneId" : 202,
+    "hourlyRate" : 12,
+    "zoneName" : "Shefa-'Amr",
+    "maxParkingMinutes" : 751
+  }, {
+    "zoneId" : 203,
+    "hourlyRate" : 10,
+    "zoneName" : "Nof HaGalil",
+    "maxParkingMinutes" : 1127
+  }, {
+    "zoneId" : 204,
+    "hourlyRate" : 15,
+    "zoneName" : "Petah Tikva",
+    "maxParkingMinutes" : 781
+  }, {
+    "zoneId" : 205,
+    "hourlyRate" : 6,
+    "zoneName" : "Kiryat Bialik",
+    "maxParkingMinutes" : 342
+  }, {
+    "zoneId" : 206,
+    "hourlyRate" : 7,
+    "zoneName" : "Kiryat Bialik",
+    "maxParkingMinutes" : 1071
+  }, {
+    "zoneId" : 207,
+    "hourlyRate" : 3,
+    "zoneName" : "Kafr Qasim",
+    "maxParkingMinutes" : 106
+  }, {
+    "zoneId" : 208,
+    "hourlyRate" : 3,
+    "zoneName" : "Yavne",
+    "maxParkingMinutes" : 1397
+  }, {
+    "zoneId" : 209,
+    "hourlyRate" : 12,
+    "zoneName" : "Ashdod",
+    "maxParkingMinutes" : 654
+  }, {
+    "zoneId" : 210,
+    "hourlyRate" : 6,
+    "zoneName" : "Kiryat Ata",
+    "maxParkingMinutes" : 720
+  }, {
+    "zoneId" : 211,
+    "hourlyRate" : 1,
+    "zoneName" : "Ma'alot-Tarshiha",
+    "maxParkingMinutes" : 1313
+  }, {
+    "zoneId" : 212,
+    "hourlyRate" : 2,
+    "zoneName" : "Eilat",
+    "maxParkingMinutes" : 79
+  }, {
+    "zoneId" : 213,
+    "hourlyRate" : 5,
+    "zoneName" : "Netivot",
+    "maxParkingMinutes" : 230
+  }, {
+    "zoneId" : 214,
+    "hourlyRate" : 3,
+    "zoneName" : "Kiryat Bialik",
+    "maxParkingMinutes" : 7
+  }, {
+    "zoneId" : 215,
+    "hourlyRate" : 1,
+    "zoneName" : "Bnei Brak",
+    "maxParkingMinutes" : 1137
+  }, {
+    "zoneId" : 216,
+    "hourlyRate" : 1,
+    "zoneName" : "Baqa al-Gharbiyye",
+    "maxParkingMinutes" : 1089
+  }, {
+    "zoneId" : 217,
+    "hourlyRate" : 7,
+    "zoneName" : "Safed",
+    "maxParkingMinutes" : 152
+  }, {
+    "zoneId" : 218,
+    "hourlyRate" : 3,
+    "zoneName" : "Rosh HaAyin",
+    "maxParkingMinutes" : 1400
+  }, {
+    "zoneId" : 219,
+    "hourlyRate" : 2,
+    "zoneName" : "Nazareth",
+    "maxParkingMinutes" : 916
+  }, {
+    "zoneId" : 220,
+    "hourlyRate" : 4,
+    "zoneName" : "Kafr Qasim",
+    "maxParkingMinutes" : 114
+  }, {
+    "zoneId" : 221,
+    "hourlyRate" : 13,
+    "zoneName" : "Kafr Qasim",
+    "maxParkingMinutes" : 873
+  }, {
+    "zoneId" : 222,
+    "hourlyRate" : 11,
+    "zoneName" : "Or Yehuda",
+    "maxParkingMinutes" : 515
+  }, {
+    "zoneId" : 223,
+    "hourlyRate" : 6,
+    "zoneName" : "Herzliya",
+    "maxParkingMinutes" : 912
+  }, {
+    "zoneId" : 224,
+    "hourlyRate" : 5,
+    "zoneName" : "Arraba",
+    "maxParkingMinutes" : 385
+  }, {
+    "zoneId" : 225,
+    "hourlyRate" : 6,
+    "zoneName" : "Arraba",
+    "maxParkingMinutes" : 891
+  }, {
+    "zoneId" : 226,
+    "hourlyRate" : 5,
+    "zoneName" : "Kfar Saba",
+    "maxParkingMinutes" : 323
+  }, {
+    "zoneId" : 227,
+    "hourlyRate" : 1,
+    "zoneName" : "Lod",
+    "maxParkingMinutes" : 1241
+  }, {
+    "zoneId" : 228,
+    "hourlyRate" : 15,
+    "zoneName" : "Afula",
+    "maxParkingMinutes" : 1018
+  }, {
+    "zoneId" : 229,
+    "hourlyRate" : 12,
+    "zoneName" : "Karmiel",
+    "maxParkingMinutes" : 1298
+  }, {
+    "zoneId" : 230,
+    "hourlyRate" : 15,
+    "zoneName" : "Givatayim",
+    "maxParkingMinutes" : 152
+  }, {
+    "zoneId" : 231,
+    "hourlyRate" : 11,
+    "zoneName" : "El'ad",
+    "maxParkingMinutes" : 46
+  }, {
+    "zoneId" : 232,
+    "hourlyRate" : 15,
+    "zoneName" : "Ofakim",
+    "maxParkingMinutes" : 906
+  }, {
+    "zoneId" : 233,
+    "hourlyRate" : 13,
+    "zoneName" : "Tayibe",
+    "maxParkingMinutes" : 45
+  }, {
+    "zoneId" : 234,
+    "hourlyRate" : 11,
+    "zoneName" : "Kiryat Ata",
+    "maxParkingMinutes" : 365
+  }, {
+    "zoneId" : 235,
+    "hourlyRate" : 5,
+    "zoneName" : "Nahariya",
+    "maxParkingMinutes" : 1428
+  }, {
+    "zoneId" : 236,
+    "hourlyRate" : 15,
+    "zoneName" : "Kiryat Ono",
+    "maxParkingMinutes" : 1337
+  }, {
+    "zoneId" : 237,
+    "hourlyRate" : 1,
+    "zoneName" : "Ness Ziona",
+    "maxParkingMinutes" : 1420
+  }, {
+    "zoneId" : 238,
+    "hourlyRate" : 5,
+    "zoneName" : "Afula",
+    "maxParkingMinutes" : 476
+  }, {
+    "zoneId" : 239,
+    "hourlyRate" : 4,
+    "zoneName" : "Shefa-'Amr",
+    "maxParkingMinutes" : 1337
+  }, {
+    "zoneId" : 240,
+    "hourlyRate" : 11,
+    "zoneName" : "Rishon LeZion",
+    "maxParkingMinutes" : 1374
+  }, {
+    "zoneId" : 241,
+    "hourlyRate" : 1,
+    "zoneName" : "Kiryat Motzkin",
+    "maxParkingMinutes" : 1312
+  }, {
+    "zoneId" : 242,
+    "hourlyRate" : 7,
+    "zoneName" : "Hadera",
+    "maxParkingMinutes" : 245
+  } ],
+  "parkingSpaces" : [ {
+    "parkingSpaceId" : 0,
+    "zoneId" : 208
+  }, {
+    "parkingSpaceId" : 1,
+    "zoneId" : 179
+  }, {
+    "parkingSpaceId" : 2,
+    "zoneId" : 114
+  }, {
+    "parkingSpaceId" : 3,
+    "zoneId" : 86
+  }, {
+    "parkingSpaceId" : 4,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 5,
+    "zoneId" : 230
+  }, {
+    "parkingSpaceId" : 6,
+    "zoneId" : 128
+  }, {
+    "parkingSpaceId" : 7,
+    "zoneId" : 146
+  }, {
+    "parkingSpaceId" : 8,
+    "zoneId" : 0
+  }, {
+    "parkingSpaceId" : 9,
+    "zoneId" : 19
+  }, {
+    "parkingSpaceId" : 10,
+    "zoneId" : 191
+  }, {
+    "parkingSpaceId" : 11,
+    "zoneId" : 240
+  }, {
+    "parkingSpaceId" : 12,
+    "zoneId" : 105
+  }, {
+    "parkingSpaceId" : 13,
+    "zoneId" : 29
+  }, {
+    "parkingSpaceId" : 14,
+    "zoneId" : 169
+  }, {
+    "parkingSpaceId" : 15,
+    "zoneId" : 39
+  }, {
+    "parkingSpaceId" : 16,
+    "zoneId" : 22
+  }, {
+    "parkingSpaceId" : 17,
+    "zoneId" : 77
+  }, {
+    "parkingSpaceId" : 18,
+    "zoneId" : 25
+  }, {
+    "parkingSpaceId" : 19,
+    "zoneId" : 66
+  }, {
+    "parkingSpaceId" : 20,
+    "zoneId" : 168
+  }, {
+    "parkingSpaceId" : 21,
+    "zoneId" : 165
+  }, {
+    "parkingSpaceId" : 22,
+    "zoneId" : 131
+  }, {
+    "parkingSpaceId" : 23,
+    "zoneId" : 200
+  }, {
+    "parkingSpaceId" : 24,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 25,
+    "zoneId" : 206
+  }, {
+    "parkingSpaceId" : 26,
+    "zoneId" : 213
+  }, {
+    "parkingSpaceId" : 27,
+    "zoneId" : 170
+  }, {
+    "parkingSpaceId" : 28,
+    "zoneId" : 102
+  }, {
+    "parkingSpaceId" : 29,
+    "zoneId" : 75
+  }, {
+    "parkingSpaceId" : 30,
+    "zoneId" : 21
+  }, {
+    "parkingSpaceId" : 31,
+    "zoneId" : 139
+  }, {
+    "parkingSpaceId" : 32,
+    "zoneId" : 39
+  }, {
+    "parkingSpaceId" : 33,
+    "zoneId" : 142
+  }, {
+    "parkingSpaceId" : 34,
+    "zoneId" : 206
+  }, {
+    "parkingSpaceId" : 35,
+    "zoneId" : 51
+  }, {
+    "parkingSpaceId" : 36,
+    "zoneId" : 76
+  }, {
+    "parkingSpaceId" : 37,
+    "zoneId" : 59
+  }, {
+    "parkingSpaceId" : 38,
+    "zoneId" : 62
+  }, {
+    "parkingSpaceId" : 39,
+    "zoneId" : 47
+  }, {
+    "parkingSpaceId" : 40,
+    "zoneId" : 0
+  }, {
+    "parkingSpaceId" : 41,
+    "zoneId" : 139
+  }, {
+    "parkingSpaceId" : 42,
+    "zoneId" : 185
+  }, {
+    "parkingSpaceId" : 43,
+    "zoneId" : 209
+  }, {
+    "parkingSpaceId" : 44,
+    "zoneId" : 131
+  }, {
+    "parkingSpaceId" : 45,
+    "zoneId" : 232
+  }, {
+    "parkingSpaceId" : 46,
+    "zoneId" : 68
+  }, {
+    "parkingSpaceId" : 47,
+    "zoneId" : 61
+  }, {
+    "parkingSpaceId" : 48,
+    "zoneId" : 17
+  }, {
+    "parkingSpaceId" : 49,
+    "zoneId" : 177
+  }, {
+    "parkingSpaceId" : 50,
+    "zoneId" : 217
+  }, {
+    "parkingSpaceId" : 51,
+    "zoneId" : 168
+  }, {
+    "parkingSpaceId" : 52,
+    "zoneId" : 110
+  }, {
+    "parkingSpaceId" : 53,
+    "zoneId" : 40
+  }, {
+    "parkingSpaceId" : 54,
+    "zoneId" : 39
+  }, {
+    "parkingSpaceId" : 55,
+    "zoneId" : 95
+  }, {
+    "parkingSpaceId" : 56,
+    "zoneId" : 10
+  }, {
+    "parkingSpaceId" : 57,
+    "zoneId" : 111
+  }, {
+    "parkingSpaceId" : 58,
+    "zoneId" : 45
+  }, {
+    "parkingSpaceId" : 59,
+    "zoneId" : 55
+  }, {
+    "parkingSpaceId" : 60,
+    "zoneId" : 45
+  }, {
+    "parkingSpaceId" : 61,
+    "zoneId" : 135
+  }, {
+    "parkingSpaceId" : 62,
+    "zoneId" : 149
+  }, {
+    "parkingSpaceId" : 63,
+    "zoneId" : 32
+  }, {
+    "parkingSpaceId" : 64,
+    "zoneId" : 98
+  }, {
+    "parkingSpaceId" : 65,
+    "zoneId" : 184
+  }, {
+    "parkingSpaceId" : 66,
+    "zoneId" : 120
+  }, {
+    "parkingSpaceId" : 67,
+    "zoneId" : 151
+  }, {
+    "parkingSpaceId" : 68,
+    "zoneId" : 18
+  }, {
+    "parkingSpaceId" : 69,
+    "zoneId" : 31
+  }, {
+    "parkingSpaceId" : 70,
+    "zoneId" : 43
+  }, {
+    "parkingSpaceId" : 71,
+    "zoneId" : 113
+  }, {
+    "parkingSpaceId" : 72,
+    "zoneId" : 40
+  }, {
+    "parkingSpaceId" : 73,
+    "zoneId" : 127
+  }, {
+    "parkingSpaceId" : 74,
+    "zoneId" : 41
+  }, {
+    "parkingSpaceId" : 75,
+    "zoneId" : 160
+  }, {
+    "parkingSpaceId" : 76,
+    "zoneId" : 82
+  }, {
+    "parkingSpaceId" : 77,
+    "zoneId" : 113
+  }, {
+    "parkingSpaceId" : 78,
+    "zoneId" : 137
+  }, {
+    "parkingSpaceId" : 79,
+    "zoneId" : 226
+  }, {
+    "parkingSpaceId" : 80,
+    "zoneId" : 12
+  }, {
+    "parkingSpaceId" : 81,
+    "zoneId" : 165
+  }, {
+    "parkingSpaceId" : 82,
+    "zoneId" : 234
+  }, {
+    "parkingSpaceId" : 83,
+    "zoneId" : 192
+  }, {
+    "parkingSpaceId" : 84,
+    "zoneId" : 175
+  }, {
+    "parkingSpaceId" : 85,
+    "zoneId" : 129
+  }, {
+    "parkingSpaceId" : 86,
+    "zoneId" : 137
+  }, {
+    "parkingSpaceId" : 87,
+    "zoneId" : 137
+  }, {
+    "parkingSpaceId" : 88,
+    "zoneId" : 193
+  }, {
+    "parkingSpaceId" : 89,
+    "zoneId" : 144
+  }, {
+    "parkingSpaceId" : 90,
+    "zoneId" : 177
+  }, {
+    "parkingSpaceId" : 91,
+    "zoneId" : 14
+  }, {
+    "parkingSpaceId" : 92,
+    "zoneId" : 234
+  }, {
+    "parkingSpaceId" : 93,
+    "zoneId" : 209
+  }, {
+    "parkingSpaceId" : 94,
+    "zoneId" : 92
+  }, {
+    "parkingSpaceId" : 95,
+    "zoneId" : 124
+  }, {
+    "parkingSpaceId" : 96,
+    "zoneId" : 146
+  }, {
+    "parkingSpaceId" : 97,
+    "zoneId" : 90
+  }, {
+    "parkingSpaceId" : 98,
+    "zoneId" : 190
+  }, {
+    "parkingSpaceId" : 99,
+    "zoneId" : 184
+  }, {
+    "parkingSpaceId" : 100,
+    "zoneId" : 76
+  }, {
+    "parkingSpaceId" : 101,
+    "zoneId" : 97
+  }, {
+    "parkingSpaceId" : 102,
+    "zoneId" : 159
+  }, {
+    "parkingSpaceId" : 103,
+    "zoneId" : 11
+  }, {
+    "parkingSpaceId" : 104,
+    "zoneId" : 99
+  }, {
+    "parkingSpaceId" : 105,
+    "zoneId" : 194
+  }, {
+    "parkingSpaceId" : 106,
+    "zoneId" : 91
+  }, {
+    "parkingSpaceId" : 107,
+    "zoneId" : 198
+  }, {
+    "parkingSpaceId" : 108,
+    "zoneId" : 118
+  }, {
+    "parkingSpaceId" : 109,
+    "zoneId" : 140
+  }, {
+    "parkingSpaceId" : 110,
+    "zoneId" : 218
+  }, {
+    "parkingSpaceId" : 111,
+    "zoneId" : 146
+  }, {
+    "parkingSpaceId" : 112,
+    "zoneId" : 67
+  }, {
+    "parkingSpaceId" : 113,
+    "zoneId" : 78
+  }, {
+    "parkingSpaceId" : 114,
+    "zoneId" : 43
+  }, {
+    "parkingSpaceId" : 115,
+    "zoneId" : 162
+  }, {
+    "parkingSpaceId" : 116,
+    "zoneId" : 2
+  }, {
+    "parkingSpaceId" : 117,
+    "zoneId" : 43
+  }, {
+    "parkingSpaceId" : 118,
+    "zoneId" : 58
+  }, {
+    "parkingSpaceId" : 119,
+    "zoneId" : 192
+  }, {
+    "parkingSpaceId" : 120,
+    "zoneId" : 223
+  }, {
+    "parkingSpaceId" : 121,
+    "zoneId" : 54
+  }, {
+    "parkingSpaceId" : 122,
+    "zoneId" : 153
+  }, {
+    "parkingSpaceId" : 123,
+    "zoneId" : 109
+  }, {
+    "parkingSpaceId" : 124,
+    "zoneId" : 135
+  }, {
+    "parkingSpaceId" : 125,
+    "zoneId" : 241
+  }, {
+    "parkingSpaceId" : 126,
+    "zoneId" : 136
+  }, {
+    "parkingSpaceId" : 127,
+    "zoneId" : 90
+  }, {
+    "parkingSpaceId" : 128,
+    "zoneId" : 40
+  }, {
+    "parkingSpaceId" : 129,
+    "zoneId" : 190
+  }, {
+    "parkingSpaceId" : 130,
+    "zoneId" : 121
+  }, {
+    "parkingSpaceId" : 131,
+    "zoneId" : 87
+  }, {
+    "parkingSpaceId" : 132,
+    "zoneId" : 20
+  }, {
+    "parkingSpaceId" : 133,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 134,
+    "zoneId" : 90
+  }, {
+    "parkingSpaceId" : 135,
+    "zoneId" : 19
+  }, {
+    "parkingSpaceId" : 136,
+    "zoneId" : 177
+  }, {
+    "parkingSpaceId" : 137,
+    "zoneId" : 28
+  }, {
+    "parkingSpaceId" : 138,
+    "zoneId" : 229
+  }, {
+    "parkingSpaceId" : 139,
+    "zoneId" : 211
+  }, {
+    "parkingSpaceId" : 140,
+    "zoneId" : 42
+  }, {
+    "parkingSpaceId" : 141,
+    "zoneId" : 147
+  }, {
+    "parkingSpaceId" : 142,
+    "zoneId" : 25
+  }, {
+    "parkingSpaceId" : 143,
+    "zoneId" : 79
+  }, {
+    "parkingSpaceId" : 144,
+    "zoneId" : 86
+  }, {
+    "parkingSpaceId" : 145,
+    "zoneId" : 191
+  }, {
+    "parkingSpaceId" : 146,
+    "zoneId" : 186
+  }, {
+    "parkingSpaceId" : 147,
+    "zoneId" : 240
+  }, {
+    "parkingSpaceId" : 148,
+    "zoneId" : 159
+  }, {
+    "parkingSpaceId" : 149,
+    "zoneId" : 153
+  }, {
+    "parkingSpaceId" : 150,
+    "zoneId" : 118
+  }, {
+    "parkingSpaceId" : 151,
+    "zoneId" : 105
+  }, {
+    "parkingSpaceId" : 152,
+    "zoneId" : 198
+  }, {
+    "parkingSpaceId" : 153,
+    "zoneId" : 194
+  }, {
+    "parkingSpaceId" : 154,
+    "zoneId" : 217
+  }, {
+    "parkingSpaceId" : 155,
+    "zoneId" : 201
+  }, {
+    "parkingSpaceId" : 156,
+    "zoneId" : 64
+  }, {
+    "parkingSpaceId" : 157,
+    "zoneId" : 125
+  }, {
+    "parkingSpaceId" : 158,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 159,
+    "zoneId" : 89
+  }, {
+    "parkingSpaceId" : 160,
+    "zoneId" : 232
+  }, {
+    "parkingSpaceId" : 161,
+    "zoneId" : 59
+  }, {
+    "parkingSpaceId" : 162,
+    "zoneId" : 36
+  }, {
+    "parkingSpaceId" : 163,
+    "zoneId" : 136
+  }, {
+    "parkingSpaceId" : 164,
+    "zoneId" : 113
+  }, {
+    "parkingSpaceId" : 165,
+    "zoneId" : 133
+  }, {
+    "parkingSpaceId" : 166,
+    "zoneId" : 72
+  }, {
+    "parkingSpaceId" : 167,
+    "zoneId" : 214
+  }, {
+    "parkingSpaceId" : 168,
+    "zoneId" : 27
+  }, {
+    "parkingSpaceId" : 169,
+    "zoneId" : 54
+  }, {
+    "parkingSpaceId" : 170,
+    "zoneId" : 232
+  }, {
+    "parkingSpaceId" : 171,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 172,
+    "zoneId" : 67
+  }, {
+    "parkingSpaceId" : 173,
+    "zoneId" : 222
+  }, {
+    "parkingSpaceId" : 174,
+    "zoneId" : 91
+  }, {
+    "parkingSpaceId" : 175,
+    "zoneId" : 171
+  }, {
+    "parkingSpaceId" : 176,
+    "zoneId" : 155
+  }, {
+    "parkingSpaceId" : 177,
+    "zoneId" : 208
+  }, {
+    "parkingSpaceId" : 178,
+    "zoneId" : 128
+  }, {
+    "parkingSpaceId" : 179,
+    "zoneId" : 17
+  }, {
+    "parkingSpaceId" : 180,
+    "zoneId" : 63
+  }, {
+    "parkingSpaceId" : 181,
+    "zoneId" : 142
+  }, {
+    "parkingSpaceId" : 182,
+    "zoneId" : 11
+  }, {
+    "parkingSpaceId" : 183,
+    "zoneId" : 58
+  }, {
+    "parkingSpaceId" : 184,
+    "zoneId" : 110
+  }, {
+    "parkingSpaceId" : 185,
+    "zoneId" : 237
+  }, {
+    "parkingSpaceId" : 186,
+    "zoneId" : 179
+  }, {
+    "parkingSpaceId" : 187,
+    "zoneId" : 108
+  }, {
+    "parkingSpaceId" : 188,
+    "zoneId" : 31
+  }, {
+    "parkingSpaceId" : 189,
+    "zoneId" : 0
+  }, {
+    "parkingSpaceId" : 190,
+    "zoneId" : 104
+  }, {
+    "parkingSpaceId" : 191,
+    "zoneId" : 228
+  }, {
+    "parkingSpaceId" : 192,
+    "zoneId" : 106
+  }, {
+    "parkingSpaceId" : 193,
+    "zoneId" : 90
+  }, {
+    "parkingSpaceId" : 194,
+    "zoneId" : 76
+  }, {
+    "parkingSpaceId" : 195,
+    "zoneId" : 167
+  }, {
+    "parkingSpaceId" : 196,
+    "zoneId" : 143
+  }, {
+    "parkingSpaceId" : 197,
+    "zoneId" : 33
+  }, {
+    "parkingSpaceId" : 198,
+    "zoneId" : 92
+  }, {
+    "parkingSpaceId" : 199,
+    "zoneId" : 121
+  }, {
+    "parkingSpaceId" : 200,
+    "zoneId" : 29
+  }, {
+    "parkingSpaceId" : 201,
+    "zoneId" : 80
+  }, {
+    "parkingSpaceId" : 202,
+    "zoneId" : 240
+  }, {
+    "parkingSpaceId" : 203,
+    "zoneId" : 42
+  }, {
+    "parkingSpaceId" : 204,
+    "zoneId" : 87
+  }, {
+    "parkingSpaceId" : 205,
+    "zoneId" : 49
+  }, {
+    "parkingSpaceId" : 206,
+    "zoneId" : 176
+  }, {
+    "parkingSpaceId" : 207,
+    "zoneId" : 120
+  }, {
+    "parkingSpaceId" : 208,
+    "zoneId" : 115
+  }, {
+    "parkingSpaceId" : 209,
+    "zoneId" : 70
+  }, {
+    "parkingSpaceId" : 210,
+    "zoneId" : 91
+  }, {
+    "parkingSpaceId" : 211,
+    "zoneId" : 124
+  }, {
+    "parkingSpaceId" : 212,
+    "zoneId" : 9
+  }, {
+    "parkingSpaceId" : 213,
+    "zoneId" : 19
+  }, {
+    "parkingSpaceId" : 214,
+    "zoneId" : 58
+  }, {
+    "parkingSpaceId" : 215,
+    "zoneId" : 104
+  }, {
+    "parkingSpaceId" : 216,
+    "zoneId" : 172
+  }, {
+    "parkingSpaceId" : 217,
+    "zoneId" : 174
+  }, {
+    "parkingSpaceId" : 218,
+    "zoneId" : 221
+  }, {
+    "parkingSpaceId" : 219,
+    "zoneId" : 201
+  }, {
+    "parkingSpaceId" : 220,
+    "zoneId" : 189
+  }, {
+    "parkingSpaceId" : 221,
+    "zoneId" : 138
+  }, {
+    "parkingSpaceId" : 222,
+    "zoneId" : 116
+  }, {
+    "parkingSpaceId" : 223,
+    "zoneId" : 165
+  }, {
+    "parkingSpaceId" : 224,
+    "zoneId" : 167
+  }, {
+    "parkingSpaceId" : 225,
+    "zoneId" : 227
+  }, {
+    "parkingSpaceId" : 226,
+    "zoneId" : 28
+  }, {
+    "parkingSpaceId" : 227,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 228,
+    "zoneId" : 117
+  }, {
+    "parkingSpaceId" : 229,
+    "zoneId" : 35
+  }, {
+    "parkingSpaceId" : 230,
+    "zoneId" : 163
+  }, {
+    "parkingSpaceId" : 231,
+    "zoneId" : 71
+  }, {
+    "parkingSpaceId" : 232,
+    "zoneId" : 198
+  }, {
+    "parkingSpaceId" : 233,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 234,
+    "zoneId" : 224
+  }, {
+    "parkingSpaceId" : 235,
+    "zoneId" : 222
+  }, {
+    "parkingSpaceId" : 236,
+    "zoneId" : 100
+  }, {
+    "parkingSpaceId" : 237,
+    "zoneId" : 69
+  }, {
+    "parkingSpaceId" : 238,
+    "zoneId" : 52
+  }, {
+    "parkingSpaceId" : 239,
+    "zoneId" : 196
+  }, {
+    "parkingSpaceId" : 240,
+    "zoneId" : 242
+  }, {
+    "parkingSpaceId" : 241,
+    "zoneId" : 158
+  }, {
+    "parkingSpaceId" : 242,
+    "zoneId" : 129
+  }, {
+    "parkingSpaceId" : 243,
+    "zoneId" : 15
+  }, {
+    "parkingSpaceId" : 244,
+    "zoneId" : 6
+  }, {
+    "parkingSpaceId" : 245,
+    "zoneId" : 176
+  }, {
+    "parkingSpaceId" : 246,
+    "zoneId" : 17
+  }, {
+    "parkingSpaceId" : 247,
+    "zoneId" : 228
+  }, {
+    "parkingSpaceId" : 248,
+    "zoneId" : 217
+  }, {
+    "parkingSpaceId" : 249,
+    "zoneId" : 197
+  }, {
+    "parkingSpaceId" : 250,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 251,
+    "zoneId" : 50
+  }, {
+    "parkingSpaceId" : 252,
+    "zoneId" : 164
+  }, {
+    "parkingSpaceId" : 253,
+    "zoneId" : 126
+  }, {
+    "parkingSpaceId" : 254,
+    "zoneId" : 164
+  }, {
+    "parkingSpaceId" : 255,
+    "zoneId" : 231
+  }, {
+    "parkingSpaceId" : 256,
+    "zoneId" : 84
+  }, {
+    "parkingSpaceId" : 257,
+    "zoneId" : 137
+  }, {
+    "parkingSpaceId" : 258,
+    "zoneId" : 191
+  }, {
+    "parkingSpaceId" : 259,
+    "zoneId" : 232
+  }, {
+    "parkingSpaceId" : 260,
+    "zoneId" : 139
+  }, {
+    "parkingSpaceId" : 261,
+    "zoneId" : 11
+  }, {
+    "parkingSpaceId" : 262,
+    "zoneId" : 222
+  }, {
+    "parkingSpaceId" : 263,
+    "zoneId" : 121
+  }, {
+    "parkingSpaceId" : 264,
+    "zoneId" : 49
+  }, {
+    "parkingSpaceId" : 265,
+    "zoneId" : 205
+  }, {
+    "parkingSpaceId" : 266,
+    "zoneId" : 114
+  }, {
+    "parkingSpaceId" : 267,
+    "zoneId" : 57
+  }, {
+    "parkingSpaceId" : 268,
+    "zoneId" : 102
+  }, {
+    "parkingSpaceId" : 269,
+    "zoneId" : 16
+  }, {
+    "parkingSpaceId" : 270,
+    "zoneId" : 172
+  }, {
+    "parkingSpaceId" : 271,
+    "zoneId" : 127
+  }, {
+    "parkingSpaceId" : 272,
+    "zoneId" : 238
+  }, {
+    "parkingSpaceId" : 273,
+    "zoneId" : 170
+  }, {
+    "parkingSpaceId" : 274,
+    "zoneId" : 235
+  }, {
+    "parkingSpaceId" : 275,
+    "zoneId" : 175
+  }, {
+    "parkingSpaceId" : 276,
+    "zoneId" : 116
+  }, {
+    "parkingSpaceId" : 277,
+    "zoneId" : 127
+  }, {
+    "parkingSpaceId" : 278,
+    "zoneId" : 57
+  }, {
+    "parkingSpaceId" : 279,
+    "zoneId" : 117
+  }, {
+    "parkingSpaceId" : 280,
+    "zoneId" : 218
+  }, {
+    "parkingSpaceId" : 281,
+    "zoneId" : 90
+  }, {
+    "parkingSpaceId" : 282,
+    "zoneId" : 84
+  }, {
+    "parkingSpaceId" : 283,
+    "zoneId" : 46
+  }, {
+    "parkingSpaceId" : 284,
+    "zoneId" : 124
+  }, {
+    "parkingSpaceId" : 285,
+    "zoneId" : 23
+  }, {
+    "parkingSpaceId" : 286,
+    "zoneId" : 139
+  }, {
+    "parkingSpaceId" : 287,
+    "zoneId" : 224
+  }, {
+    "parkingSpaceId" : 288,
+    "zoneId" : 148
+  }, {
+    "parkingSpaceId" : 289,
+    "zoneId" : 140
+  }, {
+    "parkingSpaceId" : 290,
+    "zoneId" : 145
+  }, {
+    "parkingSpaceId" : 291,
+    "zoneId" : 177
+  }, {
+    "parkingSpaceId" : 292,
+    "zoneId" : 213
+  }, {
+    "parkingSpaceId" : 293,
+    "zoneId" : 46
+  }, {
+    "parkingSpaceId" : 294,
+    "zoneId" : 121
+  }, {
+    "parkingSpaceId" : 295,
+    "zoneId" : 228
+  }, {
+    "parkingSpaceId" : 296,
+    "zoneId" : 226
+  }, {
+    "parkingSpaceId" : 297,
+    "zoneId" : 58
+  }, {
+    "parkingSpaceId" : 298,
+    "zoneId" : 54
+  }, {
+    "parkingSpaceId" : 299,
+    "zoneId" : 115
+  }, {
+    "parkingSpaceId" : 300,
+    "zoneId" : 234
+  }, {
+    "parkingSpaceId" : 301,
+    "zoneId" : 52
+  }, {
+    "parkingSpaceId" : 302,
+    "zoneId" : 203
+  }, {
+    "parkingSpaceId" : 303,
+    "zoneId" : 140
+  }, {
+    "parkingSpaceId" : 304,
+    "zoneId" : 242
+  }, {
+    "parkingSpaceId" : 305,
+    "zoneId" : 187
+  }, {
+    "parkingSpaceId" : 306,
+    "zoneId" : 221
+  }, {
+    "parkingSpaceId" : 307,
+    "zoneId" : 80
+  }, {
+    "parkingSpaceId" : 308,
+    "zoneId" : 232
+  }, {
+    "parkingSpaceId" : 309,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 310,
+    "zoneId" : 179
+  }, {
+    "parkingSpaceId" : 311,
+    "zoneId" : 91
+  }, {
+    "parkingSpaceId" : 312,
+    "zoneId" : 207
+  }, {
+    "parkingSpaceId" : 313,
+    "zoneId" : 22
+  }, {
+    "parkingSpaceId" : 314,
+    "zoneId" : 193
+  }, {
+    "parkingSpaceId" : 315,
+    "zoneId" : 127
+  }, {
+    "parkingSpaceId" : 316,
+    "zoneId" : 153
+  }, {
+    "parkingSpaceId" : 317,
+    "zoneId" : 152
+  }, {
+    "parkingSpaceId" : 318,
+    "zoneId" : 194
+  }, {
+    "parkingSpaceId" : 319,
+    "zoneId" : 141
+  }, {
+    "parkingSpaceId" : 320,
+    "zoneId" : 141
+  }, {
+    "parkingSpaceId" : 321,
+    "zoneId" : 82
+  }, {
+    "parkingSpaceId" : 322,
+    "zoneId" : 102
+  }, {
+    "parkingSpaceId" : 323,
+    "zoneId" : 213
+  }, {
+    "parkingSpaceId" : 324,
+    "zoneId" : 154
+  }, {
+    "parkingSpaceId" : 325,
+    "zoneId" : 65
+  }, {
+    "parkingSpaceId" : 326,
+    "zoneId" : 21
+  }, {
+    "parkingSpaceId" : 327,
+    "zoneId" : 232
+  }, {
+    "parkingSpaceId" : 328,
+    "zoneId" : 195
+  }, {
+    "parkingSpaceId" : 329,
+    "zoneId" : 202
+  }, {
+    "parkingSpaceId" : 330,
+    "zoneId" : 59
+  }, {
+    "parkingSpaceId" : 331,
+    "zoneId" : 73
+  }, {
+    "parkingSpaceId" : 332,
+    "zoneId" : 44
+  }, {
+    "parkingSpaceId" : 333,
+    "zoneId" : 40
+  }, {
+    "parkingSpaceId" : 334,
+    "zoneId" : 85
+  }, {
+    "parkingSpaceId" : 335,
+    "zoneId" : 54
+  }, {
+    "parkingSpaceId" : 336,
+    "zoneId" : 106
+  }, {
+    "parkingSpaceId" : 337,
+    "zoneId" : 14
+  }, {
+    "parkingSpaceId" : 338,
+    "zoneId" : 25
+  }, {
+    "parkingSpaceId" : 339,
+    "zoneId" : 155
+  }, {
+    "parkingSpaceId" : 340,
+    "zoneId" : 122
+  }, {
+    "parkingSpaceId" : 341,
+    "zoneId" : 199
+  }, {
+    "parkingSpaceId" : 342,
+    "zoneId" : 221
+  }, {
+    "parkingSpaceId" : 343,
+    "zoneId" : 16
+  }, {
+    "parkingSpaceId" : 344,
+    "zoneId" : 25
+  }, {
+    "parkingSpaceId" : 345,
+    "zoneId" : 32
+  }, {
+    "parkingSpaceId" : 346,
+    "zoneId" : 85
+  }, {
+    "parkingSpaceId" : 347,
+    "zoneId" : 147
+  }, {
+    "parkingSpaceId" : 348,
+    "zoneId" : 153
+  }, {
+    "parkingSpaceId" : 349,
+    "zoneId" : 107
+  }, {
+    "parkingSpaceId" : 350,
+    "zoneId" : 173
+  }, {
+    "parkingSpaceId" : 351,
+    "zoneId" : 179
+  }, {
+    "parkingSpaceId" : 352,
+    "zoneId" : 119
+  }, {
+    "parkingSpaceId" : 353,
+    "zoneId" : 241
+  }, {
+    "parkingSpaceId" : 354,
+    "zoneId" : 70
+  }, {
+    "parkingSpaceId" : 355,
+    "zoneId" : 214
+  }, {
+    "parkingSpaceId" : 356,
+    "zoneId" : 138
+  }, {
+    "parkingSpaceId" : 357,
+    "zoneId" : 132
+  }, {
+    "parkingSpaceId" : 358,
+    "zoneId" : 32
+  }, {
+    "parkingSpaceId" : 359,
+    "zoneId" : 99
+  }, {
+    "parkingSpaceId" : 360,
+    "zoneId" : 24
+  }, {
+    "parkingSpaceId" : 361,
+    "zoneId" : 157
+  }, {
+    "parkingSpaceId" : 362,
+    "zoneId" : 73
+  }, {
+    "parkingSpaceId" : 363,
+    "zoneId" : 72
+  }, {
+    "parkingSpaceId" : 364,
+    "zoneId" : 146
+  }, {
+    "parkingSpaceId" : 365,
+    "zoneId" : 164
+  }, {
+    "parkingSpaceId" : 366,
+    "zoneId" : 227
+  }, {
+    "parkingSpaceId" : 367,
+    "zoneId" : 78
+  }, {
+    "parkingSpaceId" : 368,
+    "zoneId" : 125
+  }, {
+    "parkingSpaceId" : 369,
+    "zoneId" : 140
+  }, {
+    "parkingSpaceId" : 370,
+    "zoneId" : 222
+  }, {
+    "parkingSpaceId" : 371,
+    "zoneId" : 211
+  }, {
+    "parkingSpaceId" : 372,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 373,
+    "zoneId" : 215
+  }, {
+    "parkingSpaceId" : 374,
+    "zoneId" : 120
+  }, {
+    "parkingSpaceId" : 375,
+    "zoneId" : 129
+  }, {
+    "parkingSpaceId" : 376,
+    "zoneId" : 233
+  }, {
+    "parkingSpaceId" : 377,
+    "zoneId" : 217
+  }, {
+    "parkingSpaceId" : 378,
+    "zoneId" : 85
+  }, {
+    "parkingSpaceId" : 379,
+    "zoneId" : 179
+  }, {
+    "parkingSpaceId" : 380,
+    "zoneId" : 173
+  }, {
+    "parkingSpaceId" : 381,
+    "zoneId" : 127
+  }, {
+    "parkingSpaceId" : 382,
+    "zoneId" : 57
+  }, {
+    "parkingSpaceId" : 383,
+    "zoneId" : 123
+  }, {
+    "parkingSpaceId" : 384,
+    "zoneId" : 147
+  }, {
+    "parkingSpaceId" : 385,
+    "zoneId" : 216
+  }, {
+    "parkingSpaceId" : 386,
+    "zoneId" : 231
+  }, {
+    "parkingSpaceId" : 387,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 388,
+    "zoneId" : 107
+  }, {
+    "parkingSpaceId" : 389,
+    "zoneId" : 136
+  }, {
+    "parkingSpaceId" : 390,
+    "zoneId" : 31
+  }, {
+    "parkingSpaceId" : 391,
+    "zoneId" : 242
+  }, {
+    "parkingSpaceId" : 392,
+    "zoneId" : 25
+  }, {
+    "parkingSpaceId" : 393,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 394,
+    "zoneId" : 140
+  }, {
+    "parkingSpaceId" : 395,
+    "zoneId" : 240
+  }, {
+    "parkingSpaceId" : 396,
+    "zoneId" : 74
+  }, {
+    "parkingSpaceId" : 397,
+    "zoneId" : 54
+  }, {
+    "parkingSpaceId" : 398,
+    "zoneId" : 66
+  }, {
+    "parkingSpaceId" : 399,
+    "zoneId" : 67
+  }, {
+    "parkingSpaceId" : 400,
+    "zoneId" : 168
+  }, {
+    "parkingSpaceId" : 401,
+    "zoneId" : 116
+  }, {
+    "parkingSpaceId" : 402,
+    "zoneId" : 37
+  }, {
+    "parkingSpaceId" : 403,
+    "zoneId" : 194
+  }, {
+    "parkingSpaceId" : 404,
+    "zoneId" : 195
+  }, {
+    "parkingSpaceId" : 405,
+    "zoneId" : 32
+  }, {
+    "parkingSpaceId" : 406,
+    "zoneId" : 146
+  }, {
+    "parkingSpaceId" : 407,
+    "zoneId" : 158
+  }, {
+    "parkingSpaceId" : 408,
+    "zoneId" : 142
+  }, {
+    "parkingSpaceId" : 409,
+    "zoneId" : 241
+  }, {
+    "parkingSpaceId" : 410,
+    "zoneId" : 62
+  }, {
+    "parkingSpaceId" : 411,
+    "zoneId" : 100
+  }, {
+    "parkingSpaceId" : 412,
+    "zoneId" : 33
+  }, {
+    "parkingSpaceId" : 413,
+    "zoneId" : 109
+  }, {
+    "parkingSpaceId" : 414,
+    "zoneId" : 106
+  }, {
+    "parkingSpaceId" : 415,
+    "zoneId" : 11
+  }, {
+    "parkingSpaceId" : 416,
+    "zoneId" : 50
+  }, {
+    "parkingSpaceId" : 417,
+    "zoneId" : 178
+  }, {
+    "parkingSpaceId" : 418,
+    "zoneId" : 39
+  }, {
+    "parkingSpaceId" : 419,
+    "zoneId" : 191
+  }, {
+    "parkingSpaceId" : 420,
+    "zoneId" : 210
+  }, {
+    "parkingSpaceId" : 421,
+    "zoneId" : 157
+  }, {
+    "parkingSpaceId" : 422,
+    "zoneId" : 40
+  }, {
+    "parkingSpaceId" : 423,
+    "zoneId" : 202
+  }, {
+    "parkingSpaceId" : 424,
+    "zoneId" : 239
+  }, {
+    "parkingSpaceId" : 425,
+    "zoneId" : 92
+  }, {
+    "parkingSpaceId" : 426,
+    "zoneId" : 23
+  }, {
+    "parkingSpaceId" : 427,
+    "zoneId" : 32
+  }, {
+    "parkingSpaceId" : 428,
+    "zoneId" : 82
+  }, {
+    "parkingSpaceId" : 429,
+    "zoneId" : 71
+  }, {
+    "parkingSpaceId" : 430,
+    "zoneId" : 104
+  }, {
+    "parkingSpaceId" : 431,
+    "zoneId" : 11
+  }, {
+    "parkingSpaceId" : 432,
+    "zoneId" : 134
+  }, {
+    "parkingSpaceId" : 433,
+    "zoneId" : 104
+  }, {
+    "parkingSpaceId" : 434,
+    "zoneId" : 66
+  }, {
+    "parkingSpaceId" : 435,
+    "zoneId" : 191
+  }, {
+    "parkingSpaceId" : 436,
+    "zoneId" : 149
+  }, {
+    "parkingSpaceId" : 437,
+    "zoneId" : 157
+  }, {
+    "parkingSpaceId" : 438,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 439,
+    "zoneId" : 14
+  }, {
+    "parkingSpaceId" : 440,
+    "zoneId" : 16
+  }, {
+    "parkingSpaceId" : 441,
+    "zoneId" : 129
+  }, {
+    "parkingSpaceId" : 442,
+    "zoneId" : 77
+  }, {
+    "parkingSpaceId" : 443,
+    "zoneId" : 38
+  }, {
+    "parkingSpaceId" : 444,
+    "zoneId" : 44
+  }, {
+    "parkingSpaceId" : 445,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 446,
+    "zoneId" : 123
+  }, {
+    "parkingSpaceId" : 447,
+    "zoneId" : 32
+  }, {
+    "parkingSpaceId" : 448,
+    "zoneId" : 43
+  }, {
+    "parkingSpaceId" : 449,
+    "zoneId" : 112
+  }, {
+    "parkingSpaceId" : 450,
+    "zoneId" : 95
+  }, {
+    "parkingSpaceId" : 451,
+    "zoneId" : 118
+  }, {
+    "parkingSpaceId" : 452,
+    "zoneId" : 189
+  }, {
+    "parkingSpaceId" : 453,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 454,
+    "zoneId" : 31
+  }, {
+    "parkingSpaceId" : 455,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 456,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 457,
+    "zoneId" : 235
+  }, {
+    "parkingSpaceId" : 458,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 459,
+    "zoneId" : 31
+  }, {
+    "parkingSpaceId" : 460,
+    "zoneId" : 46
+  }, {
+    "parkingSpaceId" : 461,
+    "zoneId" : 41
+  }, {
+    "parkingSpaceId" : 462,
+    "zoneId" : 127
+  }, {
+    "parkingSpaceId" : 463,
+    "zoneId" : 166
+  }, {
+    "parkingSpaceId" : 464,
+    "zoneId" : 7
+  }, {
+    "parkingSpaceId" : 465,
+    "zoneId" : 45
+  }, {
+    "parkingSpaceId" : 466,
+    "zoneId" : 61
+  }, {
+    "parkingSpaceId" : 467,
+    "zoneId" : 197
+  }, {
+    "parkingSpaceId" : 468,
+    "zoneId" : 167
+  }, {
+    "parkingSpaceId" : 469,
+    "zoneId" : 75
+  }, {
+    "parkingSpaceId" : 470,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 471,
+    "zoneId" : 154
+  }, {
+    "parkingSpaceId" : 472,
+    "zoneId" : 159
+  }, {
+    "parkingSpaceId" : 473,
+    "zoneId" : 200
+  }, {
+    "parkingSpaceId" : 474,
+    "zoneId" : 52
+  }, {
+    "parkingSpaceId" : 475,
+    "zoneId" : 81
+  }, {
+    "parkingSpaceId" : 476,
+    "zoneId" : 211
+  }, {
+    "parkingSpaceId" : 477,
+    "zoneId" : 210
+  }, {
+    "parkingSpaceId" : 478,
+    "zoneId" : 197
+  }, {
+    "parkingSpaceId" : 479,
+    "zoneId" : 102
+  }, {
+    "parkingSpaceId" : 480,
+    "zoneId" : 15
+  }, {
+    "parkingSpaceId" : 481,
+    "zoneId" : 163
+  }, {
+    "parkingSpaceId" : 482,
+    "zoneId" : 28
+  }, {
+    "parkingSpaceId" : 483,
+    "zoneId" : 131
+  }, {
+    "parkingSpaceId" : 484,
+    "zoneId" : 36
+  }, {
+    "parkingSpaceId" : 485,
+    "zoneId" : 240
+  }, {
+    "parkingSpaceId" : 486,
+    "zoneId" : 11
+  }, {
+    "parkingSpaceId" : 487,
+    "zoneId" : 133
+  }, {
+    "parkingSpaceId" : 488,
+    "zoneId" : 213
+  }, {
+    "parkingSpaceId" : 489,
+    "zoneId" : 234
+  }, {
+    "parkingSpaceId" : 490,
+    "zoneId" : 184
+  }, {
+    "parkingSpaceId" : 491,
+    "zoneId" : 11
+  }, {
+    "parkingSpaceId" : 492,
+    "zoneId" : 195
+  }, {
+    "parkingSpaceId" : 493,
+    "zoneId" : 236
+  }, {
+    "parkingSpaceId" : 494,
+    "zoneId" : 192
+  }, {
+    "parkingSpaceId" : 495,
+    "zoneId" : 118
+  }, {
+    "parkingSpaceId" : 496,
+    "zoneId" : 185
+  }, {
+    "parkingSpaceId" : 497,
+    "zoneId" : 210
+  }, {
+    "parkingSpaceId" : 498,
+    "zoneId" : 37
+  }, {
+    "parkingSpaceId" : 499,
+    "zoneId" : 62
+  }, {
+    "parkingSpaceId" : 500,
+    "zoneId" : 143
+  }, {
+    "parkingSpaceId" : 501,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 502,
+    "zoneId" : 231
+  }, {
+    "parkingSpaceId" : 503,
+    "zoneId" : 131
+  }, {
+    "parkingSpaceId" : 504,
+    "zoneId" : 113
+  }, {
+    "parkingSpaceId" : 505,
+    "zoneId" : 129
+  }, {
+    "parkingSpaceId" : 506,
+    "zoneId" : 210
+  }, {
+    "parkingSpaceId" : 507,
+    "zoneId" : 61
+  }, {
+    "parkingSpaceId" : 508,
+    "zoneId" : 86
+  }, {
+    "parkingSpaceId" : 509,
+    "zoneId" : 80
+  }, {
+    "parkingSpaceId" : 510,
+    "zoneId" : 64
+  }, {
+    "parkingSpaceId" : 511,
+    "zoneId" : 45
+  }, {
+    "parkingSpaceId" : 512,
+    "zoneId" : 152
+  }, {
+    "parkingSpaceId" : 513,
+    "zoneId" : 87
+  }, {
+    "parkingSpaceId" : 514,
+    "zoneId" : 114
+  }, {
+    "parkingSpaceId" : 515,
+    "zoneId" : 132
+  }, {
+    "parkingSpaceId" : 516,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 517,
+    "zoneId" : 217
+  }, {
+    "parkingSpaceId" : 518,
+    "zoneId" : 135
+  }, {
+    "parkingSpaceId" : 519,
+    "zoneId" : 133
+  }, {
+    "parkingSpaceId" : 520,
+    "zoneId" : 229
+  }, {
+    "parkingSpaceId" : 521,
+    "zoneId" : 104
+  }, {
+    "parkingSpaceId" : 522,
+    "zoneId" : 0
+  }, {
+    "parkingSpaceId" : 523,
+    "zoneId" : 147
+  }, {
+    "parkingSpaceId" : 524,
+    "zoneId" : 149
+  }, {
+    "parkingSpaceId" : 525,
+    "zoneId" : 135
+  }, {
+    "parkingSpaceId" : 526,
+    "zoneId" : 164
+  }, {
+    "parkingSpaceId" : 527,
+    "zoneId" : 128
+  }, {
+    "parkingSpaceId" : 528,
+    "zoneId" : 164
+  }, {
+    "parkingSpaceId" : 529,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 530,
+    "zoneId" : 207
+  }, {
+    "parkingSpaceId" : 531,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 532,
+    "zoneId" : 140
+  }, {
+    "parkingSpaceId" : 533,
+    "zoneId" : 150
+  }, {
+    "parkingSpaceId" : 534,
+    "zoneId" : 97
+  }, {
+    "parkingSpaceId" : 535,
+    "zoneId" : 231
+  }, {
+    "parkingSpaceId" : 536,
+    "zoneId" : 192
+  }, {
+    "parkingSpaceId" : 537,
+    "zoneId" : 119
+  }, {
+    "parkingSpaceId" : 538,
+    "zoneId" : 168
+  }, {
+    "parkingSpaceId" : 539,
+    "zoneId" : 12
+  }, {
+    "parkingSpaceId" : 540,
+    "zoneId" : 210
+  }, {
+    "parkingSpaceId" : 541,
+    "zoneId" : 82
+  }, {
+    "parkingSpaceId" : 542,
+    "zoneId" : 191
+  }, {
+    "parkingSpaceId" : 543,
+    "zoneId" : 81
+  }, {
+    "parkingSpaceId" : 544,
+    "zoneId" : 210
+  }, {
+    "parkingSpaceId" : 545,
+    "zoneId" : 20
+  }, {
+    "parkingSpaceId" : 546,
+    "zoneId" : 158
+  }, {
+    "parkingSpaceId" : 547,
+    "zoneId" : 145
+  }, {
+    "parkingSpaceId" : 548,
+    "zoneId" : 74
+  }, {
+    "parkingSpaceId" : 549,
+    "zoneId" : 2
+  }, {
+    "parkingSpaceId" : 550,
+    "zoneId" : 91
+  }, {
+    "parkingSpaceId" : 551,
+    "zoneId" : 207
+  }, {
+    "parkingSpaceId" : 552,
+    "zoneId" : 92
+  }, {
+    "parkingSpaceId" : 553,
+    "zoneId" : 240
+  }, {
+    "parkingSpaceId" : 554,
+    "zoneId" : 157
+  }, {
+    "parkingSpaceId" : 555,
+    "zoneId" : 224
+  }, {
+    "parkingSpaceId" : 556,
+    "zoneId" : 73
+  }, {
+    "parkingSpaceId" : 557,
+    "zoneId" : 51
+  }, {
+    "parkingSpaceId" : 558,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 559,
+    "zoneId" : 34
+  }, {
+    "parkingSpaceId" : 560,
+    "zoneId" : 229
+  }, {
+    "parkingSpaceId" : 561,
+    "zoneId" : 217
+  }, {
+    "parkingSpaceId" : 562,
+    "zoneId" : 199
+  }, {
+    "parkingSpaceId" : 563,
+    "zoneId" : 158
+  }, {
+    "parkingSpaceId" : 564,
+    "zoneId" : 203
+  }, {
+    "parkingSpaceId" : 565,
+    "zoneId" : 27
+  }, {
+    "parkingSpaceId" : 566,
+    "zoneId" : 147
+  }, {
+    "parkingSpaceId" : 567,
+    "zoneId" : 86
+  }, {
+    "parkingSpaceId" : 568,
+    "zoneId" : 160
+  }, {
+    "parkingSpaceId" : 569,
+    "zoneId" : 214
+  }, {
+    "parkingSpaceId" : 570,
+    "zoneId" : 123
+  }, {
+    "parkingSpaceId" : 571,
+    "zoneId" : 24
+  }, {
+    "parkingSpaceId" : 572,
+    "zoneId" : 43
+  }, {
+    "parkingSpaceId" : 573,
+    "zoneId" : 207
+  }, {
+    "parkingSpaceId" : 574,
+    "zoneId" : 37
+  }, {
+    "parkingSpaceId" : 575,
+    "zoneId" : 188
+  }, {
+    "parkingSpaceId" : 576,
+    "zoneId" : 40
+  }, {
+    "parkingSpaceId" : 577,
+    "zoneId" : 8
+  }, {
+    "parkingSpaceId" : 578,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 579,
+    "zoneId" : 73
+  }, {
+    "parkingSpaceId" : 580,
+    "zoneId" : 234
+  }, {
+    "parkingSpaceId" : 581,
+    "zoneId" : 12
+  }, {
+    "parkingSpaceId" : 582,
+    "zoneId" : 12
+  }, {
+    "parkingSpaceId" : 583,
+    "zoneId" : 127
+  }, {
+    "parkingSpaceId" : 584,
+    "zoneId" : 197
+  }, {
+    "parkingSpaceId" : 585,
+    "zoneId" : 11
+  }, {
+    "parkingSpaceId" : 586,
+    "zoneId" : 107
+  }, {
+    "parkingSpaceId" : 587,
+    "zoneId" : 34
+  }, {
+    "parkingSpaceId" : 588,
+    "zoneId" : 0
+  }, {
+    "parkingSpaceId" : 589,
+    "zoneId" : 96
+  }, {
+    "parkingSpaceId" : 590,
+    "zoneId" : 214
+  }, {
+    "parkingSpaceId" : 591,
+    "zoneId" : 192
+  }, {
+    "parkingSpaceId" : 592,
+    "zoneId" : 43
+  }, {
+    "parkingSpaceId" : 593,
+    "zoneId" : 141
+  }, {
+    "parkingSpaceId" : 594,
+    "zoneId" : 7
+  }, {
+    "parkingSpaceId" : 595,
+    "zoneId" : 101
+  }, {
+    "parkingSpaceId" : 596,
+    "zoneId" : 126
+  }, {
+    "parkingSpaceId" : 597,
+    "zoneId" : 120
+  }, {
+    "parkingSpaceId" : 598,
+    "zoneId" : 86
+  }, {
+    "parkingSpaceId" : 599,
+    "zoneId" : 157
+  }, {
+    "parkingSpaceId" : 600,
+    "zoneId" : 200
+  }, {
+    "parkingSpaceId" : 601,
+    "zoneId" : 3
+  }, {
+    "parkingSpaceId" : 602,
+    "zoneId" : 6
+  }, {
+    "parkingSpaceId" : 603,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 604,
+    "zoneId" : 223
+  }, {
+    "parkingSpaceId" : 605,
+    "zoneId" : 62
+  }, {
+    "parkingSpaceId" : 606,
+    "zoneId" : 188
+  }, {
+    "parkingSpaceId" : 607,
+    "zoneId" : 149
+  }, {
+    "parkingSpaceId" : 608,
+    "zoneId" : 187
+  }, {
+    "parkingSpaceId" : 609,
+    "zoneId" : 2
+  }, {
+    "parkingSpaceId" : 610,
+    "zoneId" : 20
+  }, {
+    "parkingSpaceId" : 611,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 612,
+    "zoneId" : 10
+  }, {
+    "parkingSpaceId" : 613,
+    "zoneId" : 97
+  }, {
+    "parkingSpaceId" : 614,
+    "zoneId" : 108
+  }, {
+    "parkingSpaceId" : 615,
+    "zoneId" : 150
+  }, {
+    "parkingSpaceId" : 616,
+    "zoneId" : 210
+  }, {
+    "parkingSpaceId" : 617,
+    "zoneId" : 120
+  }, {
+    "parkingSpaceId" : 618,
+    "zoneId" : 49
+  }, {
+    "parkingSpaceId" : 619,
+    "zoneId" : 30
+  }, {
+    "parkingSpaceId" : 620,
+    "zoneId" : 237
+  }, {
+    "parkingSpaceId" : 621,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 622,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 623,
+    "zoneId" : 34
+  }, {
+    "parkingSpaceId" : 624,
+    "zoneId" : 124
+  }, {
+    "parkingSpaceId" : 625,
+    "zoneId" : 76
+  }, {
+    "parkingSpaceId" : 626,
+    "zoneId" : 82
+  }, {
+    "parkingSpaceId" : 627,
+    "zoneId" : 39
+  }, {
+    "parkingSpaceId" : 628,
+    "zoneId" : 200
+  }, {
+    "parkingSpaceId" : 629,
+    "zoneId" : 111
+  }, {
+    "parkingSpaceId" : 630,
+    "zoneId" : 13
+  }, {
+    "parkingSpaceId" : 631,
+    "zoneId" : 7
+  }, {
+    "parkingSpaceId" : 632,
+    "zoneId" : 151
+  }, {
+    "parkingSpaceId" : 633,
+    "zoneId" : 75
+  }, {
+    "parkingSpaceId" : 634,
+    "zoneId" : 200
+  }, {
+    "parkingSpaceId" : 635,
+    "zoneId" : 130
+  }, {
+    "parkingSpaceId" : 636,
+    "zoneId" : 235
+  }, {
+    "parkingSpaceId" : 637,
+    "zoneId" : 151
+  }, {
+    "parkingSpaceId" : 638,
+    "zoneId" : 26
+  }, {
+    "parkingSpaceId" : 639,
+    "zoneId" : 86
+  }, {
+    "parkingSpaceId" : 640,
+    "zoneId" : 99
+  }, {
+    "parkingSpaceId" : 641,
+    "zoneId" : 115
+  }, {
+    "parkingSpaceId" : 642,
+    "zoneId" : 225
+  }, {
+    "parkingSpaceId" : 643,
+    "zoneId" : 62
+  }, {
+    "parkingSpaceId" : 644,
+    "zoneId" : 55
+  }, {
+    "parkingSpaceId" : 645,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 646,
+    "zoneId" : 57
+  }, {
+    "parkingSpaceId" : 647,
+    "zoneId" : 29
+  }, {
+    "parkingSpaceId" : 648,
+    "zoneId" : 70
+  }, {
+    "parkingSpaceId" : 649,
+    "zoneId" : 62
+  }, {
+    "parkingSpaceId" : 650,
+    "zoneId" : 124
+  }, {
+    "parkingSpaceId" : 651,
+    "zoneId" : 169
+  }, {
+    "parkingSpaceId" : 652,
+    "zoneId" : 231
+  }, {
+    "parkingSpaceId" : 653,
+    "zoneId" : 47
+  }, {
+    "parkingSpaceId" : 654,
+    "zoneId" : 196
+  }, {
+    "parkingSpaceId" : 655,
+    "zoneId" : 115
+  }, {
+    "parkingSpaceId" : 656,
+    "zoneId" : 186
+  }, {
+    "parkingSpaceId" : 657,
+    "zoneId" : 28
+  }, {
+    "parkingSpaceId" : 658,
+    "zoneId" : 163
+  }, {
+    "parkingSpaceId" : 659,
+    "zoneId" : 59
+  }, {
+    "parkingSpaceId" : 660,
+    "zoneId" : 113
+  }, {
+    "parkingSpaceId" : 661,
+    "zoneId" : 149
+  }, {
+    "parkingSpaceId" : 662,
+    "zoneId" : 112
+  }, {
+    "parkingSpaceId" : 663,
+    "zoneId" : 185
+  }, {
+    "parkingSpaceId" : 664,
+    "zoneId" : 119
+  }, {
+    "parkingSpaceId" : 665,
+    "zoneId" : 233
+  }, {
+    "parkingSpaceId" : 666,
+    "zoneId" : 0
+  }, {
+    "parkingSpaceId" : 667,
+    "zoneId" : 150
+  }, {
+    "parkingSpaceId" : 668,
+    "zoneId" : 80
+  }, {
+    "parkingSpaceId" : 669,
+    "zoneId" : 111
+  }, {
+    "parkingSpaceId" : 670,
+    "zoneId" : 65
+  }, {
+    "parkingSpaceId" : 671,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 672,
+    "zoneId" : 4
+  }, {
+    "parkingSpaceId" : 673,
+    "zoneId" : 98
+  }, {
+    "parkingSpaceId" : 674,
+    "zoneId" : 137
+  }, {
+    "parkingSpaceId" : 675,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 676,
+    "zoneId" : 80
+  }, {
+    "parkingSpaceId" : 677,
+    "zoneId" : 5
+  }, {
+    "parkingSpaceId" : 678,
+    "zoneId" : 203
+  }, {
+    "parkingSpaceId" : 679,
+    "zoneId" : 15
+  }, {
+    "parkingSpaceId" : 680,
+    "zoneId" : 124
+  }, {
+    "parkingSpaceId" : 681,
+    "zoneId" : 19
+  }, {
+    "parkingSpaceId" : 682,
+    "zoneId" : 215
+  }, {
+    "parkingSpaceId" : 683,
+    "zoneId" : 18
+  }, {
+    "parkingSpaceId" : 684,
+    "zoneId" : 6
+  }, {
+    "parkingSpaceId" : 685,
+    "zoneId" : 106
+  }, {
+    "parkingSpaceId" : 686,
+    "zoneId" : 153
+  }, {
+    "parkingSpaceId" : 687,
+    "zoneId" : 23
+  }, {
+    "parkingSpaceId" : 688,
+    "zoneId" : 195
+  }, {
+    "parkingSpaceId" : 689,
+    "zoneId" : 30
+  }, {
+    "parkingSpaceId" : 690,
+    "zoneId" : 55
+  }, {
+    "parkingSpaceId" : 691,
+    "zoneId" : 202
+  }, {
+    "parkingSpaceId" : 692,
+    "zoneId" : 95
+  }, {
+    "parkingSpaceId" : 693,
+    "zoneId" : 190
+  }, {
+    "parkingSpaceId" : 694,
+    "zoneId" : 4
+  }, {
+    "parkingSpaceId" : 695,
+    "zoneId" : 167
+  }, {
+    "parkingSpaceId" : 696,
+    "zoneId" : 78
+  }, {
+    "parkingSpaceId" : 697,
+    "zoneId" : 184
+  }, {
+    "parkingSpaceId" : 698,
+    "zoneId" : 141
+  }, {
+    "parkingSpaceId" : 699,
+    "zoneId" : 177
+  }, {
+    "parkingSpaceId" : 700,
+    "zoneId" : 70
+  }, {
+    "parkingSpaceId" : 701,
+    "zoneId" : 235
+  }, {
+    "parkingSpaceId" : 702,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 703,
+    "zoneId" : 50
+  }, {
+    "parkingSpaceId" : 704,
+    "zoneId" : 63
+  }, {
+    "parkingSpaceId" : 705,
+    "zoneId" : 199
+  }, {
+    "parkingSpaceId" : 706,
+    "zoneId" : 183
+  }, {
+    "parkingSpaceId" : 707,
+    "zoneId" : 125
+  }, {
+    "parkingSpaceId" : 708,
+    "zoneId" : 121
+  }, {
+    "parkingSpaceId" : 709,
+    "zoneId" : 42
+  }, {
+    "parkingSpaceId" : 710,
+    "zoneId" : 86
+  }, {
+    "parkingSpaceId" : 711,
+    "zoneId" : 240
+  }, {
+    "parkingSpaceId" : 712,
+    "zoneId" : 99
+  }, {
+    "parkingSpaceId" : 713,
+    "zoneId" : 120
+  }, {
+    "parkingSpaceId" : 714,
+    "zoneId" : 91
+  }, {
+    "parkingSpaceId" : 715,
+    "zoneId" : 175
+  }, {
+    "parkingSpaceId" : 716,
+    "zoneId" : 133
+  }, {
+    "parkingSpaceId" : 717,
+    "zoneId" : 235
+  }, {
+    "parkingSpaceId" : 718,
+    "zoneId" : 10
+  }, {
+    "parkingSpaceId" : 719,
+    "zoneId" : 195
+  }, {
+    "parkingSpaceId" : 720,
+    "zoneId" : 198
+  }, {
+    "parkingSpaceId" : 721,
+    "zoneId" : 209
+  }, {
+    "parkingSpaceId" : 722,
+    "zoneId" : 50
+  }, {
+    "parkingSpaceId" : 723,
+    "zoneId" : 89
+  }, {
+    "parkingSpaceId" : 724,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 725,
+    "zoneId" : 119
+  }, {
+    "parkingSpaceId" : 726,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 727,
+    "zoneId" : 155
+  }, {
+    "parkingSpaceId" : 728,
+    "zoneId" : 15
+  }, {
+    "parkingSpaceId" : 729,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 730,
+    "zoneId" : 126
+  }, {
+    "parkingSpaceId" : 731,
+    "zoneId" : 1
+  }, {
+    "parkingSpaceId" : 732,
+    "zoneId" : 150
+  }, {
+    "parkingSpaceId" : 733,
+    "zoneId" : 227
+  }, {
+    "parkingSpaceId" : 734,
+    "zoneId" : 210
+  }, {
+    "parkingSpaceId" : 735,
+    "zoneId" : 203
+  }, {
+    "parkingSpaceId" : 736,
+    "zoneId" : 5
+  }, {
+    "parkingSpaceId" : 737,
+    "zoneId" : 55
+  }, {
+    "parkingSpaceId" : 738,
+    "zoneId" : 121
+  }, {
+    "parkingSpaceId" : 739,
+    "zoneId" : 70
+  }, {
+    "parkingSpaceId" : 740,
+    "zoneId" : 223
+  }, {
+    "parkingSpaceId" : 741,
+    "zoneId" : 31
+  }, {
+    "parkingSpaceId" : 742,
+    "zoneId" : 22
+  }, {
+    "parkingSpaceId" : 743,
+    "zoneId" : 136
+  }, {
+    "parkingSpaceId" : 744,
+    "zoneId" : 1
+  }, {
+    "parkingSpaceId" : 745,
+    "zoneId" : 176
+  }, {
+    "parkingSpaceId" : 746,
+    "zoneId" : 77
+  }, {
+    "parkingSpaceId" : 747,
+    "zoneId" : 217
+  }, {
+    "parkingSpaceId" : 748,
+    "zoneId" : 223
+  }, {
+    "parkingSpaceId" : 749,
+    "zoneId" : 218
+  }, {
+    "parkingSpaceId" : 750,
+    "zoneId" : 114
+  }, {
+    "parkingSpaceId" : 751,
+    "zoneId" : 216
+  }, {
+    "parkingSpaceId" : 752,
+    "zoneId" : 155
+  }, {
+    "parkingSpaceId" : 753,
+    "zoneId" : 118
+  }, {
+    "parkingSpaceId" : 754,
+    "zoneId" : 61
+  }, {
+    "parkingSpaceId" : 755,
+    "zoneId" : 177
+  }, {
+    "parkingSpaceId" : 756,
+    "zoneId" : 25
+  }, {
+    "parkingSpaceId" : 757,
+    "zoneId" : 178
+  }, {
+    "parkingSpaceId" : 758,
+    "zoneId" : 115
+  }, {
+    "parkingSpaceId" : 759,
+    "zoneId" : 22
+  }, {
+    "parkingSpaceId" : 760,
+    "zoneId" : 133
+  }, {
+    "parkingSpaceId" : 761,
+    "zoneId" : 169
+  }, {
+    "parkingSpaceId" : 762,
+    "zoneId" : 238
+  }, {
+    "parkingSpaceId" : 763,
+    "zoneId" : 209
+  }, {
+    "parkingSpaceId" : 764,
+    "zoneId" : 123
+  }, {
+    "parkingSpaceId" : 765,
+    "zoneId" : 2
+  }, {
+    "parkingSpaceId" : 766,
+    "zoneId" : 122
+  }, {
+    "parkingSpaceId" : 767,
+    "zoneId" : 63
+  }, {
+    "parkingSpaceId" : 768,
+    "zoneId" : 65
+  }, {
+    "parkingSpaceId" : 769,
+    "zoneId" : 164
+  }, {
+    "parkingSpaceId" : 770,
+    "zoneId" : 13
+  }, {
+    "parkingSpaceId" : 771,
+    "zoneId" : 216
+  }, {
+    "parkingSpaceId" : 772,
+    "zoneId" : 22
+  }, {
+    "parkingSpaceId" : 773,
+    "zoneId" : 28
+  }, {
+    "parkingSpaceId" : 774,
+    "zoneId" : 237
+  }, {
+    "parkingSpaceId" : 775,
+    "zoneId" : 123
+  }, {
+    "parkingSpaceId" : 776,
+    "zoneId" : 233
+  }, {
+    "parkingSpaceId" : 777,
+    "zoneId" : 208
+  }, {
+    "parkingSpaceId" : 778,
+    "zoneId" : 229
+  }, {
+    "parkingSpaceId" : 779,
+    "zoneId" : 21
+  }, {
+    "parkingSpaceId" : 780,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 781,
+    "zoneId" : 22
+  }, {
+    "parkingSpaceId" : 782,
+    "zoneId" : 232
+  }, {
+    "parkingSpaceId" : 783,
+    "zoneId" : 169
+  }, {
+    "parkingSpaceId" : 784,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 785,
+    "zoneId" : 88
+  }, {
+    "parkingSpaceId" : 786,
+    "zoneId" : 28
+  }, {
+    "parkingSpaceId" : 787,
+    "zoneId" : 233
+  }, {
+    "parkingSpaceId" : 788,
+    "zoneId" : 197
+  }, {
+    "parkingSpaceId" : 789,
+    "zoneId" : 1
+  }, {
+    "parkingSpaceId" : 790,
+    "zoneId" : 40
+  }, {
+    "parkingSpaceId" : 791,
+    "zoneId" : 102
+  }, {
+    "parkingSpaceId" : 792,
+    "zoneId" : 91
+  }, {
+    "parkingSpaceId" : 793,
+    "zoneId" : 117
+  }, {
+    "parkingSpaceId" : 794,
+    "zoneId" : 79
+  }, {
+    "parkingSpaceId" : 795,
+    "zoneId" : 175
+  }, {
+    "parkingSpaceId" : 796,
+    "zoneId" : 203
+  }, {
+    "parkingSpaceId" : 797,
+    "zoneId" : 163
+  }, {
+    "parkingSpaceId" : 798,
+    "zoneId" : 144
+  }, {
+    "parkingSpaceId" : 799,
+    "zoneId" : 15
+  }, {
+    "parkingSpaceId" : 800,
+    "zoneId" : 121
+  }, {
+    "parkingSpaceId" : 801,
+    "zoneId" : 120
+  }, {
+    "parkingSpaceId" : 802,
+    "zoneId" : 108
+  }, {
+    "parkingSpaceId" : 803,
+    "zoneId" : 201
+  }, {
+    "parkingSpaceId" : 804,
+    "zoneId" : 242
+  }, {
+    "parkingSpaceId" : 805,
+    "zoneId" : 90
+  }, {
+    "parkingSpaceId" : 806,
+    "zoneId" : 236
+  }, {
+    "parkingSpaceId" : 807,
+    "zoneId" : 8
+  }, {
+    "parkingSpaceId" : 808,
+    "zoneId" : 195
+  }, {
+    "parkingSpaceId" : 809,
+    "zoneId" : 192
+  }, {
+    "parkingSpaceId" : 810,
+    "zoneId" : 25
+  }, {
+    "parkingSpaceId" : 811,
+    "zoneId" : 198
+  }, {
+    "parkingSpaceId" : 812,
+    "zoneId" : 137
+  }, {
+    "parkingSpaceId" : 813,
+    "zoneId" : 208
+  }, {
+    "parkingSpaceId" : 814,
+    "zoneId" : 103
+  }, {
+    "parkingSpaceId" : 815,
+    "zoneId" : 101
+  }, {
+    "parkingSpaceId" : 816,
+    "zoneId" : 85
+  }, {
+    "parkingSpaceId" : 817,
+    "zoneId" : 178
+  }, {
+    "parkingSpaceId" : 818,
+    "zoneId" : 39
+  }, {
+    "parkingSpaceId" : 819,
+    "zoneId" : 215
+  }, {
+    "parkingSpaceId" : 820,
+    "zoneId" : 119
+  }, {
+    "parkingSpaceId" : 821,
+    "zoneId" : 196
+  }, {
+    "parkingSpaceId" : 822,
+    "zoneId" : 14
+  }, {
+    "parkingSpaceId" : 823,
+    "zoneId" : 111
+  }, {
+    "parkingSpaceId" : 824,
+    "zoneId" : 186
+  }, {
+    "parkingSpaceId" : 825,
+    "zoneId" : 55
+  }, {
+    "parkingSpaceId" : 826,
+    "zoneId" : 162
+  }, {
+    "parkingSpaceId" : 827,
+    "zoneId" : 40
+  }, {
+    "parkingSpaceId" : 828,
+    "zoneId" : 178
+  }, {
+    "parkingSpaceId" : 829,
+    "zoneId" : 3
+  }, {
+    "parkingSpaceId" : 830,
+    "zoneId" : 222
+  }, {
+    "parkingSpaceId" : 831,
+    "zoneId" : 46
+  }, {
+    "parkingSpaceId" : 832,
+    "zoneId" : 4
+  }, {
+    "parkingSpaceId" : 833,
+    "zoneId" : 47
+  }, {
+    "parkingSpaceId" : 834,
+    "zoneId" : 231
+  }, {
+    "parkingSpaceId" : 835,
+    "zoneId" : 137
+  }, {
+    "parkingSpaceId" : 836,
+    "zoneId" : 159
+  }, {
+    "parkingSpaceId" : 837,
+    "zoneId" : 9
+  }, {
+    "parkingSpaceId" : 838,
+    "zoneId" : 193
+  }, {
+    "parkingSpaceId" : 839,
+    "zoneId" : 196
+  }, {
+    "parkingSpaceId" : 840,
+    "zoneId" : 91
+  }, {
+    "parkingSpaceId" : 841,
+    "zoneId" : 236
+  }, {
+    "parkingSpaceId" : 842,
+    "zoneId" : 115
+  }, {
+    "parkingSpaceId" : 843,
+    "zoneId" : 129
+  }, {
+    "parkingSpaceId" : 844,
+    "zoneId" : 138
+  }, {
+    "parkingSpaceId" : 845,
+    "zoneId" : 236
+  }, {
+    "parkingSpaceId" : 846,
+    "zoneId" : 112
+  }, {
+    "parkingSpaceId" : 847,
+    "zoneId" : 230
+  }, {
+    "parkingSpaceId" : 848,
+    "zoneId" : 70
+  }, {
+    "parkingSpaceId" : 849,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 850,
+    "zoneId" : 116
+  }, {
+    "parkingSpaceId" : 851,
+    "zoneId" : 72
+  }, {
+    "parkingSpaceId" : 852,
+    "zoneId" : 19
+  }, {
+    "parkingSpaceId" : 853,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 854,
+    "zoneId" : 119
+  }, {
+    "parkingSpaceId" : 855,
+    "zoneId" : 47
+  }, {
+    "parkingSpaceId" : 856,
+    "zoneId" : 240
+  }, {
+    "parkingSpaceId" : 857,
+    "zoneId" : 100
+  }, {
+    "parkingSpaceId" : 858,
+    "zoneId" : 16
+  }, {
+    "parkingSpaceId" : 859,
+    "zoneId" : 174
+  }, {
+    "parkingSpaceId" : 860,
+    "zoneId" : 241
+  }, {
+    "parkingSpaceId" : 861,
+    "zoneId" : 124
+  }, {
+    "parkingSpaceId" : 862,
+    "zoneId" : 105
+  }, {
+    "parkingSpaceId" : 863,
+    "zoneId" : 226
+  }, {
+    "parkingSpaceId" : 864,
+    "zoneId" : 199
+  }, {
+    "parkingSpaceId" : 865,
+    "zoneId" : 29
+  }, {
+    "parkingSpaceId" : 866,
+    "zoneId" : 21
+  }, {
+    "parkingSpaceId" : 867,
+    "zoneId" : 135
+  }, {
+    "parkingSpaceId" : 868,
+    "zoneId" : 98
+  }, {
+    "parkingSpaceId" : 869,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 870,
+    "zoneId" : 9
+  }, {
+    "parkingSpaceId" : 871,
+    "zoneId" : 141
+  }, {
+    "parkingSpaceId" : 872,
+    "zoneId" : 63
+  }, {
+    "parkingSpaceId" : 873,
+    "zoneId" : 152
+  }, {
+    "parkingSpaceId" : 874,
+    "zoneId" : 1
+  }, {
+    "parkingSpaceId" : 875,
+    "zoneId" : 90
+  }, {
+    "parkingSpaceId" : 876,
+    "zoneId" : 202
+  }, {
+    "parkingSpaceId" : 877,
+    "zoneId" : 34
+  }, {
+    "parkingSpaceId" : 878,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 879,
+    "zoneId" : 129
+  }, {
+    "parkingSpaceId" : 880,
+    "zoneId" : 234
+  }, {
+    "parkingSpaceId" : 881,
+    "zoneId" : 127
+  }, {
+    "parkingSpaceId" : 882,
+    "zoneId" : 99
+  }, {
+    "parkingSpaceId" : 883,
+    "zoneId" : 24
+  }, {
+    "parkingSpaceId" : 884,
+    "zoneId" : 10
+  }, {
+    "parkingSpaceId" : 885,
+    "zoneId" : 120
+  }, {
+    "parkingSpaceId" : 886,
+    "zoneId" : 193
+  }, {
+    "parkingSpaceId" : 887,
+    "zoneId" : 147
+  }, {
+    "parkingSpaceId" : 888,
+    "zoneId" : 34
+  }, {
+    "parkingSpaceId" : 889,
+    "zoneId" : 204
+  }, {
+    "parkingSpaceId" : 890,
+    "zoneId" : 178
+  }, {
+    "parkingSpaceId" : 891,
+    "zoneId" : 55
+  }, {
+    "parkingSpaceId" : 892,
+    "zoneId" : 191
+  }, {
+    "parkingSpaceId" : 893,
+    "zoneId" : 241
+  }, {
+    "parkingSpaceId" : 894,
+    "zoneId" : 75
+  }, {
+    "parkingSpaceId" : 895,
+    "zoneId" : 145
+  }, {
+    "parkingSpaceId" : 896,
+    "zoneId" : 231
+  }, {
+    "parkingSpaceId" : 897,
+    "zoneId" : 196
+  }, {
+    "parkingSpaceId" : 898,
+    "zoneId" : 233
+  }, {
+    "parkingSpaceId" : 899,
+    "zoneId" : 186
+  }, {
+    "parkingSpaceId" : 900,
+    "zoneId" : 99
+  }, {
+    "parkingSpaceId" : 901,
+    "zoneId" : 22
+  }, {
+    "parkingSpaceId" : 902,
+    "zoneId" : 42
+  }, {
+    "parkingSpaceId" : 903,
+    "zoneId" : 155
+  }, {
+    "parkingSpaceId" : 904,
+    "zoneId" : 185
+  }, {
+    "parkingSpaceId" : 905,
+    "zoneId" : 95
+  }, {
+    "parkingSpaceId" : 906,
+    "zoneId" : 154
+  }, {
+    "parkingSpaceId" : 907,
+    "zoneId" : 51
+  }, {
+    "parkingSpaceId" : 908,
+    "zoneId" : 140
+  }, {
+    "parkingSpaceId" : 909,
+    "zoneId" : 239
+  }, {
+    "parkingSpaceId" : 910,
+    "zoneId" : 233
+  }, {
+    "parkingSpaceId" : 911,
+    "zoneId" : 111
+  }, {
+    "parkingSpaceId" : 912,
+    "zoneId" : 188
+  }, {
+    "parkingSpaceId" : 913,
+    "zoneId" : 161
+  }, {
+    "parkingSpaceId" : 914,
+    "zoneId" : 236
+  }, {
+    "parkingSpaceId" : 915,
+    "zoneId" : 101
+  }, {
+    "parkingSpaceId" : 916,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 917,
+    "zoneId" : 51
+  }, {
+    "parkingSpaceId" : 918,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 919,
+    "zoneId" : 79
+  }, {
+    "parkingSpaceId" : 920,
+    "zoneId" : 121
+  }, {
+    "parkingSpaceId" : 921,
+    "zoneId" : 160
+  }, {
+    "parkingSpaceId" : 922,
+    "zoneId" : 24
+  }, {
+    "parkingSpaceId" : 923,
+    "zoneId" : 102
+  }, {
+    "parkingSpaceId" : 924,
+    "zoneId" : 109
+  }, {
+    "parkingSpaceId" : 925,
+    "zoneId" : 138
+  }, {
+    "parkingSpaceId" : 926,
+    "zoneId" : 21
+  }, {
+    "parkingSpaceId" : 927,
+    "zoneId" : 33
+  }, {
+    "parkingSpaceId" : 928,
+    "zoneId" : 96
+  }, {
+    "parkingSpaceId" : 929,
+    "zoneId" : 212
+  }, {
+    "parkingSpaceId" : 930,
+    "zoneId" : 193
+  }, {
+    "parkingSpaceId" : 931,
+    "zoneId" : 112
+  }, {
+    "parkingSpaceId" : 932,
+    "zoneId" : 0
+  }, {
+    "parkingSpaceId" : 933,
+    "zoneId" : 194
+  }, {
+    "parkingSpaceId" : 934,
+    "zoneId" : 223
+  }, {
+    "parkingSpaceId" : 935,
+    "zoneId" : 14
+  }, {
+    "parkingSpaceId" : 936,
+    "zoneId" : 197
+  }, {
+    "parkingSpaceId" : 937,
+    "zoneId" : 239
+  }, {
+    "parkingSpaceId" : 938,
+    "zoneId" : 179
+  }, {
+    "parkingSpaceId" : 939,
+    "zoneId" : 65
+  }, {
+    "parkingSpaceId" : 940,
+    "zoneId" : 151
+  }, {
+    "parkingSpaceId" : 941,
+    "zoneId" : 4
+  }, {
+    "parkingSpaceId" : 942,
+    "zoneId" : 1
+  }, {
+    "parkingSpaceId" : 943,
+    "zoneId" : 9
+  }, {
+    "parkingSpaceId" : 944,
+    "zoneId" : 112
+  }, {
+    "parkingSpaceId" : 945,
+    "zoneId" : 85
+  }, {
+    "parkingSpaceId" : 946,
+    "zoneId" : 57
+  }, {
+    "parkingSpaceId" : 947,
+    "zoneId" : 126
+  }, {
+    "parkingSpaceId" : 948,
+    "zoneId" : 20
+  }, {
+    "parkingSpaceId" : 949,
+    "zoneId" : 205
+  }, {
+    "parkingSpaceId" : 950,
+    "zoneId" : 206
+  }, {
+    "parkingSpaceId" : 951,
+    "zoneId" : 30
+  }, {
+    "parkingSpaceId" : 952,
+    "zoneId" : 71
+  }, {
+    "parkingSpaceId" : 953,
+    "zoneId" : 195
+  }, {
+    "parkingSpaceId" : 954,
+    "zoneId" : 44
+  }, {
+    "parkingSpaceId" : 955,
+    "zoneId" : 208
+  }, {
+    "parkingSpaceId" : 956,
+    "zoneId" : 93
+  }, {
+    "parkingSpaceId" : 957,
+    "zoneId" : 166
+  }, {
+    "parkingSpaceId" : 958,
+    "zoneId" : 20
+  }, {
+    "parkingSpaceId" : 959,
+    "zoneId" : 185
+  }, {
+    "parkingSpaceId" : 960,
+    "zoneId" : 38
+  }, {
+    "parkingSpaceId" : 961,
+    "zoneId" : 83
+  }, {
+    "parkingSpaceId" : 962,
+    "zoneId" : 53
+  }, {
+    "parkingSpaceId" : 963,
+    "zoneId" : 224
+  }, {
+    "parkingSpaceId" : 964,
+    "zoneId" : 64
+  }, {
+    "parkingSpaceId" : 965,
+    "zoneId" : 167
+  }, {
+    "parkingSpaceId" : 966,
+    "zoneId" : 141
+  }, {
+    "parkingSpaceId" : 967,
+    "zoneId" : 138
+  }, {
+    "parkingSpaceId" : 968,
+    "zoneId" : 98
+  }, {
+    "parkingSpaceId" : 969,
+    "zoneId" : 194
+  }, {
+    "parkingSpaceId" : 970,
+    "zoneId" : 41
+  }, {
+    "parkingSpaceId" : 971,
+    "zoneId" : 42
+  }, {
+    "parkingSpaceId" : 972,
+    "zoneId" : 74
+  }, {
+    "parkingSpaceId" : 973,
+    "zoneId" : 8
+  }, {
+    "parkingSpaceId" : 974,
+    "zoneId" : 10
+  }, {
+    "parkingSpaceId" : 975,
+    "zoneId" : 9
+  }, {
+    "parkingSpaceId" : 976,
+    "zoneId" : 32
+  }, {
+    "parkingSpaceId" : 977,
+    "zoneId" : 7
+  }, {
+    "parkingSpaceId" : 978,
+    "zoneId" : 72
+  }, {
+    "parkingSpaceId" : 979,
+    "zoneId" : 147
+  }, {
+    "parkingSpaceId" : 980,
+    "zoneId" : 136
+  }, {
+    "parkingSpaceId" : 981,
+    "zoneId" : 172
+  }, {
+    "parkingSpaceId" : 982,
+    "zoneId" : 153
+  }, {
+    "parkingSpaceId" : 983,
+    "zoneId" : 152
+  }, {
+    "parkingSpaceId" : 984,
+    "zoneId" : 208
+  }, {
+    "parkingSpaceId" : 985,
+    "zoneId" : 28
+  }, {
+    "parkingSpaceId" : 986,
+    "zoneId" : 176
+  }, {
+    "parkingSpaceId" : 987,
+    "zoneId" : 147
+  }, {
+    "parkingSpaceId" : 988,
+    "zoneId" : 96
+  }, {
+    "parkingSpaceId" : 989,
+    "zoneId" : 105
+  }, {
+    "parkingSpaceId" : 990,
+    "zoneId" : 203
+  }, {
+    "parkingSpaceId" : 991,
+    "zoneId" : 81
+  }, {
+    "parkingSpaceId" : 992,
+    "zoneId" : 211
+  }, {
+    "parkingSpaceId" : 993,
+    "zoneId" : 111
+  }, {
+    "parkingSpaceId" : 994,
+    "zoneId" : 51
+  }, {
+    "parkingSpaceId" : 995,
+    "zoneId" : 71
+  }, {
+    "parkingSpaceId" : 996,
+    "zoneId" : 138
+  }, {
+    "parkingSpaceId" : 997,
+    "zoneId" : 238
+  }, {
+    "parkingSpaceId" : 998,
+    "zoneId" : 16
+  }, {
+    "parkingSpaceId" : 999,
+    "zoneId" : 19
+  } ],
+  "parkingEvents" : [ {
+    "closed" : true,
+    "startTime" : "2023-05-14T17:55",
+    "endTime" : "2023-05-14T17:59",
+    "vehicleId" : 0,
+    "parkingSpaceId" : 255
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-16T06:25",
+    "endTime" : "2022-12-16T06:44",
+    "vehicleId" : 0,
+    "parkingSpaceId" : 652
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-05T09:59",
+    "endTime" : "2023-07-05T20:27",
+    "vehicleId" : 0,
+    "parkingSpaceId" : 631
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-12T07:58",
+    "endTime" : "2022-12-12T15:35",
+    "vehicleId" : 0,
+    "parkingSpaceId" : 49
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-20T15:01",
+    "endTime" : "2023-03-20T22:29",
+    "vehicleId" : 0,
+    "parkingSpaceId" : 125
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-09T11:06",
+    "endTime" : "2023-01-09T11:45",
+    "vehicleId" : 1,
+    "parkingSpaceId" : 401
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-02T20:22",
+    "endTime" : "2023-02-02T20:29",
+    "vehicleId" : 1,
+    "parkingSpaceId" : 109
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-29T18:17",
+    "endTime" : "2022-11-29T18:18",
+    "vehicleId" : 1,
+    "parkingSpaceId" : 834
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-21T17:25",
+    "endTime" : "2023-02-21T18:45",
+    "vehicleId" : 1,
+    "parkingSpaceId" : 694
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-15T21:51",
+    "endTime" : "2022-10-16T00:56",
+    "vehicleId" : 1,
+    "parkingSpaceId" : 846
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-08T04:14",
+    "endTime" : "2022-11-08T06:36",
+    "vehicleId" : 2,
+    "parkingSpaceId" : 722
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-03T03:00",
+    "endTime" : "2023-01-04T01:29",
+    "vehicleId" : 2,
+    "parkingSpaceId" : 636
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-18T21:04",
+    "endTime" : "2023-04-19T11:00",
+    "vehicleId" : 2,
+    "parkingSpaceId" : 461
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-31T14:41",
+    "endTime" : "2023-05-31T14:57",
+    "vehicleId" : 2,
+    "parkingSpaceId" : 834
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-27T06:43",
+    "endTime" : "2023-06-27T12:38",
+    "vehicleId" : 2,
+    "parkingSpaceId" : 555
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-19T23:58",
+    "endTime" : "2022-10-20T09:08",
+    "vehicleId" : 3,
+    "parkingSpaceId" : 43
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-08T15:07",
+    "endTime" : "2022-09-08T17:00",
+    "vehicleId" : 3,
+    "parkingSpaceId" : 947
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-30T01:58",
+    "endTime" : "2023-03-30T03:24",
+    "vehicleId" : 3,
+    "parkingSpaceId" : 295
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-09T03:42",
+    "endTime" : "2023-05-09T15:51",
+    "vehicleId" : 3,
+    "parkingSpaceId" : 700
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-03T06:06",
+    "endTime" : "2023-01-03T18:04",
+    "vehicleId" : 3,
+    "parkingSpaceId" : 423
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-02T01:54",
+    "endTime" : "2023-07-02T02:03",
+    "vehicleId" : 4,
+    "parkingSpaceId" : 64
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-01T04:15",
+    "endTime" : "2022-11-01T20:03",
+    "vehicleId" : 4,
+    "parkingSpaceId" : 413
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-27T17:11",
+    "endTime" : "2023-07-27T18:52",
+    "vehicleId" : 4,
+    "parkingSpaceId" : 732
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-05T13:51",
+    "endTime" : "2022-12-05T22:59",
+    "vehicleId" : 4,
+    "parkingSpaceId" : 285
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-17T17:21",
+    "endTime" : "2023-03-17T19:01",
+    "vehicleId" : 4,
+    "parkingSpaceId" : 710
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-11T19:56",
+    "endTime" : "2022-12-12T03:55",
+    "vehicleId" : 5,
+    "parkingSpaceId" : 994
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-06T20:39",
+    "endTime" : "2023-03-06T23:17",
+    "vehicleId" : 5,
+    "parkingSpaceId" : 566
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-28T18:40",
+    "endTime" : "2023-01-29T05:12",
+    "vehicleId" : 5,
+    "parkingSpaceId" : 632
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-23T02:18",
+    "endTime" : "2023-04-23T05:03",
+    "vehicleId" : 5,
+    "parkingSpaceId" : 15
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-09T19:32",
+    "endTime" : "2023-02-10T05:44",
+    "vehicleId" : 5,
+    "parkingSpaceId" : 720
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-05T21:19",
+    "endTime" : "2022-09-06T04:03",
+    "vehicleId" : 6,
+    "parkingSpaceId" : 843
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-10T18:10",
+    "endTime" : "2023-06-10T22:01",
+    "vehicleId" : 6,
+    "parkingSpaceId" : 396
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-28T15:55",
+    "endTime" : "2022-12-29T10:34",
+    "vehicleId" : 6,
+    "parkingSpaceId" : 806
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-30T08:10",
+    "endTime" : "2023-01-30T14:24",
+    "vehicleId" : 6,
+    "parkingSpaceId" : 347
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-11T23:46",
+    "endTime" : "2023-01-12T02:52",
+    "vehicleId" : 6,
+    "parkingSpaceId" : 115
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-28T08:18",
+    "endTime" : "2023-07-28T18:33",
+    "vehicleId" : 7,
+    "parkingSpaceId" : 720
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-22T19:31",
+    "endTime" : "2022-10-23T05:54",
+    "vehicleId" : 7,
+    "parkingSpaceId" : 795
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-01T12:50",
+    "endTime" : "2023-01-01T13:11",
+    "vehicleId" : 7,
+    "parkingSpaceId" : 854
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-27T19:15",
+    "endTime" : "2023-05-28T05:00",
+    "vehicleId" : 7,
+    "parkingSpaceId" : 923
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-23T08:15",
+    "endTime" : "2022-11-23T16:53",
+    "vehicleId" : 7,
+    "parkingSpaceId" : 471
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-24T06:18",
+    "endTime" : "2023-02-24T13:39",
+    "vehicleId" : 8,
+    "parkingSpaceId" : 463
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-29T23:54",
+    "endTime" : "2023-07-30T18:12",
+    "vehicleId" : 8,
+    "parkingSpaceId" : 585
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-10T21:56",
+    "endTime" : "2023-07-11T20:38",
+    "vehicleId" : 8,
+    "parkingSpaceId" : 457
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-21T21:16",
+    "endTime" : "2022-11-22T11:43",
+    "vehicleId" : 8,
+    "parkingSpaceId" : 602
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-14T12:50",
+    "endTime" : "2023-05-14T16:38",
+    "vehicleId" : 8,
+    "parkingSpaceId" : 823
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-10T11:39",
+    "endTime" : "2023-05-10T12:20",
+    "vehicleId" : 9,
+    "parkingSpaceId" : 89
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-25T02:44",
+    "endTime" : "2022-11-25T02:55",
+    "vehicleId" : 9,
+    "parkingSpaceId" : 459
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-28T14:22",
+    "endTime" : "2023-04-29T00:17",
+    "vehicleId" : 9,
+    "parkingSpaceId" : 140
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-05T06:14",
+    "endTime" : "2022-09-05T22:52",
+    "vehicleId" : 9,
+    "parkingSpaceId" : 837
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-31T21:59",
+    "endTime" : "2023-08-01T20:33",
+    "vehicleId" : 9,
+    "parkingSpaceId" : 717
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-26T06:35",
+    "endTime" : "2023-03-26T06:54",
+    "vehicleId" : 10,
+    "parkingSpaceId" : 862
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-13T10:17",
+    "endTime" : "2023-08-13T18:11",
+    "vehicleId" : 10,
+    "parkingSpaceId" : 211
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-17T21:57",
+    "endTime" : "2022-09-18T05:39",
+    "vehicleId" : 10,
+    "parkingSpaceId" : 754
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-31T01:57",
+    "endTime" : "2023-01-31T16:02",
+    "vehicleId" : 10,
+    "parkingSpaceId" : 600
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-31T22:19",
+    "endTime" : "2022-11-01T00:10",
+    "vehicleId" : 10,
+    "parkingSpaceId" : 747
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-04T12:12",
+    "endTime" : "2022-11-04T14:23",
+    "vehicleId" : 11,
+    "parkingSpaceId" : 439
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-15T04:35",
+    "endTime" : "2023-05-15T06:25",
+    "vehicleId" : 11,
+    "parkingSpaceId" : 31
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-23T17:04",
+    "endTime" : "2023-05-23T18:29",
+    "vehicleId" : 11,
+    "parkingSpaceId" : 656
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-28T04:30",
+    "endTime" : "2022-09-28T13:18",
+    "vehicleId" : 11,
+    "parkingSpaceId" : 317
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-15T19:01",
+    "endTime" : "2022-12-15T22:57",
+    "vehicleId" : 11,
+    "parkingSpaceId" : 498
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-03T16:37",
+    "endTime" : "2023-08-04T01:18",
+    "vehicleId" : 12,
+    "parkingSpaceId" : 890
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-01T01:11",
+    "endTime" : "2023-08-01T16:18",
+    "vehicleId" : 12,
+    "parkingSpaceId" : 34
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-23T09:19",
+    "endTime" : "2022-12-23T16:55",
+    "vehicleId" : 12,
+    "parkingSpaceId" : 581
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-27T11:51",
+    "endTime" : "2023-07-27T12:38",
+    "vehicleId" : 12,
+    "parkingSpaceId" : 588
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-24T13:35",
+    "endTime" : "2023-03-24T13:44",
+    "vehicleId" : 12,
+    "parkingSpaceId" : 326
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-27T04:06",
+    "endTime" : "2022-11-27T06:20",
+    "vehicleId" : 13,
+    "parkingSpaceId" : 999
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-08T23:59",
+    "endTime" : "2023-06-09T00:29",
+    "vehicleId" : 13,
+    "parkingSpaceId" : 719
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-13T17:52",
+    "endTime" : "2023-03-13T17:54",
+    "vehicleId" : 13,
+    "parkingSpaceId" : 64
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-01T16:03",
+    "endTime" : "2023-05-01T22:19",
+    "vehicleId" : 13,
+    "parkingSpaceId" : 114
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-18T06:03",
+    "endTime" : "2023-06-18T10:18",
+    "vehicleId" : 13,
+    "parkingSpaceId" : 880
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-19T15:42",
+    "endTime" : "2023-06-19T18:12",
+    "vehicleId" : 14,
+    "parkingSpaceId" : 486
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-05T05:02",
+    "endTime" : "2023-07-05T06:20",
+    "vehicleId" : 14,
+    "parkingSpaceId" : 807
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-14T21:20",
+    "endTime" : "2023-06-15T05:22",
+    "vehicleId" : 14,
+    "parkingSpaceId" : 859
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-31T18:02",
+    "endTime" : "2023-01-01T13:04",
+    "vehicleId" : 14,
+    "parkingSpaceId" : 353
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-03T21:47",
+    "endTime" : "2023-07-03T21:52",
+    "vehicleId" : 14,
+    "parkingSpaceId" : 707
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-02T20:41",
+    "endTime" : "2023-07-03T06:29",
+    "vehicleId" : 15,
+    "parkingSpaceId" : 432
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-25T01:33",
+    "endTime" : "2023-04-25T07:24",
+    "vehicleId" : 15,
+    "parkingSpaceId" : 966
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-15T09:30",
+    "endTime" : "2023-07-15T23:01",
+    "vehicleId" : 15,
+    "parkingSpaceId" : 485
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-13T04:01",
+    "endTime" : "2022-10-14T00:43",
+    "vehicleId" : 15,
+    "parkingSpaceId" : 276
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-19T22:43",
+    "endTime" : "2023-05-20T08:42",
+    "vehicleId" : 15,
+    "parkingSpaceId" : 41
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-28T18:02",
+    "endTime" : "2023-01-29T01:05",
+    "vehicleId" : 16,
+    "parkingSpaceId" : 501
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-31T06:57",
+    "endTime" : "2023-03-31T12:10",
+    "vehicleId" : 16,
+    "parkingSpaceId" : 758
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-29T07:03",
+    "endTime" : "2022-11-29T08:20",
+    "vehicleId" : 16,
+    "parkingSpaceId" : 135
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-02T20:20",
+    "endTime" : "2023-07-03T01:34",
+    "vehicleId" : 16,
+    "parkingSpaceId" : 934
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-15T19:21",
+    "endTime" : "2023-02-15T22:41",
+    "vehicleId" : 16,
+    "parkingSpaceId" : 826
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-01T09:55",
+    "endTime" : "2023-03-02T05:01",
+    "vehicleId" : 17,
+    "parkingSpaceId" : 71
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-07T11:39",
+    "endTime" : "2022-12-07T12:38",
+    "vehicleId" : 17,
+    "parkingSpaceId" : 326
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-21T01:46",
+    "endTime" : "2022-09-21T04:03",
+    "vehicleId" : 17,
+    "parkingSpaceId" : 44
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-03T08:37",
+    "endTime" : "2023-07-04T04:17",
+    "vehicleId" : 17,
+    "parkingSpaceId" : 401
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-03T02:59",
+    "endTime" : "2023-04-03T04:26",
+    "vehicleId" : 17,
+    "parkingSpaceId" : 372
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-08T20:05",
+    "endTime" : "2022-09-09T01:19",
+    "vehicleId" : 18,
+    "parkingSpaceId" : 10
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-03T08:56",
+    "endTime" : "2023-07-03T17:17",
+    "vehicleId" : 18,
+    "parkingSpaceId" : 32
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-08T16:20",
+    "endTime" : "2022-11-08T19:09",
+    "vehicleId" : 18,
+    "parkingSpaceId" : 462
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-07T02:33",
+    "endTime" : "2023-07-07T03:44",
+    "vehicleId" : 18,
+    "parkingSpaceId" : 263
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-30T00:56",
+    "endTime" : "2023-06-30T02:26",
+    "vehicleId" : 18,
+    "parkingSpaceId" : 748
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-29T21:30",
+    "endTime" : "2023-07-30T04:03",
+    "vehicleId" : 19,
+    "parkingSpaceId" : 985
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-20T19:30",
+    "endTime" : "2023-03-21T02:34",
+    "vehicleId" : 19,
+    "parkingSpaceId" : 749
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-15T12:10",
+    "endTime" : "2022-10-15T18:51",
+    "vehicleId" : 19,
+    "parkingSpaceId" : 887
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-22T08:34",
+    "endTime" : "2022-12-22T19:43",
+    "vehicleId" : 19,
+    "parkingSpaceId" : 228
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-05T08:18",
+    "endTime" : "2022-09-05T09:17",
+    "vehicleId" : 19,
+    "parkingSpaceId" : 567
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-18T22:56",
+    "endTime" : "2022-09-19T10:03",
+    "vehicleId" : 20,
+    "parkingSpaceId" : 523
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-09T19:46",
+    "endTime" : "2022-09-09T21:59",
+    "vehicleId" : 20,
+    "parkingSpaceId" : 155
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-06T17:25",
+    "endTime" : "2022-09-06T19:29",
+    "vehicleId" : 20,
+    "parkingSpaceId" : 959
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-31T22:29",
+    "endTime" : "2023-01-31T23:18",
+    "vehicleId" : 20,
+    "parkingSpaceId" : 271
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-11T19:58",
+    "endTime" : "2023-06-11T22:47",
+    "vehicleId" : 20,
+    "parkingSpaceId" : 882
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-28T14:54",
+    "endTime" : "2023-04-28T20:40",
+    "vehicleId" : 21,
+    "parkingSpaceId" : 219
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-12T11:34",
+    "endTime" : "2023-05-12T13:06",
+    "vehicleId" : 21,
+    "parkingSpaceId" : 328
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-22T11:11",
+    "endTime" : "2023-05-22T18:21",
+    "vehicleId" : 21,
+    "parkingSpaceId" : 173
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-29T18:00",
+    "endTime" : "2023-06-30T01:54",
+    "vehicleId" : 21,
+    "parkingSpaceId" : 1
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-11T15:19",
+    "endTime" : "2023-03-11T16:31",
+    "vehicleId" : 21,
+    "parkingSpaceId" : 272
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-22T18:18",
+    "endTime" : "2022-10-22T18:27",
+    "vehicleId" : 22,
+    "parkingSpaceId" : 44
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-20T07:14",
+    "endTime" : "2022-10-20T07:58",
+    "vehicleId" : 22,
+    "parkingSpaceId" : 255
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-03T23:45",
+    "endTime" : "2023-06-04T07:57",
+    "vehicleId" : 22,
+    "parkingSpaceId" : 951
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-09T16:15",
+    "endTime" : "2022-12-09T20:47",
+    "vehicleId" : 22,
+    "parkingSpaceId" : 961
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-03T00:09",
+    "endTime" : "2023-06-03T09:57",
+    "vehicleId" : 22,
+    "parkingSpaceId" : 243
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-10T06:18",
+    "endTime" : "2023-04-10T08:03",
+    "vehicleId" : 23,
+    "parkingSpaceId" : 119
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-22T04:51",
+    "endTime" : "2022-12-22T21:11",
+    "vehicleId" : 23,
+    "parkingSpaceId" : 693
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-24T09:38",
+    "endTime" : "2022-09-25T08:04",
+    "vehicleId" : 23,
+    "parkingSpaceId" : 687
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-14T16:52",
+    "endTime" : "2022-09-15T01:24",
+    "vehicleId" : 23,
+    "parkingSpaceId" : 991
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-08T23:32",
+    "endTime" : "2022-10-09T01:44",
+    "vehicleId" : 23,
+    "parkingSpaceId" : 705
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-10T18:02",
+    "endTime" : "2023-03-10T18:38",
+    "vehicleId" : 24,
+    "parkingSpaceId" : 720
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-23T15:32",
+    "endTime" : "2023-01-24T01:38",
+    "vehicleId" : 24,
+    "parkingSpaceId" : 425
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-13T03:22",
+    "endTime" : "2023-04-13T23:36",
+    "vehicleId" : 24,
+    "parkingSpaceId" : 507
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-29T16:30",
+    "endTime" : "2023-01-29T19:52",
+    "vehicleId" : 24,
+    "parkingSpaceId" : 268
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-16T11:19",
+    "endTime" : "2022-12-16T12:12",
+    "vehicleId" : 24,
+    "parkingSpaceId" : 672
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-06T17:30",
+    "endTime" : "2023-01-07T01:46",
+    "vehicleId" : 25,
+    "parkingSpaceId" : 786
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-28T16:00",
+    "endTime" : "2023-04-28T19:18",
+    "vehicleId" : 25,
+    "parkingSpaceId" : 193
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-31T15:35",
+    "endTime" : "2023-08-01T06:06",
+    "vehicleId" : 25,
+    "parkingSpaceId" : 156
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-02T19:53",
+    "endTime" : "2022-12-02T20:34",
+    "vehicleId" : 25,
+    "parkingSpaceId" : 121
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-26T13:18",
+    "endTime" : "2022-10-26T14:54",
+    "vehicleId" : 25,
+    "parkingSpaceId" : 166
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-08T09:58",
+    "endTime" : "2022-10-08T15:04",
+    "vehicleId" : 26,
+    "parkingSpaceId" : 265
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-29T16:28",
+    "endTime" : "2023-03-29T19:06",
+    "vehicleId" : 26,
+    "parkingSpaceId" : 134
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-02T01:50",
+    "endTime" : "2023-01-02T08:59",
+    "vehicleId" : 26,
+    "parkingSpaceId" : 763
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-30T11:39",
+    "endTime" : "2023-05-30T11:53",
+    "vehicleId" : 26,
+    "parkingSpaceId" : 237
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-14T01:18",
+    "endTime" : "2022-11-14T12:37",
+    "vehicleId" : 26,
+    "parkingSpaceId" : 275
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-14T17:08",
+    "endTime" : "2022-11-14T19:13",
+    "vehicleId" : 27,
+    "parkingSpaceId" : 941
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-22T20:47",
+    "endTime" : "2023-01-23T12:11",
+    "vehicleId" : 27,
+    "parkingSpaceId" : 87
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-28T13:31",
+    "endTime" : "2023-01-29T04:32",
+    "vehicleId" : 27,
+    "parkingSpaceId" : 95
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-16T15:59",
+    "endTime" : "2023-05-16T17:40",
+    "vehicleId" : 27,
+    "parkingSpaceId" : 625
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-20T13:53",
+    "endTime" : "2023-03-20T22:15",
+    "vehicleId" : 27,
+    "parkingSpaceId" : 337
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-02T03:15",
+    "endTime" : "2023-02-02T03:31",
+    "vehicleId" : 28,
+    "parkingSpaceId" : 737
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-23T07:45",
+    "endTime" : "2023-02-23T11:06",
+    "vehicleId" : 28,
+    "parkingSpaceId" : 989
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-10T21:35",
+    "endTime" : "2022-12-10T23:47",
+    "vehicleId" : 28,
+    "parkingSpaceId" : 907
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-02T00:28",
+    "endTime" : "2022-09-02T09:36",
+    "vehicleId" : 28,
+    "parkingSpaceId" : 39
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-19T20:50",
+    "endTime" : "2023-02-20T03:02",
+    "vehicleId" : 28,
+    "parkingSpaceId" : 140
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-05T02:07",
+    "endTime" : "2022-12-05T02:34",
+    "vehicleId" : 29,
+    "parkingSpaceId" : 281
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-28T13:26",
+    "endTime" : "2023-06-28T23:11",
+    "vehicleId" : 29,
+    "parkingSpaceId" : 558
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-04T09:56",
+    "endTime" : "2023-02-04T14:31",
+    "vehicleId" : 29,
+    "parkingSpaceId" : 42
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-18T04:02",
+    "endTime" : "2023-03-18T04:06",
+    "vehicleId" : 29,
+    "parkingSpaceId" : 231
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-27T19:57",
+    "endTime" : "2022-10-27T19:58",
+    "vehicleId" : 29,
+    "parkingSpaceId" : 756
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-16T22:31",
+    "endTime" : "2022-09-17T00:57",
+    "vehicleId" : 30,
+    "parkingSpaceId" : 683
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-14T06:02",
+    "endTime" : "2023-08-15T02:21",
+    "vehicleId" : 30,
+    "parkingSpaceId" : 257
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-03T15:51",
+    "endTime" : "2023-02-03T17:02",
+    "vehicleId" : 30,
+    "parkingSpaceId" : 578
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-01T15:23",
+    "endTime" : "2022-11-01T17:37",
+    "vehicleId" : 30,
+    "parkingSpaceId" : 566
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-27T17:37",
+    "endTime" : "2022-09-28T02:12",
+    "vehicleId" : 30,
+    "parkingSpaceId" : 753
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-28T08:52",
+    "endTime" : "2022-12-28T21:23",
+    "vehicleId" : 31,
+    "parkingSpaceId" : 618
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-08T21:32",
+    "endTime" : "2022-12-09T04:28",
+    "vehicleId" : 31,
+    "parkingSpaceId" : 997
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-06T23:41",
+    "endTime" : "2022-12-07T05:42",
+    "vehicleId" : 31,
+    "parkingSpaceId" : 732
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-16T00:44",
+    "endTime" : "2023-06-16T15:50",
+    "vehicleId" : 31,
+    "parkingSpaceId" : 0
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-02T13:24",
+    "endTime" : "2022-12-02T14:26",
+    "vehicleId" : 31,
+    "parkingSpaceId" : 668
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-13T14:31",
+    "endTime" : "2023-04-14T07:36",
+    "vehicleId" : 32,
+    "parkingSpaceId" : 566
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-05T01:45",
+    "endTime" : "2023-06-05T10:02",
+    "vehicleId" : 32,
+    "parkingSpaceId" : 410
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-01T13:17",
+    "endTime" : "2022-11-01T15:54",
+    "vehicleId" : 32,
+    "parkingSpaceId" : 122
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-24T08:33",
+    "endTime" : "2023-05-24T08:34",
+    "vehicleId" : 32,
+    "parkingSpaceId" : 428
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-03T01:58",
+    "endTime" : "2022-09-03T05:34",
+    "vehicleId" : 32,
+    "parkingSpaceId" : 48
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-23T04:21",
+    "endTime" : "2023-04-23T04:47",
+    "vehicleId" : 33,
+    "parkingSpaceId" : 223
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-10T00:26",
+    "endTime" : "2023-04-10T20:10",
+    "vehicleId" : 33,
+    "parkingSpaceId" : 674
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-25T15:23",
+    "endTime" : "2022-09-26T12:21",
+    "vehicleId" : 33,
+    "parkingSpaceId" : 557
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-04T21:16",
+    "endTime" : "2023-06-05T18:26",
+    "vehicleId" : 33,
+    "parkingSpaceId" : 241
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-13T07:27",
+    "endTime" : "2023-06-13T14:23",
+    "vehicleId" : 33,
+    "parkingSpaceId" : 372
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-23T22:26",
+    "endTime" : "2023-03-23T23:35",
+    "vehicleId" : 34,
+    "parkingSpaceId" : 61
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-14T19:48",
+    "endTime" : "2023-07-15T03:51",
+    "vehicleId" : 34,
+    "parkingSpaceId" : 689
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-06T12:44",
+    "endTime" : "2023-01-06T17:01",
+    "vehicleId" : 34,
+    "parkingSpaceId" : 487
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-04T01:48",
+    "endTime" : "2023-07-04T17:16",
+    "vehicleId" : 34,
+    "parkingSpaceId" : 624
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-20T17:23",
+    "endTime" : "2023-04-20T21:06",
+    "vehicleId" : 34,
+    "parkingSpaceId" : 961
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-07T12:16",
+    "endTime" : "2023-08-07T15:20",
+    "vehicleId" : 35,
+    "parkingSpaceId" : 905
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-07T10:59",
+    "endTime" : "2023-03-07T11:16",
+    "vehicleId" : 35,
+    "parkingSpaceId" : 138
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-10T01:42",
+    "endTime" : "2023-02-10T01:52",
+    "vehicleId" : 35,
+    "parkingSpaceId" : 196
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-09T23:14",
+    "endTime" : "2022-09-10T07:39",
+    "vehicleId" : 35,
+    "parkingSpaceId" : 178
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-23T05:00",
+    "endTime" : "2023-06-23T07:04",
+    "vehicleId" : 35,
+    "parkingSpaceId" : 391
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-18T23:19",
+    "endTime" : "2023-02-19T03:05",
+    "vehicleId" : 36,
+    "parkingSpaceId" : 489
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-19T21:02",
+    "endTime" : "2022-11-19T22:07",
+    "vehicleId" : 36,
+    "parkingSpaceId" : 37
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-14T09:25",
+    "endTime" : "2023-02-14T10:23",
+    "vehicleId" : 36,
+    "parkingSpaceId" : 270
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-17T08:05",
+    "endTime" : "2023-02-17T11:19",
+    "vehicleId" : 36,
+    "parkingSpaceId" : 755
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-06T10:29",
+    "endTime" : "2022-12-06T21:51",
+    "vehicleId" : 36,
+    "parkingSpaceId" : 168
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-10T07:02",
+    "endTime" : "2023-08-10T08:28",
+    "vehicleId" : 37,
+    "parkingSpaceId" : 153
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-05T19:34",
+    "endTime" : "2023-01-05T23:39",
+    "vehicleId" : 37,
+    "parkingSpaceId" : 575
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-21T16:14",
+    "endTime" : "2023-01-21T21:42",
+    "vehicleId" : 37,
+    "parkingSpaceId" : 495
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-09T01:50",
+    "endTime" : "2023-02-09T02:50",
+    "vehicleId" : 37,
+    "parkingSpaceId" : 120
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-07T13:59",
+    "endTime" : "2023-07-07T15:32",
+    "vehicleId" : 37,
+    "parkingSpaceId" : 299
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-31T05:49",
+    "endTime" : "2022-10-31T16:14",
+    "vehicleId" : 38,
+    "parkingSpaceId" : 171
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-26T06:16",
+    "endTime" : "2023-06-26T11:22",
+    "vehicleId" : 38,
+    "parkingSpaceId" : 537
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-03T22:13",
+    "endTime" : "2023-01-03T23:28",
+    "vehicleId" : 38,
+    "parkingSpaceId" : 29
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-03T13:36",
+    "endTime" : "2022-10-03T18:14",
+    "vehicleId" : 38,
+    "parkingSpaceId" : 572
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-28T00:48",
+    "endTime" : "2023-04-28T06:32",
+    "vehicleId" : 38,
+    "parkingSpaceId" : 351
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-07T08:05",
+    "endTime" : "2023-01-07T11:09",
+    "vehicleId" : 39,
+    "parkingSpaceId" : 147
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-27T19:27",
+    "endTime" : "2023-03-27T23:30",
+    "vehicleId" : 39,
+    "parkingSpaceId" : 808
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-10T07:03",
+    "endTime" : "2023-03-10T12:56",
+    "vehicleId" : 39,
+    "parkingSpaceId" : 879
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-03T18:41",
+    "endTime" : "2022-10-03T21:04",
+    "vehicleId" : 39,
+    "parkingSpaceId" : 259
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-14T02:53",
+    "endTime" : "2022-12-14T15:06",
+    "vehicleId" : 39,
+    "parkingSpaceId" : 816
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-27T03:26",
+    "endTime" : "2023-02-27T15:38",
+    "vehicleId" : 40,
+    "parkingSpaceId" : 678
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-06T11:48",
+    "endTime" : "2023-01-06T19:39",
+    "vehicleId" : 40,
+    "parkingSpaceId" : 855
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-30T17:00",
+    "endTime" : "2023-07-30T21:05",
+    "vehicleId" : 40,
+    "parkingSpaceId" : 966
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-04T10:50",
+    "endTime" : "2023-07-04T11:06",
+    "vehicleId" : 40,
+    "parkingSpaceId" : 109
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-25T08:19",
+    "endTime" : "2023-01-25T08:50",
+    "vehicleId" : 40,
+    "parkingSpaceId" : 744
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-12T09:20",
+    "endTime" : "2023-01-12T09:43",
+    "vehicleId" : 41,
+    "parkingSpaceId" : 896
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-30T16:20",
+    "endTime" : "2022-12-30T18:44",
+    "vehicleId" : 41,
+    "parkingSpaceId" : 97
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-18T04:40",
+    "endTime" : "2023-07-18T19:43",
+    "vehicleId" : 41,
+    "parkingSpaceId" : 177
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-31T16:07",
+    "endTime" : "2022-12-31T18:35",
+    "vehicleId" : 41,
+    "parkingSpaceId" : 210
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-09T20:04",
+    "endTime" : "2022-11-09T20:13",
+    "vehicleId" : 41,
+    "parkingSpaceId" : 89
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-24T20:01",
+    "endTime" : "2022-09-24T21:31",
+    "vehicleId" : 42,
+    "parkingSpaceId" : 9
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-05T17:00",
+    "endTime" : "2022-10-05T23:39",
+    "vehicleId" : 42,
+    "parkingSpaceId" : 43
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-09T17:33",
+    "endTime" : "2023-01-09T18:29",
+    "vehicleId" : 42,
+    "parkingSpaceId" : 16
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-24T18:29",
+    "endTime" : "2023-01-24T22:02",
+    "vehicleId" : 42,
+    "parkingSpaceId" : 522
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-28T20:16",
+    "endTime" : "2023-07-28T22:39",
+    "vehicleId" : 42,
+    "parkingSpaceId" : 549
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-09T06:38",
+    "endTime" : "2023-05-09T12:01",
+    "vehicleId" : 43,
+    "parkingSpaceId" : 487
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-18T09:50",
+    "endTime" : "2023-03-18T12:58",
+    "vehicleId" : 43,
+    "parkingSpaceId" : 867
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-07T01:10",
+    "endTime" : "2023-06-07T05:33",
+    "vehicleId" : 43,
+    "parkingSpaceId" : 46
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-18T20:15",
+    "endTime" : "2023-07-18T22:23",
+    "vehicleId" : 43,
+    "parkingSpaceId" : 615
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-15T01:30",
+    "endTime" : "2022-09-15T03:41",
+    "vehicleId" : 43,
+    "parkingSpaceId" : 860
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-17T07:54",
+    "endTime" : "2022-12-17T21:24",
+    "vehicleId" : 44,
+    "parkingSpaceId" : 2
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-09T03:09",
+    "endTime" : "2022-12-09T18:52",
+    "vehicleId" : 44,
+    "parkingSpaceId" : 679
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-22T17:16",
+    "endTime" : "2023-06-22T20:20",
+    "vehicleId" : 44,
+    "parkingSpaceId" : 575
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-05T09:45",
+    "endTime" : "2022-09-05T22:24",
+    "vehicleId" : 44,
+    "parkingSpaceId" : 669
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-05T03:11",
+    "endTime" : "2023-07-05T20:39",
+    "vehicleId" : 44,
+    "parkingSpaceId" : 164
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-15T06:39",
+    "endTime" : "2022-09-15T17:15",
+    "vehicleId" : 45,
+    "parkingSpaceId" : 658
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-22T15:45",
+    "endTime" : "2022-12-22T23:49",
+    "vehicleId" : 45,
+    "parkingSpaceId" : 939
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-20T20:53",
+    "endTime" : "2022-10-21T02:11",
+    "vehicleId" : 45,
+    "parkingSpaceId" : 443
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-10T20:48",
+    "endTime" : "2022-10-11T05:01",
+    "vehicleId" : 45,
+    "parkingSpaceId" : 458
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-04T09:03",
+    "endTime" : "2023-02-04T14:31",
+    "vehicleId" : 45,
+    "parkingSpaceId" : 470
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-03T18:30",
+    "endTime" : "2022-09-04T12:24",
+    "vehicleId" : 46,
+    "parkingSpaceId" : 138
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-06T02:10",
+    "endTime" : "2023-03-06T06:29",
+    "vehicleId" : 46,
+    "parkingSpaceId" : 243
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-25T11:41",
+    "endTime" : "2023-06-26T03:02",
+    "vehicleId" : 46,
+    "parkingSpaceId" : 937
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-06T07:53",
+    "endTime" : "2023-07-07T00:39",
+    "vehicleId" : 46,
+    "parkingSpaceId" : 86
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-05T15:40",
+    "endTime" : "2023-03-05T23:07",
+    "vehicleId" : 46,
+    "parkingSpaceId" : 295
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-19T09:04",
+    "endTime" : "2022-10-19T09:30",
+    "vehicleId" : 47,
+    "parkingSpaceId" : 313
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-02T20:34",
+    "endTime" : "2023-06-02T23:25",
+    "vehicleId" : 47,
+    "parkingSpaceId" : 462
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-10T23:33",
+    "endTime" : "2023-01-11T05:39",
+    "vehicleId" : 47,
+    "parkingSpaceId" : 191
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-22T02:33",
+    "endTime" : "2022-09-22T12:24",
+    "vehicleId" : 47,
+    "parkingSpaceId" : 91
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-20T03:33",
+    "endTime" : "2022-10-20T11:13",
+    "vehicleId" : 47,
+    "parkingSpaceId" : 185
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-08T10:30",
+    "endTime" : "2022-11-09T00:13",
+    "vehicleId" : 48,
+    "parkingSpaceId" : 259
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-08T02:06",
+    "endTime" : "2023-03-08T11:06",
+    "vehicleId" : 48,
+    "parkingSpaceId" : 791
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-19T16:12",
+    "endTime" : "2023-01-19T23:12",
+    "vehicleId" : 48,
+    "parkingSpaceId" : 235
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-26T13:36",
+    "endTime" : "2023-04-26T15:13",
+    "vehicleId" : 48,
+    "parkingSpaceId" : 622
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-28T13:30",
+    "endTime" : "2023-01-28T16:07",
+    "vehicleId" : 48,
+    "parkingSpaceId" : 116
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-21T18:15",
+    "endTime" : "2022-11-22T02:57",
+    "vehicleId" : 49,
+    "parkingSpaceId" : 912
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-13T13:20",
+    "endTime" : "2023-03-13T17:01",
+    "vehicleId" : 49,
+    "parkingSpaceId" : 505
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-21T23:30",
+    "endTime" : "2022-12-22T00:51",
+    "vehicleId" : 49,
+    "parkingSpaceId" : 619
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-10T17:47",
+    "endTime" : "2023-02-10T18:44",
+    "vehicleId" : 49,
+    "parkingSpaceId" : 133
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-06T22:04",
+    "endTime" : "2023-04-06T23:05",
+    "vehicleId" : 49,
+    "parkingSpaceId" : 933
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-23T17:00",
+    "endTime" : "2022-11-23T20:29",
+    "vehicleId" : 50,
+    "parkingSpaceId" : 151
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-07T07:40",
+    "endTime" : "2023-06-07T10:15",
+    "vehicleId" : 50,
+    "parkingSpaceId" : 63
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-18T22:52",
+    "endTime" : "2022-10-18T22:53",
+    "vehicleId" : 50,
+    "parkingSpaceId" : 344
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-23T01:18",
+    "endTime" : "2023-06-23T08:54",
+    "vehicleId" : 50,
+    "parkingSpaceId" : 698
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-22T16:37",
+    "endTime" : "2023-04-22T20:53",
+    "vehicleId" : 50,
+    "parkingSpaceId" : 791
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-07T17:07",
+    "endTime" : "2023-04-07T17:37",
+    "vehicleId" : 51,
+    "parkingSpaceId" : 386
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-15T18:39",
+    "endTime" : "2022-12-15T18:40",
+    "vehicleId" : 51,
+    "parkingSpaceId" : 344
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-28T13:18",
+    "endTime" : "2023-04-28T17:46",
+    "vehicleId" : 51,
+    "parkingSpaceId" : 79
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-17T23:10",
+    "endTime" : "2022-09-18T01:17",
+    "vehicleId" : 51,
+    "parkingSpaceId" : 575
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-30T02:48",
+    "endTime" : "2023-01-30T04:00",
+    "vehicleId" : 51,
+    "parkingSpaceId" : 721
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-23T15:22",
+    "endTime" : "2022-10-24T06:20",
+    "vehicleId" : 52,
+    "parkingSpaceId" : 354
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-07T21:10",
+    "endTime" : "2023-02-08T03:14",
+    "vehicleId" : 52,
+    "parkingSpaceId" : 213
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-27T12:20",
+    "endTime" : "2022-10-27T13:14",
+    "vehicleId" : 52,
+    "parkingSpaceId" : 363
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-12T01:41",
+    "endTime" : "2022-10-12T08:55",
+    "vehicleId" : 52,
+    "parkingSpaceId" : 720
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-06T23:06",
+    "endTime" : "2023-06-07T06:57",
+    "vehicleId" : 52,
+    "parkingSpaceId" : 700
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-01T19:57",
+    "endTime" : "2023-01-02T01:12",
+    "vehicleId" : 53,
+    "parkingSpaceId" : 557
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-11T07:45",
+    "endTime" : "2022-12-11T18:53",
+    "vehicleId" : 53,
+    "parkingSpaceId" : 258
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-03T13:10",
+    "endTime" : "2022-10-03T15:48",
+    "vehicleId" : 53,
+    "parkingSpaceId" : 533
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-09T00:23",
+    "endTime" : "2023-06-09T05:08",
+    "vehicleId" : 53,
+    "parkingSpaceId" : 249
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-13T14:23",
+    "endTime" : "2022-12-14T01:07",
+    "vehicleId" : 53,
+    "parkingSpaceId" : 715
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-25T06:59",
+    "endTime" : "2022-10-25T10:15",
+    "vehicleId" : 54,
+    "parkingSpaceId" : 828
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-30T03:10",
+    "endTime" : "2023-03-30T03:45",
+    "vehicleId" : 54,
+    "parkingSpaceId" : 290
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-12T04:31",
+    "endTime" : "2022-10-12T04:35",
+    "vehicleId" : 54,
+    "parkingSpaceId" : 732
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-27T01:37",
+    "endTime" : "2022-10-27T20:27",
+    "vehicleId" : 54,
+    "parkingSpaceId" : 693
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-04T08:50",
+    "endTime" : "2023-04-04T09:21",
+    "vehicleId" : 54,
+    "parkingSpaceId" : 652
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-06T10:50",
+    "endTime" : "2023-01-06T10:55",
+    "vehicleId" : 55,
+    "parkingSpaceId" : 129
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-15T01:26",
+    "endTime" : "2023-05-15T02:33",
+    "vehicleId" : 55,
+    "parkingSpaceId" : 832
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-10T08:06",
+    "endTime" : "2023-01-10T11:33",
+    "vehicleId" : 55,
+    "parkingSpaceId" : 37
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-26T11:19",
+    "endTime" : "2022-11-26T17:54",
+    "vehicleId" : 55,
+    "parkingSpaceId" : 790
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-25T10:53",
+    "endTime" : "2023-06-25T17:49",
+    "vehicleId" : 55,
+    "parkingSpaceId" : 691
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-10T18:43",
+    "endTime" : "2023-08-11T13:17",
+    "vehicleId" : 56,
+    "parkingSpaceId" : 201
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-12T06:17",
+    "endTime" : "2023-04-12T11:16",
+    "vehicleId" : 56,
+    "parkingSpaceId" : 638
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-11T18:40",
+    "endTime" : "2022-09-11T20:02",
+    "vehicleId" : 56,
+    "parkingSpaceId" : 388
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-20T19:44",
+    "endTime" : "2023-05-20T23:34",
+    "vehicleId" : 56,
+    "parkingSpaceId" : 697
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-28T17:49",
+    "endTime" : "2022-12-28T19:51",
+    "vehicleId" : 56,
+    "parkingSpaceId" : 506
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-27T09:36",
+    "endTime" : "2023-05-27T23:02",
+    "vehicleId" : 57,
+    "parkingSpaceId" : 994
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-17T14:16",
+    "endTime" : "2023-05-17T15:12",
+    "vehicleId" : 57,
+    "parkingSpaceId" : 803
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-13T10:37",
+    "endTime" : "2022-10-14T03:29",
+    "vehicleId" : 57,
+    "parkingSpaceId" : 77
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-06T05:32",
+    "endTime" : "2023-03-06T08:13",
+    "vehicleId" : 57,
+    "parkingSpaceId" : 739
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-19T18:57",
+    "endTime" : "2022-10-19T19:21",
+    "vehicleId" : 57,
+    "parkingSpaceId" : 249
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-12T03:24",
+    "endTime" : "2022-12-12T06:17",
+    "vehicleId" : 58,
+    "parkingSpaceId" : 173
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-27T18:40",
+    "endTime" : "2023-01-27T19:45",
+    "vehicleId" : 58,
+    "parkingSpaceId" : 313
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-14T15:00",
+    "endTime" : "2023-04-14T17:32",
+    "vehicleId" : 58,
+    "parkingSpaceId" : 454
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-28T01:32",
+    "endTime" : "2023-05-28T05:36",
+    "vehicleId" : 58,
+    "parkingSpaceId" : 478
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-30T18:42",
+    "endTime" : "2022-12-30T19:14",
+    "vehicleId" : 58,
+    "parkingSpaceId" : 181
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-08T13:23",
+    "endTime" : "2022-11-08T13:53",
+    "vehicleId" : 59,
+    "parkingSpaceId" : 133
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-21T17:00",
+    "endTime" : "2022-10-21T22:19",
+    "vehicleId" : 59,
+    "parkingSpaceId" : 764
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-30T19:22",
+    "endTime" : "2022-12-31T06:23",
+    "vehicleId" : 59,
+    "parkingSpaceId" : 618
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-27T00:58",
+    "endTime" : "2023-07-27T06:05",
+    "vehicleId" : 59,
+    "parkingSpaceId" : 447
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-20T05:39",
+    "endTime" : "2023-01-20T05:40",
+    "vehicleId" : 59,
+    "parkingSpaceId" : 18
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-11T12:51",
+    "endTime" : "2023-06-11T16:26",
+    "vehicleId" : 60,
+    "parkingSpaceId" : 933
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-01T02:22",
+    "endTime" : "2023-02-01T03:23",
+    "vehicleId" : 60,
+    "parkingSpaceId" : 199
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-20T02:01",
+    "endTime" : "2023-05-20T10:09",
+    "vehicleId" : 60,
+    "parkingSpaceId" : 387
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-16T12:03",
+    "endTime" : "2023-05-17T00:26",
+    "vehicleId" : 60,
+    "parkingSpaceId" : 748
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-19T19:53",
+    "endTime" : "2022-09-19T20:23",
+    "vehicleId" : 60,
+    "parkingSpaceId" : 146
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-30T01:19",
+    "endTime" : "2023-06-30T07:13",
+    "vehicleId" : 61,
+    "parkingSpaceId" : 329
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-07T19:22",
+    "endTime" : "2023-03-08T13:27",
+    "vehicleId" : 61,
+    "parkingSpaceId" : 395
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-22T12:56",
+    "endTime" : "2023-05-23T01:35",
+    "vehicleId" : 61,
+    "parkingSpaceId" : 42
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-30T19:38",
+    "endTime" : "2023-04-30T20:47",
+    "vehicleId" : 61,
+    "parkingSpaceId" : 318
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-10T19:25",
+    "endTime" : "2023-04-10T20:30",
+    "vehicleId" : 61,
+    "parkingSpaceId" : 305
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-16T01:47",
+    "endTime" : "2022-11-16T03:02",
+    "vehicleId" : 62,
+    "parkingSpaceId" : 248
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-06T20:40",
+    "endTime" : "2023-07-06T21:53",
+    "vehicleId" : 62,
+    "parkingSpaceId" : 999
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-19T15:29",
+    "endTime" : "2023-02-20T07:17",
+    "vehicleId" : 62,
+    "parkingSpaceId" : 53
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-24T00:49",
+    "endTime" : "2022-09-24T04:20",
+    "vehicleId" : 62,
+    "parkingSpaceId" : 735
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-14T23:47",
+    "endTime" : "2023-04-14T23:58",
+    "vehicleId" : 62,
+    "parkingSpaceId" : 863
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-27T10:39",
+    "endTime" : "2023-06-27T11:33",
+    "vehicleId" : 63,
+    "parkingSpaceId" : 169
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-31T23:57",
+    "endTime" : "2023-04-01T05:40",
+    "vehicleId" : 63,
+    "parkingSpaceId" : 730
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-29T02:23",
+    "endTime" : "2023-04-29T07:17",
+    "vehicleId" : 63,
+    "parkingSpaceId" : 733
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-06T18:17",
+    "endTime" : "2023-03-07T02:25",
+    "vehicleId" : 63,
+    "parkingSpaceId" : 983
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-24T01:05",
+    "endTime" : "2022-09-24T02:22",
+    "vehicleId" : 63,
+    "parkingSpaceId" : 790
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-26T09:42",
+    "endTime" : "2022-10-26T16:36",
+    "vehicleId" : 64,
+    "parkingSpaceId" : 477
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-19T08:43",
+    "endTime" : "2023-05-19T12:34",
+    "vehicleId" : 64,
+    "parkingSpaceId" : 609
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-02T05:58",
+    "endTime" : "2023-05-02T17:02",
+    "vehicleId" : 64,
+    "parkingSpaceId" : 471
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-13T09:44",
+    "endTime" : "2023-02-13T10:17",
+    "vehicleId" : 64,
+    "parkingSpaceId" : 541
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-08T10:12",
+    "endTime" : "2023-04-09T01:20",
+    "vehicleId" : 64,
+    "parkingSpaceId" : 554
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-13T17:40",
+    "endTime" : "2023-01-13T22:11",
+    "vehicleId" : 65,
+    "parkingSpaceId" : 329
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-27T16:48",
+    "endTime" : "2022-10-28T01:45",
+    "vehicleId" : 65,
+    "parkingSpaceId" : 421
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-31T10:24",
+    "endTime" : "2023-05-31T10:49",
+    "vehicleId" : 65,
+    "parkingSpaceId" : 70
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-30T18:29",
+    "endTime" : "2022-10-30T22:38",
+    "vehicleId" : 65,
+    "parkingSpaceId" : 575
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-06T08:23",
+    "endTime" : "2022-11-06T16:30",
+    "vehicleId" : 65,
+    "parkingSpaceId" : 751
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-14T03:07",
+    "endTime" : "2023-05-14T03:54",
+    "vehicleId" : 66,
+    "parkingSpaceId" : 434
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-27T07:33",
+    "endTime" : "2023-01-27T13:51",
+    "vehicleId" : 66,
+    "parkingSpaceId" : 606
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-23T09:04",
+    "endTime" : "2023-06-23T17:14",
+    "vehicleId" : 66,
+    "parkingSpaceId" : 869
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-07T22:59",
+    "endTime" : "2022-09-08T01:01",
+    "vehicleId" : 66,
+    "parkingSpaceId" : 662
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-04T11:17",
+    "endTime" : "2023-05-04T14:55",
+    "vehicleId" : 66,
+    "parkingSpaceId" : 842
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-09T19:02",
+    "endTime" : "2023-01-09T19:03",
+    "vehicleId" : 67,
+    "parkingSpaceId" : 802
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-08T23:31",
+    "endTime" : "2023-01-09T01:38",
+    "vehicleId" : 67,
+    "parkingSpaceId" : 871
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-18T13:06",
+    "endTime" : "2023-02-18T19:49",
+    "vehicleId" : 67,
+    "parkingSpaceId" : 937
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-18T22:45",
+    "endTime" : "2022-11-19T03:02",
+    "vehicleId" : 67,
+    "parkingSpaceId" : 295
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-28T17:14",
+    "endTime" : "2023-03-28T18:50",
+    "vehicleId" : 67,
+    "parkingSpaceId" : 366
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-18T03:09",
+    "endTime" : "2023-01-18T04:02",
+    "vehicleId" : 68,
+    "parkingSpaceId" : 729
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-30T16:32",
+    "endTime" : "2022-12-30T20:18",
+    "vehicleId" : 68,
+    "parkingSpaceId" : 359
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-01T23:52",
+    "endTime" : "2023-01-02T00:33",
+    "vehicleId" : 68,
+    "parkingSpaceId" : 702
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-06T08:56",
+    "endTime" : "2023-02-06T09:19",
+    "vehicleId" : 68,
+    "parkingSpaceId" : 929
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-14T21:21",
+    "endTime" : "2023-01-15T15:24",
+    "vehicleId" : 68,
+    "parkingSpaceId" : 959
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-22T14:21",
+    "endTime" : "2022-09-22T15:14",
+    "vehicleId" : 69,
+    "parkingSpaceId" : 597
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-05T09:05",
+    "endTime" : "2023-05-05T17:38",
+    "vehicleId" : 69,
+    "parkingSpaceId" : 178
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-28T02:03",
+    "endTime" : "2023-07-28T03:37",
+    "vehicleId" : 69,
+    "parkingSpaceId" : 921
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-09T16:33",
+    "endTime" : "2023-05-09T17:23",
+    "vehicleId" : 69,
+    "parkingSpaceId" : 701
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-24T17:56",
+    "endTime" : "2023-02-24T19:31",
+    "vehicleId" : 69,
+    "parkingSpaceId" : 200
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-21T11:15",
+    "endTime" : "2023-07-22T01:59",
+    "vehicleId" : 70,
+    "parkingSpaceId" : 861
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-07T09:48",
+    "endTime" : "2023-04-07T18:23",
+    "vehicleId" : 70,
+    "parkingSpaceId" : 694
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-04T07:23",
+    "endTime" : "2023-07-04T17:07",
+    "vehicleId" : 70,
+    "parkingSpaceId" : 254
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-04T13:43",
+    "endTime" : "2023-08-04T16:01",
+    "vehicleId" : 70,
+    "parkingSpaceId" : 517
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-26T22:45",
+    "endTime" : "2022-12-26T22:46",
+    "vehicleId" : 70,
+    "parkingSpaceId" : 142
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-06T01:54",
+    "endTime" : "2023-02-06T14:18",
+    "vehicleId" : 71,
+    "parkingSpaceId" : 812
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-06T08:10",
+    "endTime" : "2023-06-06T10:27",
+    "vehicleId" : 71,
+    "parkingSpaceId" : 294
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-17T05:46",
+    "endTime" : "2023-07-17T14:15",
+    "vehicleId" : 71,
+    "parkingSpaceId" : 295
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-05T05:31",
+    "endTime" : "2023-02-05T08:05",
+    "vehicleId" : 71,
+    "parkingSpaceId" : 292
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-28T05:49",
+    "endTime" : "2023-06-28T14:08",
+    "vehicleId" : 71,
+    "parkingSpaceId" : 2
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-06T22:43",
+    "endTime" : "2023-01-07T04:32",
+    "vehicleId" : 72,
+    "parkingSpaceId" : 170
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-21T10:44",
+    "endTime" : "2023-05-21T13:27",
+    "vehicleId" : 72,
+    "parkingSpaceId" : 284
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-14T11:00",
+    "endTime" : "2023-02-14T11:41",
+    "vehicleId" : 72,
+    "parkingSpaceId" : 233
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-11T12:40",
+    "endTime" : "2023-08-11T16:05",
+    "vehicleId" : 72,
+    "parkingSpaceId" : 441
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-09T10:26",
+    "endTime" : "2023-06-09T17:27",
+    "vehicleId" : 72,
+    "parkingSpaceId" : 983
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-29T21:01",
+    "endTime" : "2023-01-30T05:55",
+    "vehicleId" : 73,
+    "parkingSpaceId" : 653
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-13T18:04",
+    "endTime" : "2023-04-13T20:55",
+    "vehicleId" : 73,
+    "parkingSpaceId" : 82
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-02T16:03",
+    "endTime" : "2022-12-02T18:43",
+    "vehicleId" : 73,
+    "parkingSpaceId" : 402
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-08T19:21",
+    "endTime" : "2023-08-08T23:05",
+    "vehicleId" : 73,
+    "parkingSpaceId" : 448
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-24T12:25",
+    "endTime" : "2023-06-24T22:22",
+    "vehicleId" : 73,
+    "parkingSpaceId" : 552
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-03T10:15",
+    "endTime" : "2023-05-03T17:46",
+    "vehicleId" : 74,
+    "parkingSpaceId" : 227
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-02T12:24",
+    "endTime" : "2023-02-02T21:04",
+    "vehicleId" : 74,
+    "parkingSpaceId" : 424
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-19T06:05",
+    "endTime" : "2023-02-19T18:18",
+    "vehicleId" : 74,
+    "parkingSpaceId" : 600
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-18T00:43",
+    "endTime" : "2022-11-18T02:40",
+    "vehicleId" : 74,
+    "parkingSpaceId" : 540
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-05T21:36",
+    "endTime" : "2023-02-05T21:45",
+    "vehicleId" : 74,
+    "parkingSpaceId" : 825
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-28T06:37",
+    "endTime" : "2023-07-28T10:09",
+    "vehicleId" : 75,
+    "parkingSpaceId" : 246
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-12T08:53",
+    "endTime" : "2023-08-12T11:56",
+    "vehicleId" : 75,
+    "parkingSpaceId" : 927
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-10T13:34",
+    "endTime" : "2023-08-10T19:52",
+    "vehicleId" : 75,
+    "parkingSpaceId" : 544
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-03T11:48",
+    "endTime" : "2023-03-03T12:20",
+    "vehicleId" : 75,
+    "parkingSpaceId" : 616
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-18T11:28",
+    "endTime" : "2023-05-18T11:29",
+    "vehicleId" : 75,
+    "parkingSpaceId" : 877
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-03T13:28",
+    "endTime" : "2023-02-04T00:47",
+    "vehicleId" : 76,
+    "parkingSpaceId" : 649
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-04T14:13",
+    "endTime" : "2023-05-04T22:21",
+    "vehicleId" : 76,
+    "parkingSpaceId" : 817
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-22T05:59",
+    "endTime" : "2023-02-22T07:59",
+    "vehicleId" : 76,
+    "parkingSpaceId" : 483
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-11T22:48",
+    "endTime" : "2023-06-12T08:42",
+    "vehicleId" : 76,
+    "parkingSpaceId" : 990
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-08T13:30",
+    "endTime" : "2022-09-08T18:19",
+    "vehicleId" : 76,
+    "parkingSpaceId" : 465
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-12T04:43",
+    "endTime" : "2023-08-12T10:03",
+    "vehicleId" : 77,
+    "parkingSpaceId" : 302
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-03T21:30",
+    "endTime" : "2023-06-04T09:08",
+    "vehicleId" : 77,
+    "parkingSpaceId" : 682
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-03T06:39",
+    "endTime" : "2022-12-04T00:01",
+    "vehicleId" : 77,
+    "parkingSpaceId" : 768
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-01T18:50",
+    "endTime" : "2023-07-01T22:27",
+    "vehicleId" : 77,
+    "parkingSpaceId" : 685
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-12T20:30",
+    "endTime" : "2023-01-13T17:39",
+    "vehicleId" : 77,
+    "parkingSpaceId" : 129
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-08T18:54",
+    "endTime" : "2023-04-09T09:09",
+    "vehicleId" : 78,
+    "parkingSpaceId" : 310
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-06T06:14",
+    "endTime" : "2023-02-06T06:17",
+    "vehicleId" : 78,
+    "parkingSpaceId" : 469
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-15T16:19",
+    "endTime" : "2023-06-15T16:41",
+    "vehicleId" : 78,
+    "parkingSpaceId" : 842
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-22T01:32",
+    "endTime" : "2022-11-22T09:54",
+    "vehicleId" : 78,
+    "parkingSpaceId" : 165
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-08T03:13",
+    "endTime" : "2022-10-08T10:36",
+    "vehicleId" : 78,
+    "parkingSpaceId" : 136
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-14T06:49",
+    "endTime" : "2023-06-14T07:34",
+    "vehicleId" : 79,
+    "parkingSpaceId" : 798
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-02T04:05",
+    "endTime" : "2023-07-02T04:46",
+    "vehicleId" : 79,
+    "parkingSpaceId" : 744
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-10T11:04",
+    "endTime" : "2023-03-10T22:42",
+    "vehicleId" : 79,
+    "parkingSpaceId" : 631
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-17T20:43",
+    "endTime" : "2023-01-18T11:10",
+    "vehicleId" : 79,
+    "parkingSpaceId" : 185
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-29T04:24",
+    "endTime" : "2023-01-29T04:39",
+    "vehicleId" : 79,
+    "parkingSpaceId" : 849
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-19T15:20",
+    "endTime" : "2022-10-19T23:09",
+    "vehicleId" : 80,
+    "parkingSpaceId" : 712
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-04T18:38",
+    "endTime" : "2022-09-04T22:15",
+    "vehicleId" : 80,
+    "parkingSpaceId" : 227
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-25T14:53",
+    "endTime" : "2022-11-25T20:01",
+    "vehicleId" : 80,
+    "parkingSpaceId" : 667
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-19T17:51",
+    "endTime" : "2022-11-19T21:20",
+    "vehicleId" : 80,
+    "parkingSpaceId" : 740
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-28T15:33",
+    "endTime" : "2023-01-29T05:03",
+    "vehicleId" : 80,
+    "parkingSpaceId" : 201
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-13T03:39",
+    "endTime" : "2023-07-13T10:50",
+    "vehicleId" : 81,
+    "parkingSpaceId" : 627
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-15T02:22",
+    "endTime" : "2022-10-15T02:43",
+    "vehicleId" : 81,
+    "parkingSpaceId" : 516
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-19T08:37",
+    "endTime" : "2022-12-19T11:50",
+    "vehicleId" : 81,
+    "parkingSpaceId" : 655
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-19T15:20",
+    "endTime" : "2023-06-20T10:36",
+    "vehicleId" : 81,
+    "parkingSpaceId" : 778
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-21T16:16",
+    "endTime" : "2023-03-21T21:41",
+    "vehicleId" : 81,
+    "parkingSpaceId" : 270
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-15T04:11",
+    "endTime" : "2022-09-15T08:03",
+    "vehicleId" : 82,
+    "parkingSpaceId" : 500
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-08T04:24",
+    "endTime" : "2022-09-08T06:35",
+    "vehicleId" : 82,
+    "parkingSpaceId" : 635
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-27T01:18",
+    "endTime" : "2023-07-27T15:18",
+    "vehicleId" : 82,
+    "parkingSpaceId" : 553
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-24T04:46",
+    "endTime" : "2022-11-24T09:20",
+    "vehicleId" : 82,
+    "parkingSpaceId" : 699
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-14T13:37",
+    "endTime" : "2023-05-15T00:20",
+    "vehicleId" : 82,
+    "parkingSpaceId" : 837
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-16T06:09",
+    "endTime" : "2023-07-16T19:57",
+    "vehicleId" : 83,
+    "parkingSpaceId" : 674
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-16T23:43",
+    "endTime" : "2023-02-17T00:53",
+    "vehicleId" : 83,
+    "parkingSpaceId" : 193
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-22T04:20",
+    "endTime" : "2023-05-22T13:08",
+    "vehicleId" : 83,
+    "parkingSpaceId" : 953
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-29T00:32",
+    "endTime" : "2023-04-29T01:14",
+    "vehicleId" : 83,
+    "parkingSpaceId" : 271
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-12T02:51",
+    "endTime" : "2022-09-12T08:09",
+    "vehicleId" : 83,
+    "parkingSpaceId" : 979
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-08T00:33",
+    "endTime" : "2022-12-08T02:31",
+    "vehicleId" : 84,
+    "parkingSpaceId" : 74
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-30T05:00",
+    "endTime" : "2023-01-30T15:13",
+    "vehicleId" : 84,
+    "parkingSpaceId" : 125
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-01T18:31",
+    "endTime" : "2023-03-01T22:53",
+    "vehicleId" : 84,
+    "parkingSpaceId" : 758
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-23T11:51",
+    "endTime" : "2023-01-23T16:03",
+    "vehicleId" : 84,
+    "parkingSpaceId" : 356
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-02T10:57",
+    "endTime" : "2022-12-02T13:16",
+    "vehicleId" : 84,
+    "parkingSpaceId" : 555
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-05T22:04",
+    "endTime" : "2022-11-06T13:44",
+    "vehicleId" : 85,
+    "parkingSpaceId" : 415
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-15T16:31",
+    "endTime" : "2023-03-16T09:06",
+    "vehicleId" : 85,
+    "parkingSpaceId" : 484
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-28T17:23",
+    "endTime" : "2022-09-28T23:27",
+    "vehicleId" : 85,
+    "parkingSpaceId" : 763
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-18T07:02",
+    "endTime" : "2023-01-18T10:20",
+    "vehicleId" : 85,
+    "parkingSpaceId" : 210
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-23T09:21",
+    "endTime" : "2023-05-23T20:09",
+    "vehicleId" : 85,
+    "parkingSpaceId" : 177
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-05T07:27",
+    "endTime" : "2022-11-05T16:09",
+    "vehicleId" : 86,
+    "parkingSpaceId" : 721
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-02T21:36",
+    "endTime" : "2023-02-02T23:36",
+    "vehicleId" : 86,
+    "parkingSpaceId" : 474
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-11T11:55",
+    "endTime" : "2022-12-11T13:37",
+    "vehicleId" : 86,
+    "parkingSpaceId" : 267
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-31T05:18",
+    "endTime" : "2023-03-31T06:34",
+    "vehicleId" : 86,
+    "parkingSpaceId" : 236
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-18T22:11",
+    "endTime" : "2023-05-19T01:16",
+    "vehicleId" : 86,
+    "parkingSpaceId" : 505
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-21T00:10",
+    "endTime" : "2022-10-21T04:08",
+    "vehicleId" : 87,
+    "parkingSpaceId" : 621
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-30T01:37",
+    "endTime" : "2023-04-30T04:42",
+    "vehicleId" : 87,
+    "parkingSpaceId" : 662
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-07T04:42",
+    "endTime" : "2022-10-07T08:13",
+    "vehicleId" : 87,
+    "parkingSpaceId" : 897
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-25T15:44",
+    "endTime" : "2022-12-26T08:02",
+    "vehicleId" : 87,
+    "parkingSpaceId" : 333
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-19T20:26",
+    "endTime" : "2022-12-19T22:01",
+    "vehicleId" : 87,
+    "parkingSpaceId" : 74
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-13T07:03",
+    "endTime" : "2022-09-13T12:47",
+    "vehicleId" : 88,
+    "parkingSpaceId" : 667
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-01T09:53",
+    "endTime" : "2023-04-01T12:24",
+    "vehicleId" : 88,
+    "parkingSpaceId" : 498
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-13T05:19",
+    "endTime" : "2023-08-13T23:06",
+    "vehicleId" : 88,
+    "parkingSpaceId" : 274
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-07T10:55",
+    "endTime" : "2023-06-07T18:35",
+    "vehicleId" : 88,
+    "parkingSpaceId" : 318
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-25T03:27",
+    "endTime" : "2022-09-25T19:22",
+    "vehicleId" : 88,
+    "parkingSpaceId" : 576
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-27T19:05",
+    "endTime" : "2022-10-27T19:31",
+    "vehicleId" : 89,
+    "parkingSpaceId" : 155
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-17T10:36",
+    "endTime" : "2023-04-17T22:28",
+    "vehicleId" : 89,
+    "parkingSpaceId" : 990
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-24T07:31",
+    "endTime" : "2022-12-25T03:49",
+    "vehicleId" : 89,
+    "parkingSpaceId" : 943
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-09T04:55",
+    "endTime" : "2023-02-09T09:49",
+    "vehicleId" : 89,
+    "parkingSpaceId" : 11
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-13T18:06",
+    "endTime" : "2023-02-13T19:56",
+    "vehicleId" : 89,
+    "parkingSpaceId" : 785
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-19T22:44",
+    "endTime" : "2023-06-20T08:56",
+    "vehicleId" : 90,
+    "parkingSpaceId" : 594
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-31T04:33",
+    "endTime" : "2023-01-01T00:32",
+    "vehicleId" : 90,
+    "parkingSpaceId" : 274
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-07T21:29",
+    "endTime" : "2023-03-08T08:39",
+    "vehicleId" : 90,
+    "parkingSpaceId" : 451
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-09T18:08",
+    "endTime" : "2023-07-09T20:12",
+    "vehicleId" : 90,
+    "parkingSpaceId" : 765
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-14T11:12",
+    "endTime" : "2023-04-14T15:30",
+    "vehicleId" : 90,
+    "parkingSpaceId" : 361
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-09T04:12",
+    "endTime" : "2023-06-09T04:39",
+    "vehicleId" : 91,
+    "parkingSpaceId" : 866
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-12T03:20",
+    "endTime" : "2022-11-12T11:32",
+    "vehicleId" : 91,
+    "parkingSpaceId" : 872
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-21T21:20",
+    "endTime" : "2023-01-22T03:59",
+    "vehicleId" : 91,
+    "parkingSpaceId" : 148
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-30T02:50",
+    "endTime" : "2022-12-30T13:23",
+    "vehicleId" : 91,
+    "parkingSpaceId" : 960
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-09T14:42",
+    "endTime" : "2022-09-09T15:11",
+    "vehicleId" : 91,
+    "parkingSpaceId" : 626
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-19T19:11",
+    "endTime" : "2022-12-20T12:36",
+    "vehicleId" : 92,
+    "parkingSpaceId" : 930
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-16T23:30",
+    "endTime" : "2023-02-17T04:54",
+    "vehicleId" : 92,
+    "parkingSpaceId" : 630
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-03T19:14",
+    "endTime" : "2023-05-03T19:57",
+    "vehicleId" : 92,
+    "parkingSpaceId" : 766
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-04T10:47",
+    "endTime" : "2022-10-04T11:53",
+    "vehicleId" : 92,
+    "parkingSpaceId" : 121
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-22T08:31",
+    "endTime" : "2023-03-22T12:50",
+    "vehicleId" : 92,
+    "parkingSpaceId" : 734
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-21T14:13",
+    "endTime" : "2023-01-21T14:44",
+    "vehicleId" : 93,
+    "parkingSpaceId" : 737
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-04T03:15",
+    "endTime" : "2022-12-04T06:42",
+    "vehicleId" : 93,
+    "parkingSpaceId" : 907
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-25T09:42",
+    "endTime" : "2023-02-25T14:02",
+    "vehicleId" : 93,
+    "parkingSpaceId" : 81
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-21T10:05",
+    "endTime" : "2023-03-21T10:16",
+    "vehicleId" : 93,
+    "parkingSpaceId" : 885
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-28T11:34",
+    "endTime" : "2023-04-28T14:04",
+    "vehicleId" : 93,
+    "parkingSpaceId" : 826
+  }, {
+    "closed" : true,
+    "startTime" : "2022-09-18T19:28",
+    "endTime" : "2022-09-19T00:12",
+    "vehicleId" : 94,
+    "parkingSpaceId" : 726
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-21T11:54",
+    "endTime" : "2023-06-21T12:57",
+    "vehicleId" : 94,
+    "parkingSpaceId" : 555
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-26T10:38",
+    "endTime" : "2023-04-26T19:10",
+    "vehicleId" : 94,
+    "parkingSpaceId" : 223
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-27T12:43",
+    "endTime" : "2023-07-27T13:01",
+    "vehicleId" : 94,
+    "parkingSpaceId" : 200
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-10T18:22",
+    "endTime" : "2023-04-11T09:05",
+    "vehicleId" : 94,
+    "parkingSpaceId" : 694
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-04T19:30",
+    "endTime" : "2023-03-05T04:49",
+    "vehicleId" : 95,
+    "parkingSpaceId" : 689
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-25T16:40",
+    "endTime" : "2023-02-25T18:07",
+    "vehicleId" : 95,
+    "parkingSpaceId" : 116
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-06T03:32",
+    "endTime" : "2023-03-06T16:01",
+    "vehicleId" : 95,
+    "parkingSpaceId" : 245
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-29T13:58",
+    "endTime" : "2023-07-30T03:45",
+    "vehicleId" : 95,
+    "parkingSpaceId" : 499
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-25T04:42",
+    "endTime" : "2022-10-26T01:57",
+    "vehicleId" : 95,
+    "parkingSpaceId" : 360
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-12T16:14",
+    "endTime" : "2023-03-13T10:48",
+    "vehicleId" : 96,
+    "parkingSpaceId" : 331
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-31T14:13",
+    "endTime" : "2023-03-31T15:10",
+    "vehicleId" : 96,
+    "parkingSpaceId" : 978
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-10T13:53",
+    "endTime" : "2023-08-10T15:19",
+    "vehicleId" : 96,
+    "parkingSpaceId" : 126
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-13T15:10",
+    "endTime" : "2022-11-13T17:47",
+    "vehicleId" : 96,
+    "parkingSpaceId" : 641
+  }, {
+    "closed" : true,
+    "startTime" : "2023-03-14T18:08",
+    "endTime" : "2023-03-14T20:04",
+    "vehicleId" : 96,
+    "parkingSpaceId" : 746
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-26T00:55",
+    "endTime" : "2022-12-26T18:47",
+    "vehicleId" : 97,
+    "parkingSpaceId" : 909
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-28T08:07",
+    "endTime" : "2023-02-28T09:12",
+    "vehicleId" : 97,
+    "parkingSpaceId" : 811
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-19T06:25",
+    "endTime" : "2022-11-19T06:36",
+    "vehicleId" : 97,
+    "parkingSpaceId" : 76
+  }, {
+    "closed" : true,
+    "startTime" : "2023-06-07T12:37",
+    "endTime" : "2023-06-07T22:21",
+    "vehicleId" : 97,
+    "parkingSpaceId" : 965
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-10T19:48",
+    "endTime" : "2023-04-10T21:10",
+    "vehicleId" : 97,
+    "parkingSpaceId" : 66
+  }, {
+    "closed" : true,
+    "startTime" : "2023-07-19T01:32",
+    "endTime" : "2023-07-19T07:30",
+    "vehicleId" : 98,
+    "parkingSpaceId" : 808
+  }, {
+    "closed" : true,
+    "startTime" : "2023-05-29T19:48",
+    "endTime" : "2023-05-30T01:37",
+    "vehicleId" : 98,
+    "parkingSpaceId" : 537
+  }, {
+    "closed" : true,
+    "startTime" : "2023-08-06T18:38",
+    "endTime" : "2023-08-06T22:37",
+    "vehicleId" : 98,
+    "parkingSpaceId" : 820
+  }, {
+    "closed" : true,
+    "startTime" : "2023-01-22T14:49",
+    "endTime" : "2023-01-22T14:54",
+    "vehicleId" : 98,
+    "parkingSpaceId" : 947
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-27T10:09",
+    "endTime" : "2022-10-27T17:50",
+    "vehicleId" : 98,
+    "parkingSpaceId" : 670
+  }, {
+    "closed" : true,
+    "startTime" : "2023-04-04T15:21",
+    "endTime" : "2023-04-04T19:30",
+    "vehicleId" : 99,
+    "parkingSpaceId" : 155
+  }, {
+    "closed" : true,
+    "startTime" : "2023-02-27T07:12",
+    "endTime" : "2023-02-27T10:58",
+    "vehicleId" : 99,
+    "parkingSpaceId" : 981
+  }, {
+    "closed" : true,
+    "startTime" : "2022-11-09T22:06",
+    "endTime" : "2022-11-10T15:36",
+    "vehicleId" : 99,
+    "parkingSpaceId" : 77
+  }, {
+    "closed" : true,
+    "startTime" : "2022-12-21T22:04",
+    "endTime" : "2022-12-22T13:39",
+    "vehicleId" : 99,
+    "parkingSpaceId" : 636
+  }, {
+    "closed" : true,
+    "startTime" : "2022-10-01T17:18",
+    "endTime" : "2022-10-01T21:02",
+    "vehicleId" : 99,
+    "parkingSpaceId" : 786
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:38",
+    "endTime" : "",
+    "vehicleId" : 0,
+    "parkingSpaceId" : 797
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T03:04",
+    "endTime" : "",
+    "vehicleId" : 1,
+    "parkingSpaceId" : 147
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:15",
+    "endTime" : "",
+    "vehicleId" : 2,
+    "parkingSpaceId" : 1
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T06:51",
+    "endTime" : "",
+    "vehicleId" : 3,
+    "parkingSpaceId" : 211
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T01:32",
+    "endTime" : "",
+    "vehicleId" : 4,
+    "parkingSpaceId" : 524
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T03:21",
+    "endTime" : "",
+    "vehicleId" : 5,
+    "parkingSpaceId" : 653
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T06:06",
+    "endTime" : "",
+    "vehicleId" : 6,
+    "parkingSpaceId" : 208
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:44",
+    "endTime" : "",
+    "vehicleId" : 7,
+    "parkingSpaceId" : 635
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T23:07",
+    "endTime" : "",
+    "vehicleId" : 8,
+    "parkingSpaceId" : 956
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T08:34",
+    "endTime" : "",
+    "vehicleId" : 9,
+    "parkingSpaceId" : 844
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T05:15",
+    "endTime" : "",
+    "vehicleId" : 10,
+    "parkingSpaceId" : 592
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:07",
+    "endTime" : "",
+    "vehicleId" : 11,
+    "parkingSpaceId" : 713
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T05:30",
+    "endTime" : "",
+    "vehicleId" : 12,
+    "parkingSpaceId" : 260
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T06:28",
+    "endTime" : "",
+    "vehicleId" : 13,
+    "parkingSpaceId" : 29
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T01:09",
+    "endTime" : "",
+    "vehicleId" : 14,
+    "parkingSpaceId" : 700
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T08:27",
+    "endTime" : "",
+    "vehicleId" : 15,
+    "parkingSpaceId" : 873
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T23:09",
+    "endTime" : "",
+    "vehicleId" : 16,
+    "parkingSpaceId" : 226
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T01:34",
+    "endTime" : "",
+    "vehicleId" : 17,
+    "parkingSpaceId" : 658
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T02:20",
+    "endTime" : "",
+    "vehicleId" : 18,
+    "parkingSpaceId" : 960
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T13:45",
+    "endTime" : "",
+    "vehicleId" : 19,
+    "parkingSpaceId" : 984
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T09:45",
+    "endTime" : "",
+    "vehicleId" : 20,
+    "parkingSpaceId" : 616
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T05:49",
+    "endTime" : "",
+    "vehicleId" : 21,
+    "parkingSpaceId" : 547
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T23:06",
+    "endTime" : "",
+    "vehicleId" : 22,
+    "parkingSpaceId" : 906
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:40",
+    "endTime" : "",
+    "vehicleId" : 23,
+    "parkingSpaceId" : 364
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T09:34",
+    "endTime" : "",
+    "vehicleId" : 24,
+    "parkingSpaceId" : 977
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T08:03",
+    "endTime" : "",
+    "vehicleId" : 25,
+    "parkingSpaceId" : 973
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:54",
+    "endTime" : "",
+    "vehicleId" : 26,
+    "parkingSpaceId" : 866
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:09",
+    "endTime" : "",
+    "vehicleId" : 27,
+    "parkingSpaceId" : 614
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:10",
+    "endTime" : "",
+    "vehicleId" : 28,
+    "parkingSpaceId" : 802
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:51",
+    "endTime" : "",
+    "vehicleId" : 29,
+    "parkingSpaceId" : 125
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T02:35",
+    "endTime" : "",
+    "vehicleId" : 30,
+    "parkingSpaceId" : 404
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T06:08",
+    "endTime" : "",
+    "vehicleId" : 31,
+    "parkingSpaceId" : 129
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T09:43",
+    "endTime" : "",
+    "vehicleId" : 32,
+    "parkingSpaceId" : 171
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T08:40",
+    "endTime" : "",
+    "vehicleId" : 33,
+    "parkingSpaceId" : 642
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:03",
+    "endTime" : "",
+    "vehicleId" : 34,
+    "parkingSpaceId" : 826
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T02:40",
+    "endTime" : "",
+    "vehicleId" : 35,
+    "parkingSpaceId" : 286
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T04:05",
+    "endTime" : "",
+    "vehicleId" : 36,
+    "parkingSpaceId" : 698
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T14:14",
+    "endTime" : "",
+    "vehicleId" : 37,
+    "parkingSpaceId" : 156
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T02:20",
+    "endTime" : "",
+    "vehicleId" : 38,
+    "parkingSpaceId" : 935
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T03:07",
+    "endTime" : "",
+    "vehicleId" : 39,
+    "parkingSpaceId" : 308
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T05:28",
+    "endTime" : "",
+    "vehicleId" : 40,
+    "parkingSpaceId" : 876
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T06:12",
+    "endTime" : "",
+    "vehicleId" : 41,
+    "parkingSpaceId" : 297
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:52",
+    "endTime" : "",
+    "vehicleId" : 42,
+    "parkingSpaceId" : 410
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:18",
+    "endTime" : "",
+    "vehicleId" : 43,
+    "parkingSpaceId" : 756
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:10",
+    "endTime" : "",
+    "vehicleId" : 44,
+    "parkingSpaceId" : 255
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:24",
+    "endTime" : "",
+    "vehicleId" : 45,
+    "parkingSpaceId" : 933
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T04:13",
+    "endTime" : "",
+    "vehicleId" : 46,
+    "parkingSpaceId" : 54
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:57",
+    "endTime" : "",
+    "vehicleId" : 47,
+    "parkingSpaceId" : 22
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T21:02",
+    "endTime" : "",
+    "vehicleId" : 48,
+    "parkingSpaceId" : 924
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T06:52",
+    "endTime" : "",
+    "vehicleId" : 49,
+    "parkingSpaceId" : 843
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T02:54",
+    "endTime" : "",
+    "vehicleId" : 50,
+    "parkingSpaceId" : 190
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T08:08",
+    "endTime" : "",
+    "vehicleId" : 51,
+    "parkingSpaceId" : 73
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T00:14",
+    "endTime" : "",
+    "vehicleId" : 52,
+    "parkingSpaceId" : 860
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T04:47",
+    "endTime" : "",
+    "vehicleId" : 53,
+    "parkingSpaceId" : 218
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:10",
+    "endTime" : "",
+    "vehicleId" : 54,
+    "parkingSpaceId" : 858
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T03:54",
+    "endTime" : "",
+    "vehicleId" : 55,
+    "parkingSpaceId" : 563
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T13:42",
+    "endTime" : "",
+    "vehicleId" : 56,
+    "parkingSpaceId" : 371
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:52",
+    "endTime" : "",
+    "vehicleId" : 57,
+    "parkingSpaceId" : 626
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T15:01",
+    "endTime" : "",
+    "vehicleId" : 58,
+    "parkingSpaceId" : 122
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:58",
+    "endTime" : "",
+    "vehicleId" : 59,
+    "parkingSpaceId" : 151
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T03:33",
+    "endTime" : "",
+    "vehicleId" : 60,
+    "parkingSpaceId" : 711
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:21",
+    "endTime" : "",
+    "vehicleId" : 61,
+    "parkingSpaceId" : 885
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T04:22",
+    "endTime" : "",
+    "vehicleId" : 62,
+    "parkingSpaceId" : 947
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:32",
+    "endTime" : "",
+    "vehicleId" : 63,
+    "parkingSpaceId" : 381
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T04:57",
+    "endTime" : "",
+    "vehicleId" : 64,
+    "parkingSpaceId" : 144
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T20:14",
+    "endTime" : "",
+    "vehicleId" : 65,
+    "parkingSpaceId" : 400
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:12",
+    "endTime" : "",
+    "vehicleId" : 66,
+    "parkingSpaceId" : 375
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:19",
+    "endTime" : "",
+    "vehicleId" : 67,
+    "parkingSpaceId" : 167
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T15:29",
+    "endTime" : "",
+    "vehicleId" : 68,
+    "parkingSpaceId" : 71
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:05",
+    "endTime" : "",
+    "vehicleId" : 69,
+    "parkingSpaceId" : 929
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T06:22",
+    "endTime" : "",
+    "vehicleId" : 70,
+    "parkingSpaceId" : 471
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T09:16",
+    "endTime" : "",
+    "vehicleId" : 71,
+    "parkingSpaceId" : 224
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:08",
+    "endTime" : "",
+    "vehicleId" : 72,
+    "parkingSpaceId" : 112
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T09:10",
+    "endTime" : "",
+    "vehicleId" : 73,
+    "parkingSpaceId" : 952
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:59",
+    "endTime" : "",
+    "vehicleId" : 74,
+    "parkingSpaceId" : 946
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T06:08",
+    "endTime" : "",
+    "vehicleId" : 75,
+    "parkingSpaceId" : 533
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:14",
+    "endTime" : "",
+    "vehicleId" : 76,
+    "parkingSpaceId" : 378
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:01",
+    "endTime" : "",
+    "vehicleId" : 77,
+    "parkingSpaceId" : 248
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T02:20",
+    "endTime" : "",
+    "vehicleId" : 78,
+    "parkingSpaceId" : 140
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:12",
+    "endTime" : "",
+    "vehicleId" : 79,
+    "parkingSpaceId" : 909
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T03:08",
+    "endTime" : "",
+    "vehicleId" : 80,
+    "parkingSpaceId" : 995
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T05:14",
+    "endTime" : "",
+    "vehicleId" : 81,
+    "parkingSpaceId" : 596
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:18",
+    "endTime" : "",
+    "vehicleId" : 82,
+    "parkingSpaceId" : 339
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T04:52",
+    "endTime" : "",
+    "vehicleId" : 83,
+    "parkingSpaceId" : 238
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T00:11",
+    "endTime" : "",
+    "vehicleId" : 84,
+    "parkingSpaceId" : 436
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T19:45",
+    "endTime" : "",
+    "vehicleId" : 85,
+    "parkingSpaceId" : 274
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T20:53",
+    "endTime" : "",
+    "vehicleId" : 86,
+    "parkingSpaceId" : 512
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T02:01",
+    "endTime" : "",
+    "vehicleId" : 87,
+    "parkingSpaceId" : 350
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T09:55",
+    "endTime" : "",
+    "vehicleId" : 88,
+    "parkingSpaceId" : 336
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:11",
+    "endTime" : "",
+    "vehicleId" : 89,
+    "parkingSpaceId" : 502
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T08:08",
+    "endTime" : "",
+    "vehicleId" : 90,
+    "parkingSpaceId" : 803
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T23:55",
+    "endTime" : "",
+    "vehicleId" : 91,
+    "parkingSpaceId" : 314
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:01",
+    "endTime" : "",
+    "vehicleId" : 92,
+    "parkingSpaceId" : 505
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T20:04",
+    "endTime" : "",
+    "vehicleId" : 93,
+    "parkingSpaceId" : 111
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:18",
+    "endTime" : "",
+    "vehicleId" : 94,
+    "parkingSpaceId" : 402
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T03:35",
+    "endTime" : "",
+    "vehicleId" : 95,
+    "parkingSpaceId" : 745
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-15T19:52",
+    "endTime" : "",
+    "vehicleId" : 96,
+    "parkingSpaceId" : 252
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T11:11",
+    "endTime" : "",
+    "vehicleId" : 97,
+    "parkingSpaceId" : 43
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T07:27",
+    "endTime" : "",
+    "vehicleId" : 98,
+    "parkingSpaceId" : 416
+  }, {
+    "closed" : false,
+    "startTime" : "2023-10-16T10:21",
+    "endTime" : "",
+    "vehicleId" : 99,
+    "parkingSpaceId" : 349
+  } ]
+}

@@ -1,0 +1,6002 @@
+[
+  {
+    "parkingSpaceNumber": "0",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "1",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1164",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "2",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "811",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "3",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "616",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "4",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "5",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "6",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1261",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "7",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "8",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "578",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "9",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "10",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "768",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "11",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1374",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "12",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "371",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "13",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "254",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "14",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "679",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "15",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "636",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "16",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "101",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "17",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "618",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "18",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "2",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "19",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1070",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "20",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1391",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "21",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1006",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "22",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "23",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "893",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "24",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "25",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1071",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "26",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "230",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "27",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "952",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "28",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "613",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "29",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "460",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "30",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "69",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "31",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1363",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "32",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "636",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "33",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "238",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "34",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1071",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "35",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1392",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "36",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "107",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "37",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "570",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "38",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1080",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "39",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "624",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "40",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "578",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "41",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1363",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "42",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "43",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "654",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "44",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "45",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "906",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "46",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "271",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "47",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1413",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "48",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "255",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "49",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "500",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "50",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "51",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1391",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "52",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "226",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "53",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "990",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "54",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "636",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "55",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "56",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1063",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "57",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "904",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "58",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "59",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "38",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "60",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "61",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "62",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "787",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "63",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "436",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "64",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "14",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "65",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "577",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "66",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "112",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "67",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "807",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "68",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "586",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "69",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "70",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "416",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "71",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1270",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "72",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "990",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "73",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "280",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "74",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "882",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "75",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "456",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "76",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "37",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "77",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1270",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "78",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1281",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "79",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "80",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "798",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "81",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1006",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "82",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "83",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "84",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "971",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "85",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "86",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1281",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "87",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1281",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "88",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "89",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "84",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "90",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "500",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "91",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "704",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "92",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "93",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "654",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "94",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "95",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "972",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "96",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "97",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "234",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "98",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1350",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "99",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "577",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "100",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "107",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "101",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "602",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "102",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "482",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "103",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1203",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "104",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "489",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "105",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "508",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "106",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "821",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "107",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "108",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "979",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "109",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "27",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "110",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1400",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "111",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "112",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1360",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "113",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "606",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "114",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "416",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "115",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "265",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "116",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "238",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "117",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "416",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "118",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "684",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "119",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "120",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "912",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "121",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "157",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "122",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "123",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1159",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "124",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "125",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1312",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "126",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1396",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "127",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "234",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "128",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "990",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "129",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1350",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "130",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "205",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "131",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "132",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "133",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "134",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "234",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "135",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "136",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "500",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "137",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "138",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1298",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "139",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "140",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1008",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "141",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1077",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "142",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "2",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "143",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "76",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "144",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "616",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "145",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "768",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "146",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "480",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "147",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1374",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "148",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "482",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "149",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "150",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "979",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "151",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "371",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "152",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "153",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "508",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "154",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "155",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "354",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "156",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1311",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "157",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "6",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "158",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "159",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "761",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "160",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "906",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "161",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "570",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "162",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "1352",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "163",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1396",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "164",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1270",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "165",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "981",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "166",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "136",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "167",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "7",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "168",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1214",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "169",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "157",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "170",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "906",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "171",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "172",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1360",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "173",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "515",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "174",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "821",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "175",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "997",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "176",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "818",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "177",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "178",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1261",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "179",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "255",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "180",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "562",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "181",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "238",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "182",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1203",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "183",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "684",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "184",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "226",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "185",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1420",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "186",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1164",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "187",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "93",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "188",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "189",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "578",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "190",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "833",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "191",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1018",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "192",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "655",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "193",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "234",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "194",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "107",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "195",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1091",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "196",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "350",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "197",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "347",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "198",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "199",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "205",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "200",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "254",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "201",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1115",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "202",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1374",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "203",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1008",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "204",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "205",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "206",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "917",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "207",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "112",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "208",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "321",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "209",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1011",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "210",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "821",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "211",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "972",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "212",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1319",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "213",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "214",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "684",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "215",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "833",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "216",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "370",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "217",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "910",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "218",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "873",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "219",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "354",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "220",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "221",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "222",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "223",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1006",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "224",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1091",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "225",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1241",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "226",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "227",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "228",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1311",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "229",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1156",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "230",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1200",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "231",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "498",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "232",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "233",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "234",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "385",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "235",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "515",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "236",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "957",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "237",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "971",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "238",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "490",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "239",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "766",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "240",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "245",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "241",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "242",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "243",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1015",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "244",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1136",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "245",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "917",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "246",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "255",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "247",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1018",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "248",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "249",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "291",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "250",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "251",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "233",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "252",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "984",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "253",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "434",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "254",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "984",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "255",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "46",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "256",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1391",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "257",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1281",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "258",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "768",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "259",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "906",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "260",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1363",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "261",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1203",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "262",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "515",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "263",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "205",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "264",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "265",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "342",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "266",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "811",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "267",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "268",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "613",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "269",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "331",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "270",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "370",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "271",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "280",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "272",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "476",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "273",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "952",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "274",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "1428",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "275",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "971",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "276",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "277",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "280",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "278",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "279",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1311",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "280",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1400",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "281",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "234",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "282",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1391",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "283",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "343",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "284",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "972",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "285",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1434",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "286",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1363",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "287",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "385",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "288",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "56",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "289",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "27",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "290",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "405",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "291",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "500",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "292",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "230",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "293",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "343",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "294",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "205",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "295",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1018",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "296",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "297",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "684",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "298",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "157",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "299",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "321",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "300",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "301",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "490",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "302",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "303",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "27",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "304",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "245",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "305",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "76",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "306",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "873",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "307",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1115",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "308",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "906",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "309",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "310",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1164",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "311",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "821",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "312",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "106",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "313",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "101",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "314",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "315",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "280",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "316",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "317",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1226",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "318",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "508",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "319",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "864",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "320",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "864",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "321",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "37",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "322",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "613",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "323",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "230",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "324",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1032",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "325",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "326",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "69",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "327",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "906",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "328",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "535",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "329",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "751",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "330",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "570",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "331",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1378",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "332",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "602",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "333",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "990",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "334",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "926",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "335",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "157",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "336",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "655",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "337",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "704",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "338",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "2",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "339",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "818",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "340",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1028",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "341",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "544",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "342",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "873",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "343",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "331",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "344",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "2",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "345",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "436",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "346",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "926",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "347",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1077",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "348",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "349",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "116",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "350",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1041",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "351",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1164",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "352",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "353",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "353",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1312",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "354",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1011",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "355",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "7",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "356",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "357",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "924",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "358",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "436",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "359",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "489",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "360",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1433",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "361",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1304",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "362",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1378",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "363",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "136",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "364",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "365",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "984",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "366",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1241",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "367",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "606",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "368",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "6",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "369",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "27",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "370",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "515",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "371",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "372",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "373",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1137",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "374",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "112",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "375",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "376",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "45",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "377",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "378",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "926",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "379",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1164",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "380",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1041",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "381",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "280",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "382",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "383",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "360",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "384",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1077",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "385",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1089",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "386",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "46",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "387",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "388",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "116",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "389",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1396",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "390",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "391",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "245",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "392",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "2",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "393",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "394",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "27",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "395",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1374",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "396",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1252",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "397",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "157",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "398",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1070",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "399",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1360",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "400",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1391",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "401",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "402",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "386",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "403",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "508",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "404",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "535",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "405",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "436",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "406",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "407",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "408",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "238",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "409",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1312",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "410",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1080",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "411",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "957",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "412",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "347",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "413",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1159",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "414",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "655",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "415",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1203",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "416",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "233",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "417",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "581",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "418",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "636",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "419",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "768",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "420",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "720",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "421",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1304",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "422",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "990",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "423",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "751",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "424",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1337",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "425",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "426",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1434",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "427",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "436",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "428",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "37",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "429",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "498",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "430",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "833",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "431",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1203",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "432",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1052",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "433",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "833",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "434",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1070",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "435",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "768",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "436",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "787",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "437",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1304",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "438",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "439",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "704",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "440",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "331",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "441",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "442",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "618",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "443",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "699",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "444",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "602",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "445",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "446",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "360",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "447",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "436",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "448",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "416",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "449",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "261",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "450",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "451",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "979",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "452",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "453",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "454",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "455",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "456",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "457",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "1428",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "458",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "459",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "460",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "343",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "461",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "882",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "462",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "280",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "463",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "1060",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "464",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "746",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "465",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "466",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1413",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "467",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "291",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "468",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1091",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "469",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "460",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "470",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "471",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1032",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "472",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "482",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "473",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "893",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "474",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "490",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "475",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "731",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "476",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "477",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "720",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "478",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "291",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "479",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "613",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "480",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1015",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "481",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1200",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "482",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "483",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "484",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "1352",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "485",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1374",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "486",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1203",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "487",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "981",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "488",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "230",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "489",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "490",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "577",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "491",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1203",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "492",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "535",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "493",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1337",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "494",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "495",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "979",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "496",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "497",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "720",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "498",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "386",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "499",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1080",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "500",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "350",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "501",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "502",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "46",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "503",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "504",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1270",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "505",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "506",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "720",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "507",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1413",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "508",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "616",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "509",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1115",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "510",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1311",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "511",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "512",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1226",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "513",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "514",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "811",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "515",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "924",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "516",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "517",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "518",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "519",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "981",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "520",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1298",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "521",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "833",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "522",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "578",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "523",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1077",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "524",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "787",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "525",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "526",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "984",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "527",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1261",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "528",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "984",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "529",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "530",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "106",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "531",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "532",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "27",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "533",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "393",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "534",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "602",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "535",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "46",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "536",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "537",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "353",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "538",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1391",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "539",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "798",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "540",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "720",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "541",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "37",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "542",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "768",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "543",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "731",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "544",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "720",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "545",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "546",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "547",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "405",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "548",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1252",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "549",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "238",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "550",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "821",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "551",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "106",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "552",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "553",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1374",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "554",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1304",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "555",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "385",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "556",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1378",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "557",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1392",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "558",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "559",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "50",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "560",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1298",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "561",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "562",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "544",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "563",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "564",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "565",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1214",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "566",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1077",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "567",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "616",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "568",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "456",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "569",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "7",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "570",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "360",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "571",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1433",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "572",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "416",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "573",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "106",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "574",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "386",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "575",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "708",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "576",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "990",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "577",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "792",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "578",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "579",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1378",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "580",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "581",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "798",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "582",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "798",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "583",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "280",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "584",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "291",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "585",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1203",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "586",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "116",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "587",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "50",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "588",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "578",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "589",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "590",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "7",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "591",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "592",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "416",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "593",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "864",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "594",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "746",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "595",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "638",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "596",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "434",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "597",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "112",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "598",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "616",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "599",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1304",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "600",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "893",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "601",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "839",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "602",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1136",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "603",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "604",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "912",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "605",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1080",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "606",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "708",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "607",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "787",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "608",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "76",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "609",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "238",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "610",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "611",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "612",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1063",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "613",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "602",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "614",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "93",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "615",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "393",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "616",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "720",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "617",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "112",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "618",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "619",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "866",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "620",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1420",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "621",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "622",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "623",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "50",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "624",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "972",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "625",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "107",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "626",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "37",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "627",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "636",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "628",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "893",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "629",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "904",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "630",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1076",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "631",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "746",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "632",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "807",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "633",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "460",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "634",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "893",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "635",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "222",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "636",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "1428",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "637",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "807",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "638",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "447",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "639",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "616",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "640",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "489",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "641",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "321",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "642",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "891",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "643",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1080",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "644",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "38",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "645",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "646",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "647",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "254",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "648",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1011",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "649",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1080",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "650",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "972",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "651",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "679",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "652",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "46",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "653",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "624",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "654",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "766",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "655",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "321",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "656",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "480",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "657",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "658",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1200",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "659",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "570",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "660",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1270",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "661",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "787",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "662",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "261",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "663",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "664",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "353",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "665",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "45",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "666",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "578",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "667",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "393",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "668",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1115",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "669",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "904",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "670",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "671",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "672",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "889",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "673",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "14",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "674",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1281",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "675",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "676",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1115",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "677",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1158",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "678",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "679",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1015",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "680",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "972",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "681",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "682",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1137",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "683",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "586",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "684",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1136",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "685",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "655",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "686",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "687",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1434",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "688",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "535",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "689",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "866",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "690",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "38",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "691",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "751",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "692",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "693",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1350",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "694",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "889",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "695",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1091",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "696",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "606",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "697",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "577",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "698",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "864",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "699",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "500",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "700",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1011",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "701",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "1428",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "702",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "703",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "233",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "704",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "562",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "705",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "544",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "706",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "579",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "707",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "6",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "708",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "205",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "709",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1008",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "710",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "616",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "711",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1374",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "712",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "489",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "713",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "112",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "714",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "821",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "715",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "971",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "716",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "981",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "717",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "1428",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "718",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1063",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "719",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "535",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "720",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "721",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "654",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "722",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "233",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "723",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "761",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "724",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "725",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "353",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "726",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "727",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "818",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "728",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1015",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "729",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "730",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "434",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "731",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "70",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "732",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "393",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "733",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1241",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "734",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "720",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "735",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "736",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1158",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "737",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "38",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "738",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "205",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "739",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1011",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "740",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "912",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "741",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "191",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "742",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "101",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "743",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1396",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "744",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "70",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "745",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "917",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "746",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "618",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "747",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "748",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "912",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "749",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1400",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "750",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "811",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "751",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1089",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "752",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "818",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "753",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "979",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "754",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1413",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "755",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "500",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "756",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "2",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "757",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "581",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "758",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "321",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "759",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "101",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "760",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "981",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "761",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "679",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "762",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "476",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "763",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "654",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "764",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "360",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "765",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "238",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "766",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1028",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "767",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "562",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "768",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "769",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "984",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "770",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1076",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "771",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1089",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "772",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "101",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "773",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "774",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1420",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "775",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "360",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "776",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "45",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "777",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "778",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1298",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "779",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "69",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "780",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "781",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "101",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "782",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "906",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "783",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "679",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "784",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "785",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "488",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "786",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "787",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "45",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "788",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "291",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "789",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "70",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "790",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "990",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "791",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "613",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "792",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "821",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "793",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1311",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "794",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "76",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "795",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "971",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "796",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "797",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1200",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "798",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "84",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "799",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1015",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "800",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "205",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "801",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "112",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "802",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "93",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "803",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "354",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "804",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "245",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "805",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "234",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "806",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1337",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "807",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "792",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "808",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "535",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "809",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "171",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "810",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "2",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "811",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1289",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "812",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1281",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "813",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "814",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "775",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "815",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "638",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "816",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "926",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "817",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "581",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "818",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "636",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "819",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1137",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "820",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "353",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "821",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "766",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "822",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "704",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "823",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "904",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "824",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "480",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "825",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "38",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "826",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "265",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "827",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "990",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "828",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "581",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "829",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "839",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "830",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "515",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "831",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "343",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "832",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "889",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "833",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "624",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "834",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "46",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "835",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "1281",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "836",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "482",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "837",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1319",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "838",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "839",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "766",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "840",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "821",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "841",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1337",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "842",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "321",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "843",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "844",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "845",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1337",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "846",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "261",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "847",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "152",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "848",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1011",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "849",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "850",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1327",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "851",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "136",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "852",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "853",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "854",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "353",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "855",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "624",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "856",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "1374",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "857",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "957",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "858",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "331",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "859",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "910",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "860",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1312",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "861",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "972",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "862",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "371",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "863",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "864",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "544",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "865",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "254",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "866",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "69",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "867",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "868",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "14",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "869",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "870",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1319",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "871",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "864",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "872",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "562",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "873",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1226",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "874",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "70",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "875",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "234",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "876",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "751",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "877",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "50",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "878",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "879",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "880",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "365",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "881",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "280",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "882",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "489",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "883",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1433",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "884",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1063",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "885",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "112",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "886",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "887",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1077",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "888",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "50",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "889",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "781",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "890",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "581",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "891",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "38",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "892",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "768",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "893",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1312",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "894",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "460",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "895",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "405",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "896",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "46",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "897",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "766",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "898",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "45",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "899",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "480",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "900",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "489",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "901",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "101",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "902",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1008",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "903",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "818",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "904",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "905",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "906",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1032",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "907",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1392",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "908",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "27",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "909",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1337",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "910",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "45",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "911",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "904",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "912",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "708",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "913",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "975",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "914",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1337",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "915",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "638",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "916",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "917",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1392",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "918",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "919",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "76",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "920",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "205",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "921",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "456",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "922",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1433",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "923",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "613",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "924",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1159",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "925",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "926",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "69",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "927",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "347",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "928",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "929",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "79",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "930",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "931",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "261",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "932",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "578",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "933",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "508",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "934",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "912",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "935",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "704",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "936",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "291",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "937",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1337",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "938",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "1164",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "939",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "940",
+    "hourlyRate": "11",
+    "maxParkingMinutes": "807",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "941",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "889",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "942",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "70",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "943",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1319",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "944",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "261",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "945",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "926",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "946",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "947",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "434",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "948",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "949",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "342",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "950",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1071",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "951",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "866",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "952",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "498",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "953",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "535",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "954",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "602",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "955",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "956",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1023",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "957",
+    "hourlyRate": "13",
+    "maxParkingMinutes": "1060",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "958",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "244",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "959",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1296",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "960",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "699",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "961",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "627",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "962",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "404",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "963",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "385",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "964",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1311",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "965",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1091",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "966",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "864",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "967",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "968",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "14",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "969",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "508",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "970",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "882",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "971",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1008",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "972",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1252",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "973",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "792",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "974",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "1063",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "975",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "1319",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "976",
+    "hourlyRate": "12",
+    "maxParkingMinutes": "436",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "977",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "746",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "978",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "136",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "979",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1077",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "980",
+    "hourlyRate": "9",
+    "maxParkingMinutes": "1396",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "981",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "370",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "982",
+    "hourlyRate": "4",
+    "maxParkingMinutes": "1323",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "983",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1226",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "984",
+    "hourlyRate": "3",
+    "maxParkingMinutes": "1397",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "985",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "986",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "917",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "987",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "1077",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "988",
+    "hourlyRate": "14",
+    "maxParkingMinutes": "1262",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "989",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "371",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "990",
+    "hourlyRate": "10",
+    "maxParkingMinutes": "1127",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "991",
+    "hourlyRate": "15",
+    "maxParkingMinutes": "731",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "992",
+    "hourlyRate": "1",
+    "maxParkingMinutes": "1313",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "993",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "904",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "994",
+    "hourlyRate": "6",
+    "maxParkingMinutes": "1392",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "995",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "498",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "996",
+    "hourlyRate": "2",
+    "maxParkingMinutes": "956",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "997",
+    "hourlyRate": "5",
+    "maxParkingMinutes": "476",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "998",
+    "hourlyRate": "7",
+    "maxParkingMinutes": "331",
+    "parkingEvents": []
+  },
+  {
+    "parkingSpaceNumber": "999",
+    "hourlyRate": "8",
+    "maxParkingMinutes": "411",
+    "parkingEvents": []
+  }
+]
